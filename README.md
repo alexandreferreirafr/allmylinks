@@ -15,6 +15,8 @@ A place where I share all my links
 
 [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 
+[Optimizing React performance without refs and memo](https://alexsidorenko.com/blog/react-optimize-rerenders-without-refs-memo/)
+
 [The mystery of React Element, children, parents and re-renders](https://www.developerway.com/posts/react-elements-children-parents)
 
 [React components - when do children re-render?](https://whereisthemouse.com/react-components-when-do-children-re-render)
