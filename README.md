@@ -51,6 +51,8 @@ A place where I share all my links
 
 [Improving readability with React Wrap Balancer](https://vercel.com/blog/react-wrap-balancer)
 
+[Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
+
 
 ## Performance
 
