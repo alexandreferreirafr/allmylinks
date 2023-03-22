@@ -29,6 +29,8 @@ A place where I share all my links
 
 [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 
+[Timeline of a React Component With Hooks](https://julesblom.com/writing/react-hook-component-timeline)
+
 [Optimizing React performance without refs and memo](https://alexsidorenko.com/blog/react-optimize-rerenders-without-refs-memo/)
 
 [Prop drilling and component composition in React](https://alexsidorenko.com/blog/react-prop-drilling-composition/)
