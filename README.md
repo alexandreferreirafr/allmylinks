@@ -23,6 +23,8 @@ A place where I share all my links
 
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
+[Pagination and infinite scroll with React Query v3](https://blog.logrocket.com/pagination-infinite-scroll-react-query-v3/)
+
 ### Forms
 
 [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
