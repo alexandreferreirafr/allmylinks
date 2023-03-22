@@ -43,6 +43,8 @@ A place where I share all my links
 
 [React components - when do children re-render?](https://whereisthemouse.com/react-components-when-do-children-re-render)
 
+[The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react/)
+
 ### Error Handling
 
 [NextJS — Handling Client-Side Errors on Server-Side Pages](https://medium.com/@analuizacicconi/nextjs-handling-client-side-errors-on-server-side-pages-32b7a1d2242e)
