@@ -35,6 +35,8 @@ A place where I share all my links
 
 [React recursively re-renders child components, but there is a nuance](https://alexsidorenko.com/blog/react-render-children-prop/)
 
+[The Children Prop Pattern in React](https://www.craftvalue.io/blog/react-children-prop-pattern)
+
 [The mystery of React Element, children, parents and re-renders](https://www.developerway.com/posts/react-elements-children-parents)
 
 [React components - when do children re-render?](https://whereisthemouse.com/react-components-when-do-children-re-render)
