@@ -11,6 +11,10 @@ A place where I share all my links
 
 [https://www.robinwieruch.de/react-hooks-fetch-data/](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
+### Forms
+
+[Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
+
 ### Performance
 
 [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
