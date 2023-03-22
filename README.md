@@ -17,6 +17,8 @@ A place where I share all my links
 
 [Optimizing React performance without refs and memo](https://alexsidorenko.com/blog/react-optimize-rerenders-without-refs-memo/)
 
+[Prop drilling and component composition in React](https://alexsidorenko.com/blog/react-prop-drilling-composition/)
+
 [The mystery of React Element, children, parents and re-renders](https://www.developerway.com/posts/react-elements-children-parents)
 
 [React components - when do children re-render?](https://whereisthemouse.com/react-components-when-do-children-re-render)
