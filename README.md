@@ -65,6 +65,8 @@ A place where I share all my links
 
 [The Orton Effect - dreamy photo effect in CSS and React](https://mikebifulco.com/posts/orton-effect-css-react)
 
+[How to debounce and throttle in React without losing your mind](https://www.developerway.com/posts/debouncing-in-react)
+
 
 ## Performance
 
