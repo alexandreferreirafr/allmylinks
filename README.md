@@ -3,6 +3,10 @@ A place where I share all my links
 
 ## React
 
+### Fetching
+
+[https://www.robinwieruch.de/react-hooks-fetch-data/](https://www.robinwieruch.de/react-hooks-fetch-data/)
+
 ### Performance
 
 [React components - when do children re-render?](https://whereisthemouse.com/react-components-when-do-children-re-render)
