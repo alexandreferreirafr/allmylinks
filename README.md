@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Avoiding useEffect with callback refs](https://tkdodo.eu/blog/avoiding-use-effect-with-callback-refs)
+
 [useSyncExternalStore First Look](https://julesblom.com/writing/usesyncexternalstore)
 
 ### State Management
