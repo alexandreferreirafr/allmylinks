@@ -3,6 +3,10 @@ A place where I share all my links
 
 ## React
 
+### Hooks
+
+[useSyncExternalStore First Look](https://julesblom.com/writing/usesyncexternalstore)
+
 ### Fetching
 
 [https://www.robinwieruch.de/react-hooks-fetch-data/](https://www.robinwieruch.de/react-hooks-fetch-data/)
