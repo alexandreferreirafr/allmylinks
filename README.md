@@ -7,6 +7,10 @@ A place where I share all my links
 
 [useSyncExternalStore First Look](https://julesblom.com/writing/usesyncexternalstore)
 
+### State Management
+
+[A Cure for React useState Hell?](https://www.builder.io/blog/use-reducer)
+
 ### Fetching
 
 [https://www.robinwieruch.de/react-hooks-fetch-data/](https://www.robinwieruch.de/react-hooks-fetch-data/)
