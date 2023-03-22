@@ -59,6 +59,8 @@ A place where I share all my links
 
 [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
 
+[The Orton Effect - dreamy photo effect in CSS and React](https://mikebifulco.com/posts/orton-effect-css-react)
+
 
 ## Performance
 
