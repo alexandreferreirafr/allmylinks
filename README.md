@@ -45,6 +45,10 @@ A place where I share all my links
 
 [Using React Testing Library](https://develop.sentry.dev/frontend/using-rtl/)
 
+### General
+
+[Improving readability with React Wrap Balancer](https://vercel.com/blog/react-wrap-balancer)
+
 
 ## Performance
 
