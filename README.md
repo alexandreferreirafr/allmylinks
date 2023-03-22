@@ -13,6 +13,8 @@ A place where I share all my links
 
 ### Performance
 
+[Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+
 [React components - when do children re-render?](https://whereisthemouse.com/react-components-when-do-children-re-render)
 
 ### Error Handling
