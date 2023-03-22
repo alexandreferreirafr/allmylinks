@@ -13,7 +13,7 @@ A place where I share all my links
 
 ### Fetching
 
-[https://www.robinwieruch.de/react-hooks-fetch-data/](https://www.robinwieruch.de/react-hooks-fetch-data/)
+[How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 ### Forms
 
