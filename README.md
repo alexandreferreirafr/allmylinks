@@ -17,6 +17,8 @@ A place where I share all my links
 
 [A Cure for React useState Hell?](https://www.builder.io/blog/use-reducer)
 
+[Making React fast by default and truly reactive](https://legendapp.com/open-source/legend-state/)
+
 ### Fetching
 
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
