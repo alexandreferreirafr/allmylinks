@@ -13,6 +13,8 @@ A place where I share all my links
 
 ### State Management
 
+[useGlobalState()](https://yoavik.com/snippets/use-global-state)
+
 [A Cure for React useState Hell?](https://www.builder.io/blog/use-reducer)
 
 ### Fetching
