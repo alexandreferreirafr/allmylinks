@@ -7,6 +7,8 @@ A place where I share all my links
 
 [Avoiding useEffect with callback refs](https://tkdodo.eu/blog/avoiding-use-effect-with-callback-refs)
 
+[useAsyncEffect: The Missing React Hook](https://marmelab.com/blog/2023/01/11/use-async-effect-react.html)
+
 [useSyncExternalStore First Look](https://julesblom.com/writing/usesyncexternalstore)
 
 ### State Management
