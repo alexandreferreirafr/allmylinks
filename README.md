@@ -57,6 +57,10 @@ A place where I share all my links
 
 [Using React Testing Library](https://develop.sentry.dev/frontend/using-rtl/)
 
+### Starter Kits
+
+[How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
+
 ### General
 
 [Improving readability with React Wrap Balancer](https://vercel.com/blog/react-wrap-balancer)
