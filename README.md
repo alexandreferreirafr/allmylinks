@@ -75,6 +75,8 @@ A place where I share all my links
 
 [How to debounce and throttle in React without losing your mind](https://www.developerway.com/posts/debouncing-in-react)
 
+[Map of React API](https://julesblom.com/writing/map-of-react-api)
+
 
 ## Performance
 
