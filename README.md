@@ -29,6 +29,10 @@ A place where I share all my links
 
 [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
 
+### i18n
+
+[Internationalization In Next.js 13 With React Server Components](https://www.smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/)
+
 ### Performance
 
 [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
