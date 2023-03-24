@@ -11,6 +11,8 @@ A place where I share all my links
 
 [useSyncExternalStore First Look](https://julesblom.com/writing/usesyncexternalstore)
 
+[Hooks You Probably Don't Need](https://reacttraining.com/blog/hooks-you-probably-dont-need)
+
 ### State Management
 
 [useGlobalState()](https://yoavik.com/snippets/use-global-state)
