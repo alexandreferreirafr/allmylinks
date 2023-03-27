@@ -23,6 +23,8 @@ A place where I share all my links
 
 🎥 [Is Redux still relevant in 2023?](https://www.youtube.com/watch?v=czptRA4IeCc)
 
+🎥 [State Management for NextJS 13 Server and Client Components](https://www.youtube.com/watch?v=dRLjoT4r-jc&t=8s)
+
 ### Fetching
 
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
