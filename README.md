@@ -21,6 +21,8 @@ A place where I share all my links
 
 [Making React fast by default and truly reactive](https://legendapp.com/open-source/legend-state/)
 
+🎥 [Is Redux still relevant in 2023?](https://www.youtube.com/watch?v=czptRA4IeCc)
+
 ### Fetching
 
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
