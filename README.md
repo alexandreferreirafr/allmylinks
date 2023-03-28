@@ -59,6 +59,8 @@ A place where I share all my links
 
 [The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react/)
 
+🎥 [React without memo - React Forget](https://www.youtube.com/watch?v=lGEMwh32soc)
+
 ### Error Handling
 
 [NextJS — Handling Client-Side Errors on Server-Side Pages](https://medium.com/@analuizacicconi/nextjs-handling-client-side-errors-on-server-side-pages-32b7a1d2242e)
