@@ -109,3 +109,7 @@ A place where I share all my links
 ## CSS
 
 [6 CSS snippets every front-end developer should know in 2023](https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023)
+
+## Opnion
+
+[The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
