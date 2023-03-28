@@ -83,6 +83,8 @@ A place where I share all my links
 
 [Map of React API](https://julesblom.com/writing/map-of-react-api)
 
+[New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
+
 ## Astro
 
 [Reducing 97% of the Open UI site's JavaScript by migrating to Astro](https://blog.andri.co/023-migrating-open-ui-site-from-gatsby-to-astro/)
