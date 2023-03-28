@@ -83,6 +83,10 @@ A place where I share all my links
 
 [Map of React API](https://julesblom.com/writing/map-of-react-api)
 
+## Design Patterns
+
+[Writing Your Own Reactive Signal Library](https://www.lksh.dev/blog/writing-your-own-reactive-signal-library)
+
 
 ## Performance
 
