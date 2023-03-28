@@ -113,6 +113,10 @@ A place where I share all my links
 
 [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 
+## Microfrontends
+
+[Micro-frontend dev !](https://microfrontend.dev/)
+
 ## Deno
 
 [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
