@@ -98,6 +98,10 @@ A place where I share all my links
 
 [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 
+## Deno
+
+[Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
+
 ## CSS
 
 [6 CSS snippets every front-end developer should know in 2023](https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023)
