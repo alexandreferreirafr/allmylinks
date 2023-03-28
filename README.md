@@ -87,6 +87,7 @@ A place where I share all my links
 
 [Writing Your Own Reactive Signal Library](https://www.lksh.dev/blog/writing-your-own-reactive-signal-library)
 
+[Signals vs. Observables, what's all the fuss about?](https://www.builder.io/blog/signals-vs-observables)
 
 ## Performance
 
