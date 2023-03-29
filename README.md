@@ -111,11 +111,17 @@ A place where I share all my links
 
 [Le protocole HTTP/3 : nouveautés et changements par rapport à HTTP/1 et HTTP/2](https://www.fasterize.com/fr/protocole-http3-changements-http1-http2/) 🇫🇷
 
-## Monorepos
+## Architecture
+
+### Application Design
+
+[The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
+
+### Monorepos
 
 [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 
-## Microfrontends
+### Microfrontends
 
 [Micro-frontend dev !](https://microfrontend.dev/)
 
