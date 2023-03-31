@@ -71,6 +71,8 @@ A place where I share all my links
 
 [Using React Testing Library](https://develop.sentry.dev/frontend/using-rtl/)
 
+[Vitest is not ready to replace Jest (and may never be)](https://uglow.medium.com/vitest-is-not-ready-to-replace-jest-and-may-never-be-5ae264e0e24a)
+
 ### Starter Kits
 
 [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
