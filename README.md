@@ -59,6 +59,8 @@ A place where I share all my links
 
 [The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react/)
 
+[React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
+
 🎥 [React without memo - React Forget](https://www.youtube.com/watch?v=lGEMwh32soc)
 
 🎥 [Making React Context FAST!](https://www.youtube.com/watch?v=ZKlXqrcBx88)
