@@ -73,6 +73,8 @@ A place where I share all my links
 
 [Vitest is not ready to replace Jest (and may never be)](https://uglow.medium.com/vitest-is-not-ready-to-replace-jest-and-may-never-be-5ae264e0e24a)
 
+[Vitest is fast, jest is faster *](https://dev.to/neophen/vitest-is-fast-jest-is-faster--ln1)
+
 ### Starter Kits
 
 [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
