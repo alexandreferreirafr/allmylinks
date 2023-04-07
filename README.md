@@ -97,6 +97,10 @@ A place where I share all my links
 
 [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
 
+### Announcements
+
+[Remix without Limits](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support)
+
 ## Astro
 
 [Reducing 97% of the Open UI site's JavaScript by migrating to Astro](https://blog.andri.co/023-migrating-open-ui-site-from-gatsby-to-astro/)
