@@ -85,7 +85,7 @@ A place where I share all my links
 
 ### General
 
-[](https://www.robinwieruch.de/learning-react/)
+[Learning React from two Angles in 2023](https://www.robinwieruch.de/learning-react/)
 
 [Improving readability with React Wrap Balancer](https://vercel.com/blog/react-wrap-balancer)
 
