@@ -25,6 +25,10 @@ A place where I share all my links
 
 🎥 [State Management for NextJS 13 Server and Client Components](https://www.youtube.com/watch?v=dRLjoT4r-jc&t=8s)
 
+### Refs
+
+[Refs in React: from access to DOM to imperative API](https://www.developerway.com/posts/refs-from-dom-to-api)
+
 ### Fetching
 
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
