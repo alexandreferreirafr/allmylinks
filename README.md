@@ -29,6 +29,8 @@ A place where I share all my links
 
 [Refs in React: from access to DOM to imperative API](https://www.developerway.com/posts/refs-from-dom-to-api)
 
+[A Visual Guide to React Rendering - Refs](https://alexsidorenko.com/blog/react-render-refs/)
+
 ### Fetching
 
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
