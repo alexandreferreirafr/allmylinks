@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[The useEffect cleanup and the two circumstances it's called](https://reacttraining.com/blog/useEffect-cleanup)
+
 [Avoiding useEffect with callback refs](https://tkdodo.eu/blog/avoiding-use-effect-with-callback-refs)
 
 [useAsyncEffect: The Missing React Hook](https://marmelab.com/blog/2023/01/11/use-async-effect-react.html)
