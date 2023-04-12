@@ -31,6 +31,10 @@ A place where I share all my links
 
 [A Visual Guide to React Rendering - Refs](https://alexsidorenko.com/blog/react-render-refs/)
 
+### Server Components
+
+🎥 [Secret React Server Component Patterns They Don't Want You To Know](https://www.youtube.com/watch?v=ciQdQkT0bZk)
+
 ### Fetching
 
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
