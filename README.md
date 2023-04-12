@@ -155,6 +155,8 @@ A place where I share all my links
 
 [Micro-frontend dev !](https://microfrontend.dev/)
 
+🎥 [Vite and Module Federation Makes Micro-Frontends EASY!](https://www.youtube.com/watch?v=t-nchkL9yIg)
+
 ## Deno
 
 [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
