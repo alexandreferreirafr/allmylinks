@@ -107,6 +107,8 @@ A place where I share all my links
 
 [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
 
+[isMounted tricks are code-smell](https://reacttraining.com/blog/isMounted-tricks-are-code-smell)
+
 ### Announcements
 
 [Remix without Limits](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support)
