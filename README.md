@@ -15,6 +15,8 @@ A place where I share all my links
 
 [Hooks You Probably Don't Need](https://reacttraining.com/blog/hooks-you-probably-dont-need)
 
+[isMounted tricks are code-smell](https://reacttraining.com/blog/isMounted-tricks-are-code-smell)
+
 ### State Management
 
 [useGlobalState()](https://yoavik.com/snippets/use-global-state)
@@ -115,7 +117,7 @@ A place where I share all my links
 
 [New React docs pretend SPAs don't exist anymore](https://wasp-lang.dev/blog/2023/03/17/new-react-docs-pretend-spas-dont-exist)
 
-[isMounted tricks are code-smell](https://reacttraining.com/blog/isMounted-tricks-are-code-smell)
+[How Will the Future of Web Development Be Affected by Influential New React Docs?](https://luketheweb.dev/blog/how-will-the-future-of-web-development-be-affected-by-influential-new-react-docs)
 
 ### Announcements
 
