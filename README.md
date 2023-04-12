@@ -67,6 +67,8 @@ A place where I share all my links
 
 [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
 
+[Setting State On An Unmounted Component](https://reacttraining.com/blog/setting-state-on-unmounted-component)
+
 🎥 [React without memo - React Forget](https://www.youtube.com/watch?v=lGEMwh32soc)
 
 🎥 [Making React Context FAST!](https://www.youtube.com/watch?v=ZKlXqrcBx88)
