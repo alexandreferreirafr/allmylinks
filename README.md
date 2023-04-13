@@ -53,6 +53,10 @@ A place where I share all my links
 
 [Internationalization In Next.js 13 With React Server Components](https://www.smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/)
 
+### Animation
+
+[Animated page transitions with Remix's nested routes](https://www.jacobparis.com/guides/remix-animated-page-transitions)
+
 ### Performance
 
 [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
