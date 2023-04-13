@@ -77,6 +77,8 @@ A place where I share all my links
 
 [Setting State On An Unmounted Component](https://reacttraining.com/blog/setting-state-on-unmounted-component)
 
+[Custom fonts without compromise using Next.js and `next/font`](https://vercel.com/blog/nextjs-next-font)
+
 🎥 [React without memo - React Forget](https://www.youtube.com/watch?v=lGEMwh32soc)
 
 🎥 [Making React Context FAST!](https://www.youtube.com/watch?v=ZKlXqrcBx88)
