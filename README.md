@@ -105,6 +105,10 @@ A place where I share all my links
 
 [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
 
+### Design Systems
+
+[The future of Chakra UI](https://www.adebayosegun.com/blog/the-future-of-chakra-ui)
+
 ### General
 
 [MDX integration strategies for Next.js](https://blog.logrocket.com/mdx-integration-strategies-next-js/)
