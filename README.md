@@ -109,6 +109,8 @@ A place where I share all my links
 
 [The future of Chakra UI](https://www.adebayosegun.com/blog/the-future-of-chakra-ui)
 
+[Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems.html)
+
 ### General
 
 [MDX integration strategies for Next.js](https://blog.logrocket.com/mdx-integration-strategies-next-js/)
