@@ -107,6 +107,8 @@ A place where I share all my links
 
 ### General
 
+[MDX integration strategies for Next.js](https://blog.logrocket.com/mdx-integration-strategies-next-js/)
+
 [Rethinking React best practices](https://frontendmastery.com/posts/rethinking-react-best-practices/)
 
 [Learning React from two Angles in 2023](https://www.robinwieruch.de/learning-react/)
