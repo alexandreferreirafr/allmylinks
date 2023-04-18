@@ -186,3 +186,7 @@ A place where I share all my links
 ## Opnion
 
 [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
+
+## Browsers API
+
+[JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
