@@ -113,6 +113,8 @@ A place where I share all my links
 
 ### General
 
+[On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
+
 [Generate open graph social preview images with Remix](https://www.jacobparis.com/guides/remix-og)
 
 [Framework popularity on Netlify](https://www.netlify.com/blog/framework-popularity-on-netlify/)
