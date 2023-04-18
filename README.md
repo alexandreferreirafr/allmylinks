@@ -113,6 +113,8 @@ A place where I share all my links
 
 ### General
 
+[Framework popularity on Netlify](https://www.netlify.com/blog/framework-popularity-on-netlify/)
+
 [Server-side render dates across timezones with Remix](https://www.jacobparis.com/guides/remix-ssr-dates)
 
 [MDX integration strategies for Next.js](https://blog.logrocket.com/mdx-integration-strategies-next-js/)
