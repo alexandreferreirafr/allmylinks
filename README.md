@@ -19,6 +19,8 @@ A place where I share all my links
 
 ### State Management
 
+[The Most Common Mistakes When Using React](https://claritydev.net/blog/the-most-common-mistakes-when-using-react)
+
 [useGlobalState()](https://yoavik.com/snippets/use-global-state)
 
 [A Cure for React useState Hell?](https://www.builder.io/blog/use-reducer)
