@@ -113,6 +113,8 @@ A place where I share all my links
 
 ### General
 
+[Generate open graph social preview images with Remix](https://www.jacobparis.com/guides/remix-og)
+
 [Framework popularity on Netlify](https://www.netlify.com/blog/framework-popularity-on-netlify/)
 
 [Server-side render dates across timezones with Remix](https://www.jacobparis.com/guides/remix-ssr-dates)
