@@ -113,6 +113,8 @@ A place where I share all my links
 
 ### General
 
+[Server-side render dates across timezones with Remix](https://www.jacobparis.com/guides/remix-ssr-dates)
+
 [MDX integration strategies for Next.js](https://blog.logrocket.com/mdx-integration-strategies-next-js/)
 
 [Rethinking React best practices](https://frontendmastery.com/posts/rethinking-react-best-practices/)
