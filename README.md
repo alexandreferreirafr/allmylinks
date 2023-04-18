@@ -183,10 +183,14 @@ A place where I share all my links
 
 [Announcing Rspack](https://www.rspack.dev/blog/announcement.html)
 
-## Opnion
-
-[The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
-
 ## Browsers API
 
 [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
+
+## Typing
+
+[Types in JavaScript With Zod and JSDoc](https://blog.jim-nielsen.com/2023/types-in-jsdoc-with-zod)
+
+## Opnion
+
+[The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
