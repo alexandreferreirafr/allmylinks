@@ -123,6 +123,8 @@ A place where I share all my links
 
 ### General
 
+[An Animated Guide to Reacts Optional Parameters](https://julesblom.com/writing/react-optional-parameters)
+
 [How to Use Next.js Image Component in Markdown](https://www.codeconcisely.com/posts/nextjs-image-in-markdown/)
 
 [On Endings: Why & How We Retired Elm at Culture Amp](https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/)
