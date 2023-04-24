@@ -35,6 +35,8 @@ A place where I share all my links
 
 ### Refs
 
+[React forwardRef(): How to Pass Refs to Child Components](https://dmitripavlutin.com/react-forwardref/)
+
 [Refs in React: from access to DOM to imperative API](https://www.developerway.com/posts/refs-from-dom-to-api)
 
 [A Visual Guide to React Rendering - Refs](https://alexsidorenko.com/blog/react-render-refs/)
