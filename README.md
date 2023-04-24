@@ -107,6 +107,10 @@ A place where I share all my links
 
 [Vitest is fast, jest is faster *](https://dev.to/neophen/vitest-is-fast-jest-is-faster--ln1)
 
+### Typing
+
+[TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
+
 ### Starter Kits
 
 [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
