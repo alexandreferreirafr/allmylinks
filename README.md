@@ -125,6 +125,8 @@ A place where I share all my links
 
 ### General
 
+[next over remix](https://bradgarropy.com/blog/next-over-remix)
+
 [An Animated Guide to Reacts Optional Parameters](https://julesblom.com/writing/react-optional-parameters)
 
 [How to Use Next.js Image Component in Markdown](https://www.codeconcisely.com/posts/nextjs-image-in-markdown/)
