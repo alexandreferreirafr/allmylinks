@@ -59,6 +59,8 @@ A place where I share all my links
 
 [Animated page transitions with Remix's nested routes](https://www.jacobparis.com/guides/remix-animated-page-transitions)
 
+[Animating View Transitions](https://www.patterns.dev/posts/view-transitions)
+
 ### Performance
 
 [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
