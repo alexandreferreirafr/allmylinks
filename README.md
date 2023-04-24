@@ -125,6 +125,8 @@ A place where I share all my links
 
 ### General
 
+[Building a blog with Next.js 13 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
+
 [next over remix](https://bradgarropy.com/blog/next-over-remix)
 
 [An Animated Guide to Reacts Optional Parameters](https://julesblom.com/writing/react-optional-parameters)
