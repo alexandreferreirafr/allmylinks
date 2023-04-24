@@ -17,6 +17,8 @@ A place where I share all my links
 
 [isMounted tricks are code-smell](https://reacttraining.com/blog/isMounted-tricks-are-code-smell)
 
+[Actionless and Stateless Reducers in React](https://julesblom.com/writing/actionless-and-stateless-reducers)
+
 ### State Management
 
 [The Most Common Mistakes When Using React](https://claritydev.net/blog/the-most-common-mistakes-when-using-react)
