@@ -127,6 +127,8 @@ A place where I share all my links
 
 ### General
 
+[Is React the New WordPress?](https://www.seancdavis.com/posts/is-react-the-new-wordpress)
+
 [Building a blog with Next.js 13 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
 
 [next over remix](https://bradgarropy.com/blog/next-over-remix)
