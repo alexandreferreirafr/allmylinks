@@ -129,6 +129,8 @@ A place where I share all my links
 
 ### General
 
+[Mastering React: Techniques to Take Your UI to the Next Level](https://blog.bitsrc.io/mastering-react-techniques-to-take-your-ui-to-the-next-level-a5002173904f)
+
 [Is React the New WordPress?](https://www.seancdavis.com/posts/is-react-the-new-wordpress)
 
 [Building a blog with Next.js 13 and React Server Components](https://maxleiter.com/blog/build-a-blog-with-nextjs-13)
