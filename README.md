@@ -171,6 +171,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
+
 [Remix without Limits](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support)
 
 ## Astro
