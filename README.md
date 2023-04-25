@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Breaking React Query's API on purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
+
 [The useEffect cleanup and the two circumstances it's called](https://reacttraining.com/blog/useEffect-cleanup)
 
 [Avoiding useEffect with callback refs](https://tkdodo.eu/blog/avoiding-use-effect-with-callback-refs)
