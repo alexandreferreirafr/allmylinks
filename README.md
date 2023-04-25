@@ -242,3 +242,7 @@ A place where I share all my links
 ## Opnion
 
 [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
+
+## General
+
+[Full-stack Web Apps Without React](https://remotesynthesis.com/blog/full-stack-without-react/)
