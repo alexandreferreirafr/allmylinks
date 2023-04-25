@@ -179,6 +179,10 @@ A place where I share all my links
 
 [Astro: How Good Is the New JavaScript Framework?](https://cult.honeypot.io/reads/astro-the-new-javascript-framework/)
 
+## Storybook
+
+[What's new in the new Storybook](https://www.mariasimo.codes/storybook-7-new-release)
+
 ## Design Patterns
 
 [Writing Your Own Reactive Signal Library](https://www.lksh.dev/blog/writing-your-own-reactive-signal-library)
