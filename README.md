@@ -23,6 +23,8 @@ A place where I share all my links
 
 ### State Management
 
+[Why You Don't Need Signals in React](https://blog.axlight.com/posts/why-you-dont-need-signals-in-react/)
+
 [The Most Common Mistakes When Using React](https://claritydev.net/blog/the-most-common-mistakes-when-using-react)
 
 [useGlobalState()](https://yoavik.com/snippets/use-global-state)
