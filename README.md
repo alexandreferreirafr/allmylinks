@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Say no to "flickering" UI: useLayoutEffect, painting and browsers story](https://www.developerway.com/posts/no-more-flickering-ui)
+
 [Breaking React Query's API on purpose](https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose)
 
 [The useEffect cleanup and the two circumstances it's called](https://reacttraining.com/blog/useEffect-cleanup)
