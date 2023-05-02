@@ -225,7 +225,7 @@ A place where I share all my links
 
 ### Cloud
 
-[https://www.jacobparis.com/guides/where-to-host-remix](https://www.jacobparis.com/guides/where-to-host-remix)
+[Where to host your Remix app in 2023](https://www.jacobparis.com/guides/where-to-host-remix)
 
 🎥 [Vite and Module Federation Makes Micro-Frontends EASY!](https://www.youtube.com/watch?v=t-nchkL9yIg)
 
