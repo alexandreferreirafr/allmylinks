@@ -263,6 +263,10 @@ A place where I share all my links
 
 [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
 
+## Progressive Web Apps
+
+[Badging for Home Screen Web Apps](https://webkit.org/blog/14112/badging-for-home-screen-web-apps/)
+
 ## Typing
 
 [Types in JavaScript With Zod and JSDoc](https://blog.jim-nielsen.com/2023/types-in-jsdoc-with-zod)
