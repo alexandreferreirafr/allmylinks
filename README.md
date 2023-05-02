@@ -49,6 +49,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Display a view counter on your blog with React Server Components](https://scastiel.dev/view-counter-react-server-components)
+
 [React and TypeScript Stopped Fighting???](https://www.youtube.com/watch?v=sr8bwLXDm3U)
 
 🎥 [Secret React Server Component Patterns They Don't Want You To Know](https://www.youtube.com/watch?v=ciQdQkT0bZk)
