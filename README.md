@@ -273,6 +273,8 @@ A place where I share all my links
 
 ## General
 
+[The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
+
 [What's new in ECMAScript 2023](https://pawelgrzybek.com/whats-new-in-ecmascript-2023/)
 
 [Full-stack Web Apps Without React](https://remotesynthesis.com/blog/full-stack-without-react/)
