@@ -223,6 +223,10 @@ A place where I share all my links
 
 [Micro-frontend dev !](https://microfrontend.dev/)
 
+### Cloud
+
+[https://www.jacobparis.com/guides/where-to-host-remix](https://www.jacobparis.com/guides/where-to-host-remix)
+
 🎥 [Vite and Module Federation Makes Micro-Frontends EASY!](https://www.youtube.com/watch?v=t-nchkL9yIg)
 
 ## Deno
