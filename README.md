@@ -247,6 +247,10 @@ A place where I share all my links
 
 [Atomic CSS-in-JS](https://sebastienlorber.com/atomic-css-in-js)
 
+## 3D
+
+[How we built the Storybook Day 3D animation](https://varun.ca/storybook-day/)
+
 ## Bundlers
 
 [Announcing Rspack](https://www.rspack.dev/blog/announcement.html)
