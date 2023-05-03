@@ -277,6 +277,8 @@ A place where I share all my links
 
 ## General
 
+[Picking the Right Tool for Maneuvering JavaScript's Event Loop](https://www.macarthur.me/posts/navigating-the-event-loop)
+
 [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
 
 [What's new in ECMAScript 2023](https://pawelgrzybek.com/whats-new-in-ecmascript-2023/)
