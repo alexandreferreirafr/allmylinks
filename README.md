@@ -183,6 +183,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Introducing storage on Vercel](https://vercel.com/blog/vercel-storage)
+
 [Announcing TypeScript 5.1 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-beta/)
 
 [Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
