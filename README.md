@@ -79,6 +79,8 @@ A place where I share all my links
 
 ### Performance
 
+[Virtual DOM: Back in Block](https://millionjs.org/blog/virtual-dom)
+
 [The Evolution of React Rendering Architectures & Web Performance](https://www.iamtk.co/the-evolution-of-react-rendering-architectures-and-web-performance)
 
 [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
