@@ -247,6 +247,8 @@ A place where I share all my links
 
 ## CSS
 
+[Scoped CSS is Back](https://keithjgrant.com/posts/2023/04/scoped-css-is-back/)
+
 [Panda CSS – CSS-in-JS without Runtime Overhead](https://infinum.com/blog/panda-css-css-in-js-without-runtime-overhead/)
 
 [Crafting the Next.js Website](https://rauno.me/craft/nextjs)
