@@ -79,6 +79,8 @@ A place where I share all my links
 
 ### Performance
 
+[The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
+
 [Virtual DOM: Back in Block](https://millionjs.org/blog/virtual-dom)
 
 [The Evolution of React Rendering Architectures & Web Performance](https://www.iamtk.co/the-evolution-of-react-rendering-architectures-and-web-performance)
