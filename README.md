@@ -49,6 +49,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Server Components vs. SSR in Next.js](https://www.webscope.io/blog/server-components-vs-ssr)
+
 [Display a view counter on your blog with React Server Components](https://scastiel.dev/view-counter-react-server-components)
 
 [React and TypeScript Stopped Fighting???](https://www.youtube.com/watch?v=sr8bwLXDm3U)
