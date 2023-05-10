@@ -227,6 +227,8 @@ A place where I share all my links
 
 ### Application Design
 
+[The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
+
 [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 
 ### Monorepos
