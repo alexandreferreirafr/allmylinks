@@ -141,6 +141,8 @@ A place where I share all my links
 
 ### Design Systems
 
+[Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
+
 [Building a Type-Safe Tailwind with vanilla-extract](https://www.highlight.io/blog/typesafe-tailwind)
 
 [The future of Chakra UI](https://www.adebayosegun.com/blog/the-future-of-chakra-ui)
