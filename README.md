@@ -141,6 +141,8 @@ A place where I share all my links
 
 ### Design Systems
 
+[Building a Type-Safe Tailwind with vanilla-extract](https://www.highlight.io/blog/typesafe-tailwind)
+
 [The future of Chakra UI](https://www.adebayosegun.com/blog/the-future-of-chakra-ui)
 
 [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems.html)
