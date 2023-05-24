@@ -83,6 +83,8 @@ A place where I share all my links
 
 ### Performance
 
+[Find and fix performance bottlenecks in your Remix app with Server Timing](https://www.jacobparis.com/content/remix-server-timing)
+
 [The Interactive Guide to Rendering in React](https://ui.dev/why-react-renders)
 
 [Virtual DOM: Back in Block](https://millionjs.org/blog/virtual-dom)
