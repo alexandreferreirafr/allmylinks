@@ -301,6 +301,8 @@ A place where I share all my links
 
 ## General
 
+[Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://www.macarthur.me/posts/maps-for-dom-nodes)
+
 [Picking the Right Tool for Maneuvering JavaScript's Event Loop](https://www.macarthur.me/posts/navigating-the-event-loop)
 
 [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
