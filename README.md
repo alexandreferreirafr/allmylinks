@@ -233,6 +233,10 @@ A place where I share all my links
 
 [Le protocole HTTP/3 : nouveautés et changements par rapport à HTTP/1 et HTTP/2](https://www.fasterize.com/fr/protocole-http3-changements-http1-http2/) 🇫🇷
 
+### General
+
+[Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop/)
+
 ## Architecture
 
 ### Application Design
