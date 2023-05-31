@@ -201,6 +201,8 @@ A place where I share all my links
 
 ### Announcements
 
+[React Canaries: Enabling Incremental Feature Rollout Outside Meta](https://react.dev/blog/2023/05/03/react-canaries)
+
 [Introducing storage on Vercel](https://vercel.com/blog/vercel-storage)
 
 [Announcing TypeScript 5.1 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-beta/)
