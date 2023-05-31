@@ -83,6 +83,8 @@ A place where I share all my links
 
 ### Performance
 
+[The Journey of the React Component](https://alexsidorenko.com/react-journey)
+
 [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
 
 [Find and fix performance bottlenecks in your Remix app with Server Timing](https://www.jacobparis.com/content/remix-server-timing)
