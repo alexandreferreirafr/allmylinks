@@ -51,6 +51,8 @@ A place where I share all my links
 
 ### Server Components
 
+[5 Lessons Learned From Taking Next.js App Router to Production](https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production)
+
 [React Server Components, Next.js App Router and examples](https://addyosmani.com/blog/react-server-components-app-router/)
 
 [Server Components vs. SSR in Next.js](https://www.webscope.io/blog/server-components-vs-ssr)
