@@ -253,6 +253,8 @@ A place where I share all my links
 
 ### Application Design
 
+[Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+
 [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 
 [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
