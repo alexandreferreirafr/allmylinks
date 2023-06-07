@@ -167,6 +167,8 @@ A place where I share all my links
 
 ### General
 
+🎥 [Always Bet On React](https://www.youtube.com/watch?v=TnyslkPfXaM)
+
 [My Struggle With Remix](https://redd.one/blog/my-struggle-with-remix)
 
 [Server-side rendering React in OCaml](https://sancho.dev/blog/server-side-rendering-react-in-ocaml)
