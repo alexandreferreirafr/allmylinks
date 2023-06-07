@@ -323,6 +323,8 @@ A place where I share all my links
 
 ## General
 
+[HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
+
 [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://www.macarthur.me/posts/maps-for-dom-nodes)
 
 [Picking the Right Tool for Maneuvering JavaScript's Event Loop](https://www.macarthur.me/posts/navigating-the-event-loop)
