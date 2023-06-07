@@ -167,6 +167,8 @@ A place where I share all my links
 
 ### General
 
+🎥 [I'm Done With React](https://www.youtube.com/watch?v=Zt8mO_Aqzw8)
+
 🎥 [Always Bet On React](https://www.youtube.com/watch?v=TnyslkPfXaM)
 
 [My Struggle With Remix](https://redd.one/blog/my-struggle-with-remix)
