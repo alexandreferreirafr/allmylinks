@@ -167,6 +167,8 @@ A place where I share all my links
 
 ### General
 
+[My Struggle With Remix](https://redd.one/blog/my-struggle-with-remix)
+
 [Server-side rendering React in OCaml](https://sancho.dev/blog/server-side-rendering-react-in-ocaml)
 
 [Mastering React: Techniques to Take Your UI to the Next Level](https://blog.bitsrc.io/mastering-react-techniques-to-take-your-ui-to-the-next-level-a5002173904f)
