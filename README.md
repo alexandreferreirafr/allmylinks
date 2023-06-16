@@ -321,6 +321,8 @@ A place where I share all my links
 
 ## Typing
 
+[Comparing schema validation libraries: Zod vs. Yup](https://blog.logrocket.com/comparing-schema-validation-libraries-zod-vs-yup/)
+
 [Favour TypeScript Types Over Interfaces](https://www.lloydatkinson.net/posts/2023/favour-typescript-types-over-interfaces/)
 
 [Types in JavaScript With Zod and JSDoc](https://blog.jim-nielsen.com/2023/types-in-jsdoc-with-zod)
