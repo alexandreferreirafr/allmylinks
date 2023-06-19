@@ -352,3 +352,7 @@ A place where I share all my links
 ### Diffusion Models
 
 [Diffusion Models: A Practical Guide](https://scale.com/guides/diffusion-models-guide)
+
+### Announcements
+
+[Introducing Vercel's AI Accelerator](https://vercel.com/blog/vercel-ai-accelerator)
