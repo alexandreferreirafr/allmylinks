@@ -161,6 +161,8 @@ A place where I share all my links
 
 ### Design Systems
 
+[Building a modern design system in layers](https://blog.almaer.com/building-a-modern-design-system-in-layers/)
+
 [Style Wars: Tailwind vs. CSS-in-JS in Design Systems Implementation](https://medium.com/tetrisly/style-wars-tailwind-vs-css-in-js-in-design-systems-implementation-de6015ee2695)
 
 [Headless components in React and why I stopped using a UI library for our design system](https://medium.com/@nirbenyair/headless-components-in-react-and-why-i-stopped-using-ui-libraries-a8208197c268)
