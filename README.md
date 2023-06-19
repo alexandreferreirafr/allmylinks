@@ -91,6 +91,8 @@ A place where I share all my links
 
 ### Performance
 
+[Understanding React Concurrency](https://www.bbss.dev/posts/react-concurrency)
+
 [The Journey of the React Component](https://alexsidorenko.com/react-journey)
 
 [A Complete Guide To Incremental Static Regeneration (ISR) With Next.js](https://www.smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/)
