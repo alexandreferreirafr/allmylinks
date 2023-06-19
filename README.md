@@ -353,6 +353,10 @@ A place where I share all my links
 
 [Diffusion Models: A Practical Guide](https://scale.com/guides/diffusion-models-guide)
 
+### Generative
+
+[Ask a Techspert: What is generative AI?](https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/)
+
 ### e-commerce
 
 [Guide to AI for eCommerce](https://scale.com/guides/ai-for-ecommerce)
