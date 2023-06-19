@@ -355,6 +355,8 @@ A place where I share all my links
 
 ### Generative
 
+[What is generative AI?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai)
+
 [Ask a Techspert: What is generative AI?](https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/)
 
 ### e-commerce
