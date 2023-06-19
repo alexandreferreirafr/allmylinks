@@ -353,6 +353,10 @@ A place where I share all my links
 
 [Diffusion Models: A Practical Guide](https://scale.com/guides/diffusion-models-guide)
 
+### e-commerce
+
+[Guide to AI for eCommerce](https://scale.com/guides/ai-for-ecommerce)
+
 ### Announcements
 
 [Introducing Vercel's AI Accelerator](https://vercel.com/blog/vercel-ai-accelerator)
