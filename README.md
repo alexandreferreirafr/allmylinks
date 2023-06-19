@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[You Might Not Need React Query](https://tkdodo.eu/blog/you-might-not-need-react-query)
+
 [Pull to refresh from scratch as a React hook](https://www.strictmode.io/articles/react-pull-to-refresh)
 
 [Say no to "flickering" UI: useLayoutEffect, painting and browsers story](https://www.developerway.com/posts/no-more-flickering-ui)
