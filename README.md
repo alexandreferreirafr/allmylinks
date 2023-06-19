@@ -171,6 +171,8 @@ A place where I share all my links
 
 ### General
 
+[TV Spatial Navigation](https://engineering.atspotify.com/2023/05/tv-spatial-navigation/)
+
 🎥 [I'm Done With React](https://www.youtube.com/watch?v=Zt8mO_Aqzw8)
 
 🎥 [Always Bet On React](https://www.youtube.com/watch?v=TnyslkPfXaM)
