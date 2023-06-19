@@ -359,4 +359,6 @@ A place where I share all my links
 
 ### Announcements
 
+[Introducing the Vercel AI SDK](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
+
 [Introducing Vercel's AI Accelerator](https://vercel.com/blog/vercel-ai-accelerator)
