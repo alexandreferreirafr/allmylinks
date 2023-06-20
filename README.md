@@ -265,6 +265,8 @@ A place where I share all my links
 
 ### General
 
+[Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
+
 [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop/)
 
 ## Architecture
