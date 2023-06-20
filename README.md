@@ -179,6 +179,8 @@ A place where I share all my links
 
 ### General
 
+[I gambled against React and lost (and I don’t regret a thing)](https://goauthentik.io/blog/2023-05-04-i-gambled-against-react-and-lost)
+
 [TV Spatial Navigation](https://engineering.atspotify.com/2023/05/tv-spatial-navigation/)
 
 🎥 [I'm Done With React](https://www.youtube.com/watch?v=Zt8mO_Aqzw8)
