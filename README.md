@@ -181,6 +181,8 @@ A place where I share all my links
 
 ### General
 
+🎥 [Are React client components bad?](https://www.youtube.com/watch?v=6jM_0wDOw4g)
+
 [I gambled against React and lost (and I don’t regret a thing)](https://goauthentik.io/blog/2023-05-04-i-gambled-against-react-and-lost)
 
 [TV Spatial Navigation](https://engineering.atspotify.com/2023/05/tv-spatial-navigation/)
