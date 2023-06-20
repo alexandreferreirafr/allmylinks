@@ -71,6 +71,8 @@ A place where I share all my links
 
 ### Fetching
 
+[Custom Fetcher Hooks are Remix's Typesafe RPCs](https://www.jacobparis.com/content/remix-rpc-pattern)
+
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 [Pagination and infinite scroll with React Query v3](https://blog.logrocket.com/pagination-infinite-scroll-react-query-v3/)
