@@ -97,6 +97,8 @@ A place where I share all my links
 
 ### Performance
 
+[React reconciliation: how it works and why should we care](https://www.developerway.com/posts/reconciliation-in-react)
+
 [Understanding React Concurrency](https://www.bbss.dev/posts/react-concurrency)
 
 [The Journey of the React Component](https://alexsidorenko.com/react-journey)
