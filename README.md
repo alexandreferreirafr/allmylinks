@@ -57,6 +57,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Building a users table](https://buildui.com/courses/react-server-components/building-a-users-table)
+
 [Why I’m excited about Server Actions](https://andrewingram.net/posts/why-excited-about-server-actions)
 
 [5 Lessons Learned From Taking Next.js App Router to Production](https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production)
