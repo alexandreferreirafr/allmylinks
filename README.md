@@ -185,6 +185,8 @@ A place where I share all my links
 
 ### Design Systems
 
+[Multiple Layers of Abstraction in Design Systems](https://engineering.atspotify.com/2023/05/multiple-layers-of-abstraction-in-design-systems/)
+
 [Building a modern design system in layers](https://blog.almaer.com/building-a-modern-design-system-in-layers/)
 
 [Style Wars: Tailwind vs. CSS-in-JS in Design Systems Implementation](https://medium.com/tetrisly/style-wars-tailwind-vs-css-in-js-in-design-systems-implementation-de6015ee2695)
