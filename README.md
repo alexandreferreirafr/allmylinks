@@ -149,6 +149,8 @@ A place where I share all my links
 
 ### Testing
 
+[How to Test Custom React Hooks with React Testing Library](https://www.builder.io/blog/test-custom-hooks-react-testing-library)
+
 [Improving React Testing Library Tests](https://claritydev.net/blog/improving-react-testing-library-tests)
 
 [Test Isolation with React](https://kentcdodds.com/blog/test-isolation-with-react)
