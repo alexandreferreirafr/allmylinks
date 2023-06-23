@@ -401,6 +401,8 @@ A place where I share all my links
 
 ## General
 
+[Running Promises in Parallel: A Visual Guide](https://julesblom.com/writing/running-promises-in-parallel)
+
 [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
 
 [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://www.macarthur.me/posts/maps-for-dom-nodes)
