@@ -325,6 +325,8 @@ A place where I share all my links
 
 ## CSS
 
+[6 CSS snippets every front-end developer should know in 2023](https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/)
+
 [What's new in CSS and UI: I/O 2023 Edition](https://developer.chrome.com/en/blog/whats-new-css-ui-2023/)
 
 [TailwindCSS vs. UnoCSS](https://dev.to/mapleleaf/tailwindcss-vs-unocss-2a53)
