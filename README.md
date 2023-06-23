@@ -401,6 +401,8 @@ A place where I share all my links
 
 ### Announcements
 
+[The Bun Bundler](https://bun.sh/blog/bun-bundler)
+
 [Introducing the Vercel AI SDK](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
 
 [Introducing Vercel's AI Accelerator](https://vercel.com/blog/vercel-ai-accelerator)
