@@ -419,6 +419,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Why We Are Dropping Support For Next Js](https://www.stormkit.io/blog/why-we-are-dropping-support-for-next-js)
+
 [Baseline](https://web.dev/baseline/)
 
 [The Bun Bundler](https://bun.sh/blog/bun-bundler)
