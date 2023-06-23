@@ -197,6 +197,8 @@ A place where I share all my links
 
 ### General
 
+[The evolution of React APIs and code reuse](https://frontendmastery.com/posts/the-evolution-of-react-patterns/)
+
 [Isomorphic Development](https://meijer.ws/articles/isomorphic-development)
 
 🎥 [Are React client components bad?](https://www.youtube.com/watch?v=6jM_0wDOw4g)
