@@ -283,6 +283,10 @@ A place where I share all my links
 
 [Le protocole HTTP/3 : nouveautés et changements par rapport à HTTP/1 et HTTP/2](https://www.fasterize.com/fr/protocole-http3-changements-http1-http2/) 🇫🇷
 
+### Core Web Vitals
+
+[Advancing Interaction to Next Paint](https://web.dev/inp-cwv/)
+
 ### General
 
 [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
