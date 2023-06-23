@@ -325,6 +325,8 @@ A place where I share all my links
 
 ## CSS
 
+[What's new in CSS and UI: I/O 2023 Edition](https://developer.chrome.com/en/blog/whats-new-css-ui-2023/)
+
 [TailwindCSS vs. UnoCSS](https://dev.to/mapleleaf/tailwindcss-vs-unocss-2a53)
 
 [Scoped CSS is Back](https://keithjgrant.com/posts/2023/04/scoped-css-is-back/)
