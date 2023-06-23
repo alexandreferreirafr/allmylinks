@@ -435,6 +435,8 @@ A place where I share all my links
 
 ### Announcements
 
+[New to the web platform in May 2023](https://web.dev/web-platform-05-2023/)
+
 [JavaScript Macros in Bun](https://bun.sh/blog/bun-macros)
 
 [RedwoodJS’ Next Epoch: All In on React Server Components](https://tom.preston-werner.com/2023/05/30/redwoods-next-epoch-all-in-on-rsc.html)
