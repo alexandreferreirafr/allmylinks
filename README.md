@@ -435,6 +435,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Introducing the popover API](https://developer.chrome.com/blog/introducing-popover-api/)
+
 [New to the web platform in May 2023](https://web.dev/web-platform-05-2023/)
 
 [JavaScript Macros in Bun](https://bun.sh/blog/bun-macros)
