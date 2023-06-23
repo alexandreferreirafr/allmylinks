@@ -435,6 +435,8 @@ A place where I share all my links
 
 ### Announcements
 
+[JavaScript Macros in Bun](https://bun.sh/blog/bun-macros)
+
 [RedwoodJS’ Next Epoch: All In on React Server Components](https://tom.preston-werner.com/2023/05/30/redwoods-next-epoch-all-in-on-rsc.html)
 
 [Why We Are Dropping Support For Next Js](https://www.stormkit.io/blog/why-we-are-dropping-support-for-next-js)
