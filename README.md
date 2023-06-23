@@ -57,6 +57,8 @@ A place where I share all my links
 
 ### Server Components
 
+[How React server components work: an in-depth guide](https://www.plasmic.app/blog/how-react-server-components-work)
+
 [Building a users table](https://buildui.com/courses/react-server-components/building-a-users-table)
 
 [Why I’m excited about Server Actions](https://andrewingram.net/posts/why-excited-about-server-actions)
