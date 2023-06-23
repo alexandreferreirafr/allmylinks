@@ -197,6 +197,8 @@ A place where I share all my links
 
 ### General
 
+[Solving hydration errors in Remix](https://www.jacobparis.com/content/remix-hydration-errors)
+
 [A better learning path for React with server components](https://scastiel.dev/better-learning-path-react)
 
 [The evolution of React APIs and code reuse](https://frontendmastery.com/posts/the-evolution-of-react-patterns/)
