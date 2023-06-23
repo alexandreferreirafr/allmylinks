@@ -57,6 +57,8 @@ A place where I share all my links
 
 ### Server Components
 
+🎥 [I built a chart as a React Server Component](https://www.youtube.com/watch?v=3JB_qEk39w0)
+
 [How React server components work: an in-depth guide](https://www.plasmic.app/blog/how-react-server-components-work)
 
 [Building a users table](https://buildui.com/courses/react-server-components/building-a-users-table)
