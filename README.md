@@ -57,6 +57,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Why do Client Components get SSR'd to HTML?](https://github.com/reactwg/server-components/discussions/4)
+
 🎥 [Fullstack React Components – with no API](https://www.youtube.com/watch?v=OAmp3GTfZnU)
 
 🎥 [I built a chart as a React Server Component](https://www.youtube.com/watch?v=3JB_qEk39w0)
