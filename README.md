@@ -435,6 +435,8 @@ A place where I share all my links
 
 ### Announcements
 
+[WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
+
 [Introducing the popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 
 [New to the web platform in May 2023](https://web.dev/web-platform-05-2023/)
