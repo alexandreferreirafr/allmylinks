@@ -383,6 +383,8 @@ A place where I share all my links
 
 ## Typing
 
+[One Hour TypeScript Workshop](https://type-level-typescript.com/articles/one-hour-workshop)
+
 [Comparing schema validation libraries: Zod vs. Yup](https://blog.logrocket.com/comparing-schema-validation-libraries-zod-vs-yup/)
 
 [Favour TypeScript Types Over Interfaces](https://www.lloydatkinson.net/posts/2023/favour-typescript-types-over-interfaces/)
