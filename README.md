@@ -57,6 +57,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Opinionated notes on React Server components](https://github.com/nilshartmann/react-server-component-material/blob/notes-on-rsc/notes-on-rsc.md)
+
 [RSC From Scratch. Part 1: Server Components](https://github.com/reactwg/server-components/discussions/5)
 
 [Why do Client Components get SSR'd to HTML?](https://github.com/reactwg/server-components/discussions/4)
