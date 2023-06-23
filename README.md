@@ -373,6 +373,8 @@ A place where I share all my links
 
 ## Opnion
 
+[Is React Having An Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
+
 [The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 
 [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
