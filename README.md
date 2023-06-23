@@ -197,6 +197,8 @@ A place where I share all my links
 
 ### General
 
+[A better learning path for React with server components](https://scastiel.dev/better-learning-path-react)
+
 [The evolution of React APIs and code reuse](https://frontendmastery.com/posts/the-evolution-of-react-patterns/)
 
 [Isomorphic Development](https://meijer.ws/articles/isomorphic-development)
