@@ -353,6 +353,8 @@ A place where I share all my links
 
 ## Opnion
 
+[The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
+
 [Even Amazon can't make sense of serverless or microservices](https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580)
 
 [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
