@@ -199,6 +199,8 @@ A place where I share all my links
 
 ### General
 
+[Deploying Next.js on the edge with SST — Is SST the game-changer it’s claimed to be?](https://engineering.udacity.com/deploying-next-js-on-the-edge-with-sst-is-sst-the-game-changer-its-claimed-to-be-1f05a0abc27c)
+
 [Solving hydration errors in Remix](https://www.jacobparis.com/content/remix-hydration-errors)
 
 [A better learning path for React with server components](https://scastiel.dev/better-learning-path-react)
