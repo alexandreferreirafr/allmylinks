@@ -363,7 +363,11 @@ A place where I share all my links
 
 [Atomic CSS-in-JS](https://sebastienlorber.com/atomic-css-in-js)
 
-## 3D
+## 3D / ThreeJS
+
+[Getting Started With Your First three.js Project: Part One — The Setup](https://medium.com/nerd-for-tech/getting-started-with-your-first-three-js-project-part-one-the-setup-17f18660aecc)
+
+[Getting Started With Your First three.js Project: Part Two — The Build](https://medium.com/nerd-for-tech/getting-started-with-your-first-three-js-project-part-two-the-build-3fd9a2f21418)
 
 [How we built the Storybook Day 3D animation](https://varun.ca/storybook-day/)
 
