@@ -329,6 +329,8 @@ A place where I share all my links
 
 ### Monorepos
 
+[How to Set Up a Monorepo With Vite, TypeScript, and Pnpm Workspaces](https://hackernoon.com/how-to-set-up-a-monorepo-with-vite-typescript-and-pnpm-workspaces)
+
 [Monorepos in JavaScript & TypeScript](https://www.robinwieruch.de/javascript-monorepos/)
 
 ### Microfrontends
