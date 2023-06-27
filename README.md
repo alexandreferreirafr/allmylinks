@@ -29,6 +29,8 @@ A place where I share all my links
 
 ### State Management
 
+[Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
+
 [Zedux: Is this the one?](https://omnistac.github.io/zedux/blog/zedux-is-this-the-one)
 
 [Context, Composition, and Flexibility](https://kyleshevlin.com/context-composition-and-flexibility)
