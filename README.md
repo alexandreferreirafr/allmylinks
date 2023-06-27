@@ -203,6 +203,8 @@ A place where I share all my links
 
 ### General
 
+[Colocate your routes into feature folders with Remix Custom Routes](https://www.jacobparis.com/content/remix-custom-routes)
+
 [Deploying Next.js on the edge with SST — Is SST the game-changer it’s claimed to be?](https://engineering.udacity.com/deploying-next-js-on-the-edge-with-sst-is-sst-the-game-changer-its-claimed-to-be-1f05a0abc27c)
 
 [Solving hydration errors in Remix](https://www.jacobparis.com/content/remix-hydration-errors)
