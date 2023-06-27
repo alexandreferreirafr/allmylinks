@@ -177,6 +177,8 @@ A place where I share all my links
 
 ### Typing
 
+[Since TypeScript 5.1, React.FC is now "fine"](https://www.totaltypescript.com/you-can-stop-hating-react-fc)
+
 [What is JSX.IntrinsicElements?](https://www.totaltypescript.com/what-is-jsx-intrinsicelements)
 
 [TypeScript + React: Component patterns](https://fettblog.eu/typescript-react-component-patterns/)
