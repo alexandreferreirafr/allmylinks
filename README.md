@@ -285,6 +285,8 @@ A place where I share all my links
 
 ## Astro
 
+[Better Images in Astro](https://astro.build/blog/images/)
+
 [Reducing 97% of the Open UI site's JavaScript by migrating to Astro](https://blog.andri.co/023-migrating-open-ui-site-from-gatsby-to-astro/)
 
 [Astro: How Good Is the New JavaScript Framework?](https://cult.honeypot.io/reads/astro-the-new-javascript-framework/)
