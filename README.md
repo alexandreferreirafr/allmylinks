@@ -313,6 +313,8 @@ A place where I share all my links
 
 ### General
 
+[Hydration is a tree, Resumability is a map](https://www.builder.io/blog/hydration-tree-resumability-map)
+
 [State of Node.js Performance 2023](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023)
 
 [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
