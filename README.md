@@ -29,6 +29,8 @@ A place where I share all my links
 
 ### State Management
 
+[Zedux: Is this the one?](https://omnistac.github.io/zedux/blog/zedux-is-this-the-one)
+
 [Context, Composition, and Flexibility](https://kyleshevlin.com/context-composition-and-flexibility)
 
 [The URL is the ultimate global state management tool](https://www.jacobparis.com/content/url-as-state-management)
