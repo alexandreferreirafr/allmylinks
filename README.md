@@ -207,6 +207,8 @@ A place where I share all my links
 
 ### General
 
+[A Visual Guide to Routing in Next.js 13](https://www.builder.io/blog/next-13-app-router)
+
 [React: how to debug the source code](https://andreigatej.dev/blog/react-debugging-the-source-code/)
 
 [Colocate your routes into feature folders with Remix Custom Routes](https://www.jacobparis.com/content/remix-custom-routes)
