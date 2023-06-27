@@ -421,6 +421,8 @@ A place where I share all my links
 
 ## General
 
+[Add Drizzle ORM to a Remix app](https://www.jacobparis.com/content/remix-drizzle)
+
 [Running Promises in Parallel: A Visual Guide](https://julesblom.com/writing/running-promises-in-parallel)
 
 [HTMX is the Future](https://quii.dev/HTMX_is_the_Future)
