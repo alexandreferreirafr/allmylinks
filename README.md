@@ -425,6 +425,8 @@ A place where I share all my links
 
 ## General
 
+[Web Apps on macOS Sonoma 14 Beta](https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/)
+
 [Add Drizzle ORM to a Remix app](https://www.jacobparis.com/content/remix-drizzle)
 
 [Running Promises in Parallel: A Visual Guide](https://julesblom.com/writing/running-promises-in-parallel)
