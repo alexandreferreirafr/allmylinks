@@ -367,6 +367,8 @@ A place where I share all my links
 
 ## CSS
 
+[Modern CSS For Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture)
+
 [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
 
 [Native CSS Masonry Layout In CSS Grid](https://www.smashingmagazine.com/native-css-masonry-layout-css-grid/)
