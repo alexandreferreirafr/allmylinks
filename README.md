@@ -117,6 +117,10 @@ A place where I share all my links
 
 ### Performance
 
+🎥 [Is Next.js App Router SLOW? Performance Deep Dive](https://www.youtube.com/watch?v=HbUDiNlU6Yw&t=995s)
+
+🎥 [Are React Server Components Really Slower?](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
+
 [React reconciliation: how it works and why should we care](https://www.developerway.com/posts/reconciliation-in-react)
 
 [Understanding React Concurrency](https://www.bbss.dev/posts/react-concurrency)
