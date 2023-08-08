@@ -121,6 +121,8 @@ A place where I share all my links
 
 🎥 [Are React Server Components Really Slower?](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
 
+[Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c#:~:text=What%20is%20React.lazy(),the%20non%2Dcritical%20items%20later.)
+
 [React reconciliation: how it works and why should we care](https://www.developerway.com/posts/reconciliation-in-react)
 
 [Understanding React Concurrency](https://www.bbss.dev/posts/react-concurrency)
