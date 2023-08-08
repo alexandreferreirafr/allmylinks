@@ -121,7 +121,7 @@ A place where I share all my links
 
 🎥 [Are React Server Components Really Slower?](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
 
-[Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c#:~:text=What%20is%20React.lazy(),the%20non%2Dcritical%20items%20later.)
+[Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
 
 [React reconciliation: how it works and why should we care](https://www.developerway.com/posts/reconciliation-in-react)
 
@@ -352,6 +352,8 @@ A place where I share all my links
 [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 
 ### Monorepos
+
+[5 Ways to Build a React Monorepo](https://blog.bitsrc.io/5-ways-to-build-a-react-monorepo-a294b6c5b0ac)
 
 [How to Set Up a Monorepo With Vite, TypeScript, and Pnpm Workspaces](https://hackernoon.com/how-to-set-up-a-monorepo-with-vite-typescript-and-pnpm-workspaces)
 
