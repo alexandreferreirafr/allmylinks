@@ -345,6 +345,8 @@ A place where I share all my links
 
 ### Application Design
 
+[Stateful Vs Stateless API: What’s The Difference?](https://webo.digital/blog/stateful-vs-stateless-api-difference/)
+
 [Stateful vs stateless](https://www.redhat.com/en/topics/cloud-native-apps/stateful-vs-stateless)
 
 [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
