@@ -301,6 +301,8 @@ A place where I share all my links
 
 ## Astro
 
+[Astro 3.0](https://astro.build/blog/astro-3)
+
 [Better Images in Astro](https://astro.build/blog/images/)
 
 [Reducing 97% of the Open UI site's JavaScript by migrating to Astro](https://blog.andri.co/023-migrating-open-ui-site-from-gatsby-to-astro/)
