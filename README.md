@@ -61,6 +61,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components)
+
 🎥 [How to NOT Poison Your React Server Components](https://www.youtube.com/watch?v=BZlwtR9pDp4)
 
 [Opinionated notes on React Server components](https://github.com/nilshartmann/react-server-component-material/blob/notes-on-rsc/notes-on-rsc.md)
