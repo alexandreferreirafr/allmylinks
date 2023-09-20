@@ -217,6 +217,8 @@ A place where I share all my links
 
 ### General
 
+[Parents & Owners in React: Data Flow](https://julesblom.com/writing/parents-owners-data-flow)
+
 [Create a tilt effect in React](https://julienthibeaut.xyz/blog/create-tilt-effect-with-react)
 
 [A Visual Guide to Routing in Next.js 13](https://www.builder.io/blog/next-13-app-router)
