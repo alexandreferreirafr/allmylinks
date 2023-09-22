@@ -355,6 +355,8 @@ A place where I share all my links
 
 ### General
 
+[View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
+
 [Hydration is a tree, Resumability is a map](https://www.builder.io/blog/hydration-tree-resumability-map)
 
 [State of Node.js Performance 2023](https://blog.rafaelgss.dev/state-of-nodejs-performance-2023)
