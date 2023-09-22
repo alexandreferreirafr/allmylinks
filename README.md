@@ -217,6 +217,8 @@ A place where I share all my links
 
 ### General
 
+[Challenging Established Norms: Making Component Fetching the Exception](https://jjenzz.com/making-component-fetching-the-exception/)
+
 [Parents & Owners in React: Data Flow](https://julesblom.com/writing/parents-owners-data-flow)
 
 [Create a tilt effect in React](https://julienthibeaut.xyz/blog/create-tilt-effect-with-react)
