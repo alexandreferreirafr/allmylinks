@@ -61,6 +61,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Rust Server Components](https://anto.pt/articles/rust-server-components)
+
 [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components)
 
 🎥 [How to NOT Poison Your React Server Components](https://www.youtube.com/watch?v=BZlwtR9pDp4)
