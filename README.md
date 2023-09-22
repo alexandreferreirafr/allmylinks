@@ -395,6 +395,8 @@ A place where I share all my links
 
 ## CSS
 
+[Web Developers, CSS-in-JS is Ruining Your Product](https://cord.com/blog/migrating-from-css-in-js-to-vanilla-extract)
+
 [Atomic CSS-in-JS: twind](https://www.useanvil.com/blog/engineering/atomic-css-in-js/)
 
 [Modern CSS For Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture)
