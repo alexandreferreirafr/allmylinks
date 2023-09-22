@@ -207,6 +207,8 @@ A place where I share all my links
 
 ### Design Systems
 
+[Implement Radix's asChild pattern in React](https://www.jacobparis.com/content/react-as-child)
+
 [Build your own headless UI components](https://www.jacobparis.com/content/react-headless-submenus)
 
 [Multiple Layers of Abstraction in Design Systems](https://engineering.atspotify.com/2023/05/multiple-layers-of-abstraction-in-design-systems/)
