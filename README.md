@@ -219,6 +219,8 @@ A place where I share all my links
 
 ### General
 
+[Chakra, Panda and Ark - What's the plan?](https://www.adebayosegun.com/blog/chakra-panda-ark-whats-the-plan)
+
 [Challenging Established Norms: Making Component Fetching the Exception](https://jjenzz.com/making-component-fetching-the-exception/)
 
 [Parents & Owners in React: Data Flow](https://julesblom.com/writing/parents-owners-data-flow)
