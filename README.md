@@ -191,6 +191,8 @@ A place where I share all my links
 
 ### Typing
 
+[Strongly Typing React Props with TypeScript](https://www.totaltypescript.com/react-props-typescript)
+
 [How to Pass a Component as a Prop in React](https://www.totaltypescript.com/pass-component-as-prop-react)
 
 [Since TypeScript 5.1, React.FC is now "fine"](https://www.totaltypescript.com/you-can-stop-hating-react-fc)
