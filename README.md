@@ -511,6 +511,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Bun 1.0](https://bun.sh/blog/bun-v1.0)
+
 [Meet Safari for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10279/)
 
 [WebKit Features in Safari 17 beta](https://webkit.org/blog/14205/news-from-wwdc23-webkit-features-in-safari-17-beta/)
