@@ -521,6 +521,8 @@ A place where I share all my links
 
 ### Generative
 
+🎥 [Vercel's New AI Writes Surprisingly Good Code](https://www.youtube.com/watch?v=xNG4zXpU1QA)
+
 [What is generative AI?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai)
 
 [Ask a Techspert: What is generative AI?](https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/)
