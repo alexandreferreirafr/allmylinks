@@ -413,6 +413,8 @@ A place where I share all my links
 
 ## Bun
 
+🎥 [Go vs Rust vs Bun vs Node | Prime Reacts](https://www.youtube.com/watch?v=yPcWzSlsteA)
+
 🎥 [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 
 🎥 [My thoughts on Bun](https://www.youtube.com/watch?v=z_66kDwxwBI)
