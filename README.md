@@ -227,6 +227,8 @@ A place where I share all my links
 
 ### General
 
+[Next.js, just why?](https://pilcrow.vercel.app/blog/nextjs-why)
+
 [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
 
 [Chakra, Panda and Ark - What's the plan?](https://www.adebayosegun.com/blog/chakra-panda-ark-whats-the-plan)
