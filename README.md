@@ -487,6 +487,8 @@ A place where I share all my links
 
 ## Typing
 
+[Are Big Projects Ditching TypeScript?](https://www.totaltypescript.com/are-big-projects-ditching-typescript)
+
 [Typescript Prevents Bad Things... and Good Things](https://kyleshevlin.com/typescript-prevents-bad-things-and-good-things)
 
 [One Hour TypeScript Workshop](https://type-level-typescript.com/articles/one-hour-workshop)
