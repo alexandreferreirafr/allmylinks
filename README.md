@@ -29,6 +29,8 @@ A place where I share all my links
 
 ### State Management
 
+🎥 [STOP using useState, instead put state in URL (in React & Next.js)](https://www.youtube.com/watch?v=ukpgxEemXsk)
+
 [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
 
 [Zedux: Is this the one?](https://omnistac.github.io/zedux/blog/zedux-is-this-the-one)
