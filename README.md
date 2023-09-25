@@ -105,6 +105,8 @@ A place where I share all my links
 
 ### Forms
 
+🎥 [Using Forms in Next.js (Server Actions, Revalidating Data)](https://www.youtube.com/watch?v=dDpZfOQBMaU)
+
 [Display Warning for Unsaved Form Data on Page Exit](https://claritydev.net/blog/display-warning-for-unsaved-form-data-on-page-exit)
 
 [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
