@@ -413,6 +413,8 @@ A place where I share all my links
 
 ## Bun
 
+🎥 [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
+
 🎥 [My thoughts on Bun](https://www.youtube.com/watch?v=z_66kDwxwBI)
 
 [My thoughts on Bun and other Adventures](https://adventures.nodeland.dev/archive/my-thoughts-on-bun/)
