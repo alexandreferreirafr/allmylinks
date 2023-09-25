@@ -367,6 +367,8 @@ A place where I share all my links
 
 ### General
 
+[Your Cache Headers Could Probably be More Aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
+
 [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
 
 [Hydration is a tree, Resumability is a map](https://www.builder.io/blog/hydration-tree-resumability-map)
