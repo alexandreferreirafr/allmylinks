@@ -415,6 +415,8 @@ A place where I share all my links
 
 ## Bun
 
+🎥 [The Truth About Bun](https://www.youtube.com/watch?v=1xoy8Q5o8ws)
+
 🎥 [Bun Macros: New Feature You Need To Try!](https://www.youtube.com/watch?v=ONPlUclYGxk)
 
 🎥 [Bun is disrupting JavaScript land](https://www.youtube.com/watch?v=dWqNgzZwVJQ)
