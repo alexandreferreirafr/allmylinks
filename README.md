@@ -485,6 +485,8 @@ A place where I share all my links
 
 ## Typing
 
+[Typescript Prevents Bad Things... and Good Things](https://kyleshevlin.com/typescript-prevents-bad-things-and-good-things)
+
 [One Hour TypeScript Workshop](https://type-level-typescript.com/articles/one-hour-workshop)
 
 [Comparing schema validation libraries: Zod vs. Yup](https://blog.logrocket.com/comparing-schema-validation-libraries-zod-vs-yup/)
