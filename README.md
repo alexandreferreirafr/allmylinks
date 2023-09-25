@@ -515,6 +515,8 @@ A place where I share all my links
 
 ## General
 
+[Using Zig in our incremental Turborepo migration from Go to Rust](https://vercel.com/blog/how-we-continued-porting-turborepo-to-rust)
+
 [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 
 [Web Apps on macOS Sonoma 14 Beta](https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/)
