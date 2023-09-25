@@ -547,6 +547,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Announcing native npm support on Deno Deploy](https://deno.com/blog/npm-on-deno-deploy)
+
 [Bun 1.0](https://bun.sh/blog/bun-v1.0)
 
 [Meet Safari for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10279/)
