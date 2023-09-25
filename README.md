@@ -415,6 +415,8 @@ A place where I share all my links
 
 ## Bun
 
+🎥 [Bun is disrupting JavaScript land](https://www.youtube.com/watch?v=dWqNgzZwVJQ)
+
 🎥 [Bun Crash Course | JavaScript Runtime, Bundler & Transpiler](https://www.youtube.com/watch?v=U4JVw8K19uY&t=257s)
 
 🎥 [Go vs Rust vs Bun vs Node | Prime Reacts](https://www.youtube.com/watch?v=yPcWzSlsteA)
