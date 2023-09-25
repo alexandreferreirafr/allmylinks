@@ -229,6 +229,8 @@ A place where I share all my links
 
 ### General
 
+[Styling React Select with Tailwind](https://www.jussivirtanen.fi/writing/styling-react-select-with-tailwind)
+
 [Scaling frontend app teams using Relay](https://hasura.io/blog/scaling-frontend-app-teams-using-relay/)
 
 [Next.js, just why?](https://pilcrow.vercel.app/blog/nextjs-why)
