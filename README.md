@@ -557,6 +557,8 @@ A place where I share all my links
 
 ### Announcements
 
+[New in Chrome 117](https://developer.chrome.com/en/blog/new-in-chrome-117)
+
 [Announcing native npm support on Deno Deploy](https://deno.com/blog/npm-on-deno-deploy)
 
 [Bun 1.0](https://bun.sh/blog/bun-v1.0)
