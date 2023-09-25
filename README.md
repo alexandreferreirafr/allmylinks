@@ -227,6 +227,8 @@ A place where I share all my links
 
 ### General
 
+[Scaling frontend app teams using Relay](https://hasura.io/blog/scaling-frontend-app-teams-using-relay/)
+
 [Next.js, just why?](https://pilcrow.vercel.app/blog/nextjs-why)
 
 [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
