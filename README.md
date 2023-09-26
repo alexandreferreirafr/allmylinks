@@ -215,7 +215,7 @@ A place where I share all my links
 
 ### Design Systems
 
-[Shadcn + Next.js 13 is HEAVEN | A QUICK GUIDE](https://www.youtube.com/watch?v=ABbww4CFQSo)
+🎥 [Shadcn + Next.js 13 is HEAVEN | A QUICK GUIDE](https://www.youtube.com/watch?v=ABbww4CFQSo)
 
 [An Overview of 25+ UI Component Libraries in 2023](https://www.builder.io/blog/25-plus-ui-component-libraries)
 
