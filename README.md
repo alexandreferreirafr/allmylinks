@@ -63,6 +63,8 @@ A place where I share all my links
 
 ### Server Components
 
+🎥 [Server Components in Client Components?? (React / Next.js)](https://www.youtube.com/watch?v=9YuHTGAAyu0)
+
 [Rust Server Components](https://anto.pt/articles/rust-server-components)
 
 [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components)
