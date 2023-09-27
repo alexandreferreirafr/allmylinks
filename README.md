@@ -389,6 +389,10 @@ A place where I share all my links
 
 [Practical Guide To Not Blocking The Event Loop](https://www.bbss.dev/posts/eventloop/)
 
+## A11y
+
+[A11y-Driven Development](https://www.simplethread.com/a11y-driven-development)
+
 ## Architecture
 
 ### Application Design
