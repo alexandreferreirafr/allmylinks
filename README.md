@@ -129,6 +129,8 @@ A place where I share all my links
 
 ### Performance
 
+[React Suspense in three different architectures](https://elanmed.dev/blog/suspense-in-different-architectures)
+
 🎥 [Is Next.js App Router SLOW? Performance Deep Dive](https://www.youtube.com/watch?v=HbUDiNlU6Yw&t=995s)
 
 🎥 [Are React Server Components Really Slower?](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
