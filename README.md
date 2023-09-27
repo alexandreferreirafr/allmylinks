@@ -347,6 +347,10 @@ A place where I share all my links
 
 [Astro: How Good Is the New JavaScript Framework?](https://cult.honeypot.io/reads/astro-the-new-javascript-framework/)
 
+## Svelte
+
+🎥 [Svelte Runes: Awesome or Awful?](https://www.youtube.com/watch?v=JRZCqUOmFwY)
+
 ## Storybook
 
 [What's new in the new Storybook](https://www.mariasimo.codes/storybook-7-new-release)
