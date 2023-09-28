@@ -343,6 +343,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Remix v2](https://remix.run/blog/remix-v2)
+
 [React Canaries: Enabling Incremental Feature Rollout Outside Meta](https://react.dev/blog/2023/05/03/react-canaries)
 
 [Introducing storage on Vercel](https://vercel.com/blog/vercel-storage)
