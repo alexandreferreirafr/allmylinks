@@ -343,6 +343,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Next.js 13.5](https://nextjs.org/blog/next-13-5)
+
 [Remix v2](https://remix.run/blog/remix-v2)
 
 [React Canaries: Enabling Incremental Feature Rollout Outside Meta](https://react.dev/blog/2023/05/03/react-canaries)
