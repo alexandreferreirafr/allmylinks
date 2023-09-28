@@ -29,6 +29,8 @@ A place where I share all my links
 
 ### State Management
 
+[Storing React state in the URL with Next.js](https://francoisbest.com/posts/2023/storing-react-state-in-the-url-with-nextjs)
+
 🎥 [STOP using useState, instead put state in URL (in React & Next.js)](https://www.youtube.com/watch?v=ukpgxEemXsk)
 
 [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
