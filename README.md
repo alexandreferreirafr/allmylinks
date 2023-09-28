@@ -101,6 +101,8 @@ A place where I share all my links
 
 ### Fetching
 
+🎥 [React Query is Secretly an Amazing State Manager](https://www.youtube.com/watch?v=0X3TlVklT-A)
+
 🎥 [tRPC + NextJS App Router = Simple Typesafe APIs](https://www.youtube.com/watch?v=qCLV0Iaq9zU)
 
 [Custom Fetcher Hooks are Remix's Typesafe RPCs](https://www.jacobparis.com/content/remix-rpc-pattern)
