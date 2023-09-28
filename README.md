@@ -463,6 +463,8 @@ A place where I share all my links
 
 ## CSS
 
+[Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
+
 🎥 [Create Jaw-Dropping UIs with Simple Animated View Transitions and Container Queries](https://www.youtube.com/watch?v=lISvyIaSRyk)
 
 [Web Developers, CSS-in-JS is Ruining Your Product](https://cord.com/blog/migrating-from-css-in-js-to-vanilla-extract)
