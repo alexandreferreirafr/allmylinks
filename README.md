@@ -251,6 +251,8 @@ A place where I share all my links
 
 ### General
 
+[Build a server-side filter UI with Remix](https://www.jacobparis.com/content/remix-filter-bar)
+
 [Abort Async Calls Inside Remix Loaders and Actions](https://sergiodxa.com/tutorials/abort-async-calls-inside-remix-loaders-and-actions)
 
 [Await Component](https://buildui.com/recipes/await-component)
