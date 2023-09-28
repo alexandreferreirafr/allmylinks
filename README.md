@@ -101,6 +101,8 @@ A place where I share all my links
 
 ### Fetching
 
+🎥 [tRPC + NextJS App Router = Simple Typesafe APIs](https://www.youtube.com/watch?v=qCLV0Iaq9zU)
+
 [Custom Fetcher Hooks are Remix's Typesafe RPCs](https://www.jacobparis.com/content/remix-rpc-pattern)
 
 [How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
