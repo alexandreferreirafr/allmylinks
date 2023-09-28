@@ -341,10 +341,6 @@ A place where I share all my links
 
 [Introducing storage on Vercel](https://vercel.com/blog/vercel-storage)
 
-[Announcing TypeScript 5.1 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-beta/)
-
-[Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
-
 [Remix without Limits](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support)
 
 ## Astro
@@ -579,11 +575,17 @@ A place where I share all my links
 
 ### Announcements
 
+[Fresh 1.4 – Faster Page Loads, Layouts and More](https://deno.com/blog/fresh-1.4)
+
 [New in Chrome 117](https://developer.chrome.com/en/blog/new-in-chrome-117)
 
 [Announcing native npm support on Deno Deploy](https://deno.com/blog/npm-on-deno-deploy)
 
 [Bun 1.0](https://bun.sh/blog/bun-v1.0)
+
+[Announcing TypeScript 5.1 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-beta/)
+
+[Chrome ships WebGPU](https://developer.chrome.com/blog/webgpu-release/)
 
 [Meet Safari for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10279/)
 
