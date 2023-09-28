@@ -251,6 +251,8 @@ A place where I share all my links
 
 ### General
 
+[Await Component](https://buildui.com/recipes/await-component)
+
 [Using PostHog with the Next.js App Router and Vercel](https://vercel.com/guides/posthog-nextjs-vercel-feature-flags-analytics)
 
 [How to solve hydration error in Next.js](https://chirag-gupta.hashnode.dev/how-to-solve-hydration-error-in-nextjs)
