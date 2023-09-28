@@ -129,6 +129,8 @@ A place where I share all my links
 
 ### Performance
 
+[useMemo overdose](https://edvins.io/usememo-overdose)
+
 [React Suspense in three different architectures](https://elanmed.dev/blog/suspense-in-different-architectures)
 
 🎥 [Is Next.js App Router SLOW? Performance Deep Dive](https://www.youtube.com/watch?v=HbUDiNlU6Yw&t=995s)
