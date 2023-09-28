@@ -243,6 +243,8 @@ A place where I share all my links
 
 ### General
 
+[Using PostHog with the Next.js App Router and Vercel](https://vercel.com/guides/posthog-nextjs-vercel-feature-flags-analytics)
+
 [How to solve hydration error in Next.js](https://chirag-gupta.hashnode.dev/how-to-solve-hydration-error-in-nextjs)
 
 [Styling React Select with Tailwind](https://www.jussivirtanen.fi/writing/styling-react-select-with-tailwind)
