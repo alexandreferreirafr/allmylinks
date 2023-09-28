@@ -251,6 +251,8 @@ A place where I share all my links
 
 ### General
 
+[Abort Async Calls Inside Remix Loaders and Actions](https://sergiodxa.com/tutorials/abort-async-calls-inside-remix-loaders-and-actions)
+
 [Await Component](https://buildui.com/recipes/await-component)
 
 [Using PostHog with the Next.js App Router and Vercel](https://vercel.com/guides/posthog-nextjs-vercel-feature-flags-analytics)
