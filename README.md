@@ -253,6 +253,8 @@ A place where I share all my links
 
 ### General
 
+[Displaying Local Times in Next.js](https://francoisbest.com/posts/2023/displaying-local-times-in-nextjs)
+
 [Build a server-side filter UI with Remix](https://www.jacobparis.com/content/remix-filter-bar)
 
 [Abort Async Calls Inside Remix Loaders and Actions](https://sergiodxa.com/tutorials/abort-async-calls-inside-remix-loaders-and-actions)
