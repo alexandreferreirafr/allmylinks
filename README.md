@@ -209,6 +209,8 @@ A place where I share all my links
 
 ### Typing
 
+[Array<T> vs T[]: Which is better?](https://www.totaltypescript.com/array-types-in-typescript)
+
 [Strongly Typing React Props with TypeScript](https://www.totaltypescript.com/react-props-typescript)
 
 [How to Pass a Component as a Prop in React](https://www.totaltypescript.com/pass-component-as-prop-react)
