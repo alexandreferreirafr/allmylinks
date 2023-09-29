@@ -377,6 +377,10 @@ A place where I share all my links
 
 🎥 [Svelte Runes: Awesome or Awful?](https://www.youtube.com/watch?v=JRZCqUOmFwY)
 
+## HTMX
+
+[A First Look at HTMX and How it Compares to React](https://www.builder.io/blog/htmx-vs-react)
+
 ## Storybook
 
 [What's new in the new Storybook](https://www.mariasimo.codes/storybook-7-new-release)
