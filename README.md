@@ -65,6 +65,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Exploring React Server Components and Server Actions with Next.js](https://www.antstack.com/blog/exploring-react-server-components-and-server-actions-with-next-js)
+
 [React Server Components Made Our Site Faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
 
 🎥 [Server Components in Client Components?? (React / Next.js)](https://www.youtube.com/watch?v=9YuHTGAAyu0)
