@@ -65,6 +65,8 @@ A place where I share all my links
 
 ### Server Components
 
+[React Server Components Made Our Site Faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
+
 🎥 [Server Components in Client Components?? (React / Next.js)](https://www.youtube.com/watch?v=9YuHTGAAyu0)
 
 [Rust Server Components](https://anto.pt/articles/rust-server-components)
