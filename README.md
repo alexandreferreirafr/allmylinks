@@ -379,6 +379,8 @@ A place where I share all my links
 
 ## HTMX
 
+🎥 [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
+
 [A First Look at HTMX and How it Compares to React](https://www.builder.io/blog/htmx-vs-react)
 
 ## Storybook
