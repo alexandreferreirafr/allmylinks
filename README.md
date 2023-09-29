@@ -473,6 +473,8 @@ A place where I share all my links
 
 ## Bun
 
+[Bun: lessons from disrupting a tech ecosystem](https://blog.pragmaticengineer.com/bun-lessons-from-disrupting)
+
 [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
 
 [Node.js vs. Deno vs. Bun: JavaScript runtime comparison](https://snyk.io/fr/blog/javascript-runtime-compare-node-deno-bun/)
