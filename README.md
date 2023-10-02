@@ -257,6 +257,8 @@ A place where I share all my links
 
 ### General
 
+🎥 [React Wasn't Built For The Web](https://www.youtube.com/watch?v=Y12sGu8-qFE&t=2s)
+
 [Displaying Local Times in Next.js](https://francoisbest.com/posts/2023/displaying-local-times-in-nextjs)
 
 [Build a server-side filter UI with Remix](https://www.jacobparis.com/content/remix-filter-bar)
