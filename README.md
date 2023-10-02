@@ -119,6 +119,8 @@ A place where I share all my links
 
 ### Forms
 
+[Intro to React Server Components and Actions with Next.js](https://scastiel.dev/server-components-actions-react-nextjs)
+
 [Can React Server Actions finally fix forms?](https://www.mux.com/blog/what-are-react-server-actions)
 
 🎥 [React Hook Form (+ Zod & TypeScript & Server Errors) - COMPLETE Tutorial](https://www.youtube.com/watch?v=u6PQ5xZAv7Q)
