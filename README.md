@@ -423,6 +423,8 @@ A place where I share all my links
 
 ### General
 
+[Effectively loading ads without impacting page speed](https://web.dev/loading-ads-page-speed/)
+
 [Your Cache Headers Could Probably be More Aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
 
 [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
