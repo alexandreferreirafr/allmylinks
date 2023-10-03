@@ -261,6 +261,8 @@ A place where I share all my links
 
 ### General
 
+[Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
+
 🎥 [React Wasn't Built For The Web](https://www.youtube.com/watch?v=Y12sGu8-qFE&t=2s)
 
 [Displaying Local Times in Next.js](https://francoisbest.com/posts/2023/displaying-local-times-in-nextjs)
