@@ -143,6 +143,8 @@ A place where I share all my links
 
 ### Performance
 
+[Fantastic closures and how to find them in React](https://www.developerway.com/posts/fantastic-closures)
+
 [useMemo overdose](https://edvins.io/usememo-overdose)
 
 [React Suspense in three different architectures](https://elanmed.dev/blog/suspense-in-different-architectures)
