@@ -121,6 +121,8 @@ A place where I share all my links
 
 ### Forms
 
+[Form Validation with React Hook Form](https://claritydev.net/blog/form-validation-react-hook-form)
+
 [Intro to React Server Components and Actions with Next.js](https://scastiel.dev/server-components-actions-react-nextjs)
 
 [Can React Server Actions finally fix forms?](https://www.mux.com/blog/what-are-react-server-actions)
