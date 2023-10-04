@@ -489,6 +489,8 @@ A place where I share all my links
 
 ## Deno
 
+[Node.js's Config Hell Problem](https://deno.com/blog/node-config-hell)
+
 [The State of Web Frameworks on Deno](https://deno.com/blog/web-frameworks-on-deno)
 
 [Why We Added package.json Support to Deno](https://deno.com/blog/package-json-support)
