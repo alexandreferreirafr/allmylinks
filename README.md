@@ -267,6 +267,8 @@ A place where I share all my links
 
 ### General
 
+[Quit Your YAP-ing](https://kyleshevlin.com/quit-your-yapping)
+
 [Exploring how virtual DOM is implemented in React](https://indepth.dev/posts/1501/exploring-how-virtual-dom-is-implemented-in-react)
 
 [On React Suspense’s throttling](https://andreigatej.dev/blog/on-react-suspense-throttling)
