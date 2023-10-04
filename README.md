@@ -265,6 +265,8 @@ A place where I share all my links
 
 ### General
 
+[Exploring how virtual DOM is implemented in React](https://indepth.dev/posts/1501/exploring-how-virtual-dom-is-implemented-in-react)
+
 [On React Suspense’s throttling](https://andreigatej.dev/blog/on-react-suspense-throttling)
 
 [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
