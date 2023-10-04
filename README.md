@@ -207,6 +207,8 @@ A place where I share all my links
 
 ### Testing
 
+[React: how to debug the source code](https://andreigatej.dev/blog/react-debugging-the-source-code/)
+
 [A Wide View of Automated Testing in React Apps](https://reacthandbook.dev/automated-testing)
 
 [How to Test Custom React Hooks with React Testing Library](https://www.builder.io/blog/test-custom-hooks-react-testing-library)
