@@ -265,6 +265,8 @@ A place where I share all my links
 
 ### General
 
+[On React Suspense’s throttling](https://andreigatej.dev/blog/on-react-suspense-throttling)
+
 [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
 
 🎥 [React Wasn't Built For The Web](https://www.youtube.com/watch?v=Y12sGu8-qFE&t=2s)
