@@ -391,7 +391,9 @@ A place where I share all my links
 
 ## Astro
 
-[Ben Holmes: Future Astro and React Advanced!](https://www.youtube.com/watch?v=sbiuZj2s5fs)
+[Lifting Off with Astro](https://remotesynthesis.com/blog/lifting-off-with-astro)
+
+🎥 [Ben Holmes: Future Astro and React Advanced!](https://www.youtube.com/watch?v=sbiuZj2s5fs)
 
 [Astro 3.0](https://astro.build/blog/astro-3)
 
