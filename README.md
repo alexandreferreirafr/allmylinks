@@ -377,6 +377,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Vercel Integration and Next.js App Router Support](https://supabase.com/blog/using-supabase-with-vercel)
+
 [Next.js 13.5](https://nextjs.org/blog/next-13-5)
 
 [Remix v2](https://remix.run/blog/remix-v2)
