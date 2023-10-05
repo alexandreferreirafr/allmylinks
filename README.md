@@ -661,6 +661,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Deprecating the unload event](https://developer.chrome.com/blog/deprecating-unload)
+
 [Fresh 1.4 – Faster Page Loads, Layouts and More](https://deno.com/blog/fresh-1.4)
 
 [New in Chrome 117](https://developer.chrome.com/en/blog/new-in-chrome-117)
