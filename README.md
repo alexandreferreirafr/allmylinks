@@ -561,6 +561,8 @@ A place where I share all my links
 
 ## 3D / ThreeJS
 
+[Coding the stars - an interactive constellation with Three.js and React Three Fiber](https://supabase.com/blog/interactive-constellation-threejs-react-three-fiber)
+
 [Getting Started With Your First three.js Project: Part One — The Setup](https://medium.com/nerd-for-tech/getting-started-with-your-first-three-js-project-part-one-the-setup-17f18660aecc)
 
 [Getting Started With Your First three.js Project: Part Two — The Build](https://medium.com/nerd-for-tech/getting-started-with-your-first-three-js-project-part-two-the-build-3fd9a2f21418)
