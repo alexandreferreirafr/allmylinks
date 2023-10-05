@@ -151,6 +151,8 @@ A place where I share all my links
 
 ### Performance
 
+[Before You memo()](https://overreacted.io/before-you-memo/)
+
 [Fantastic closures and how to find them in React](https://www.developerway.com/posts/fantastic-closures)
 
 [useMemo overdose](https://edvins.io/usememo-overdose)
