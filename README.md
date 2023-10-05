@@ -397,6 +397,8 @@ A place where I share all my links
 
 ## Astro
 
+🎥 [Why I STOPPED Using Next.js And Chose Astro Instead](https://www.youtube.com/watch?v=BoeZqPaYw9s)
+
 [Lifting Off with Astro](https://remotesynthesis.com/blog/lifting-off-with-astro)
 
 🎥 [Ben Holmes: Future Astro and React Advanced!](https://www.youtube.com/watch?v=sbiuZj2s5fs)
