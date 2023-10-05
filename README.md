@@ -447,6 +447,8 @@ A place where I share all my links
 
 ### General
 
+[How layout position impacts three big web performance levers](https://performance.shopify.com/blogs/blog/how-layout-position-impacts-three-big-web-performance-levers)
+
 [Effectively loading ads without impacting page speed](https://web.dev/loading-ads-page-speed/)
 
 [Your Cache Headers Could Probably be More Aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
