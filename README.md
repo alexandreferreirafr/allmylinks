@@ -125,6 +125,8 @@ A place where I share all my links
 
 ### Forms
 
+[Accessible, Typesafe, Progressively Enhanced Modern Web Forms](https://www.epicweb.dev/accessible-typesafe-progressively-enhanced-modern-web-forms)
+
 [Form Validation with React Hook Form](https://claritydev.net/blog/form-validation-react-hook-form)
 
 [Intro to React Server Components and Actions with Next.js](https://scastiel.dev/server-components-actions-react-nextjs)
