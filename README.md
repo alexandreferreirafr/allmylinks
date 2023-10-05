@@ -111,6 +111,8 @@ A place where I share all my links
 
 ### Fetching
 
+🎥 [Dominik Dorfmeister: React Query With The App Router](https://www.youtube.com/watch?v=R4NHXrvwZWA)
+
 🎥 [React Query is Secretly an Amazing State Manager](https://www.youtube.com/watch?v=0X3TlVklT-A)
 
 🎥 [tRPC + NextJS App Router = Simple Typesafe APIs](https://www.youtube.com/watch?v=qCLV0Iaq9zU)
