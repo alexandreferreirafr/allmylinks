@@ -209,6 +209,8 @@ A place where I share all my links
 
 ### Testing
 
+[Introducing a new lint rule for React Testing Library](https://blog.testdouble.com/posts/2023-07-31-a-new-rtl-lint-rule)
+
 [React: how to debug the source code](https://andreigatej.dev/blog/react-debugging-the-source-code/)
 
 [A Wide View of Automated Testing in React Apps](https://reacthandbook.dev/automated-testing)
