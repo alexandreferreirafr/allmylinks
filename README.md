@@ -535,6 +535,8 @@ A place where I share all my links
 
 ## CSS
 
+🎥 [Responsive Framer Motion with Tailwind CSS](https://www.youtube.com/watch?v=xSuxsfn13xg)
+
 [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
 
 🎥 [Create Jaw-Dropping UIs with Simple Animated View Transitions and Container Queries](https://www.youtube.com/watch?v=lISvyIaSRyk)
