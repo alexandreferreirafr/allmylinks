@@ -615,6 +615,8 @@ A place where I share all my links
 
 ## General
 
+[What Does It Mean for Web Browsers to Have a Baseline](https://thenewstack.io/what-does-it-mean-for-web-browsers-to-have-a-baseline)
+
 [Islands & Server Components & Resumability, Oh My!](https://dev.to/this-is-learning/islands-server-components-resumability-oh-my-319d)
 
 [Using Zig in our incremental Turborepo migration from Go to Rust](https://vercel.com/blog/how-we-continued-porting-turborepo-to-rust)
