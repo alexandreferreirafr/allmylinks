@@ -151,6 +151,8 @@ A place where I share all my links
 
 ### Performance
 
+[One simple trick to optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders)
+
 [Before You memo()](https://overreacted.io/before-you-memo/)
 
 [Fantastic closures and how to find them in React](https://www.developerway.com/posts/fantastic-closures)
