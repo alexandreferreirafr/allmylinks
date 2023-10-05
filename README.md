@@ -151,6 +151,8 @@ A place where I share all my links
 
 ### Performance
 
+[The Uphill Battle of Memoization](https://tkdodo.eu/blog/the-uphill-battle-of-memoization)
+
 [One simple trick to optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders)
 
 [Before You memo()](https://overreacted.io/before-you-memo/)
