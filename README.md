@@ -401,6 +401,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Preparing your site for Docusaurus v3](https://docusaurus.io/blog/preparing-your-site-for-docusaurus-v3)
+
 [Vercel Integration and Next.js App Router Support](https://supabase.com/blog/using-supabase-with-vercel)
 
 [Next.js 13.5](https://nextjs.org/blog/next-13-5)
