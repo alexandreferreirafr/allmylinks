@@ -153,6 +153,8 @@ A place where I share all my links
 
 ### Performance
 
+[Hydration, the Saboteur of Lazy Loading](https://www.builder.io/blog/hydration-sabotages-lazy-loading)
+
 [Records & Tuples for React](https://sebastienlorber.com/records-and-tuples-for-react)
 
 [The Uphill Battle of Memoization](https://tkdodo.eu/blog/the-uphill-battle-of-memoization)
