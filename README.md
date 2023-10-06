@@ -557,6 +557,8 @@ A place where I share all my links
 
 ## CSS
 
+🎥 [Facebook Tried Tailwind, Then Built This Instead](https://www.youtube.com/watch?v=PHV94q7BivI)
+
 🎥 [Responsive Framer Motion with Tailwind CSS](https://www.youtube.com/watch?v=xSuxsfn13xg)
 
 [Four new CSS features for smooth entry and exit animations](https://developer.chrome.com/blog/entry-exit-animations)
