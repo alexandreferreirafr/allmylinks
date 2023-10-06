@@ -645,6 +645,8 @@ A place where I share all my links
 
 ## General
 
+[The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode)
+
 [A Blog Post With Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element)
 
 [What Does It Mean for Web Browsers to Have a Baseline](https://thenewstack.io/what-does-it-mean-for-web-browsers-to-have-a-baseline)
