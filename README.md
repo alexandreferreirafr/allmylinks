@@ -287,6 +287,8 @@ A place where I share all my links
 
 ### General
 
+[Next.js 13 vs Remix: An In-depth case study](https://prateeksurana.me/blog/nextjs-13-vs-remix-an-in-depth-case-study/)
+
 [Quit Your YAP-ing](https://kyleshevlin.com/quit-your-yapping)
 
 [Exploring how virtual DOM is implemented in React](https://indepth.dev/posts/1501/exploring-how-virtual-dom-is-implemented-in-react)
