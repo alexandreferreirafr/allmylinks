@@ -401,6 +401,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Astro 3.2: View Transitions improvements](https://astro.build/blog/astro-320/)
+
 [Preparing your site for Docusaurus v3](https://docusaurus.io/blog/preparing-your-site-for-docusaurus-v3)
 
 [Vercel Integration and Next.js App Router Support](https://supabase.com/blog/using-supabase-with-vercel)
