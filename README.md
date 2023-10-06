@@ -287,6 +287,8 @@ A place where I share all my links
 
 ### General
 
+[React Google Maps: Drawing Tools](https://sudolabs.com/insights/react-google-maps-drawing-tools)
+
 [Next.js 13 vs Remix: An In-depth case study](https://prateeksurana.me/blog/nextjs-13-vs-remix-an-in-depth-case-study/)
 
 [Quit Your YAP-ing](https://kyleshevlin.com/quit-your-yapping)
