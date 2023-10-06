@@ -557,6 +557,8 @@ A place where I share all my links
 
 ## CSS
 
+[CSS Nesting and the Cascade](https://webkit.org/blog/14571/css-nesting-and-the-cascade)
+
 [CSS Subgrid](https://web.dev/css-subgrid)
 
 🎥 [Facebook Tried Tailwind, Then Built This Instead](https://www.youtube.com/watch?v=PHV94q7BivI)
