@@ -67,6 +67,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Understanding React Server Components](https://vercel.com/blog/understanding-react-server-components)
+
 [Devtools for React Server Components](https://www.alvar.dev/blog/creating-devtools-for-react-server-components)
 
 [The simplest example to understand Server Actions in Next.js](https://scastiel.dev/simplest-example-server-actions-nextjs)
