@@ -459,6 +459,8 @@ A place where I share all my links
 
 ## Design Patterns
 
+[Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
+
 [Writing Your Own Reactive Signal Library](https://www.lksh.dev/blog/writing-your-own-reactive-signal-library)
 
 [Signals vs. Observables, what's all the fuss about?](https://www.builder.io/blog/signals-vs-observables)
