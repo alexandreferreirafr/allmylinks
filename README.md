@@ -425,6 +425,8 @@ A place where I share all my links
 
 ## Astro
 
+[Migrating my blog from Gatsby to Astro](https://sapegin.me/blog/gatsby-to-astro/)
+
 🎥 [Why I STOPPED Using Next.js And Chose Astro Instead](https://www.youtube.com/watch?v=BoeZqPaYw9s)
 
 [Lifting Off with Astro](https://remotesynthesis.com/blog/lifting-off-with-astro)
