@@ -229,6 +229,8 @@ A place where I share all my links
 
 ### Testing
 
+[Achieving Clean and Maintainable React Component Tests](https://medium.com/globant/achieving-clean-and-maintainable-react-component-tests-b3d5e0483307)
+
 [Introducing a new lint rule for React Testing Library](https://blog.testdouble.com/posts/2023-07-31-a-new-rtl-lint-rule)
 
 [React: how to debug the source code](https://andreigatej.dev/blog/react-debugging-the-source-code/)
