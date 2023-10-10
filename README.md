@@ -413,7 +413,7 @@ A place where I share all my links
 
 ### Announcements
 
-[Astro 3.2: View Transitions improvements](https://astro.build/blog/astro-320/)
+[Introducing Next.js Commerce 2.0](https://vercel.com/blog/introducing-next-js-commerce-2-0)
 
 [Preparing your site for Docusaurus v3](https://docusaurus.io/blog/preparing-your-site-for-docusaurus-v3)
 
@@ -430,6 +430,8 @@ A place where I share all my links
 [Remix without Limits](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support)
 
 ## Astro
+
+[Astro 3.2: View Transitions improvements](https://astro.build/blog/astro-320/)
 
 [Migrating my blog from Gatsby to Astro](https://sapegin.me/blog/gatsby-to-astro/)
 
