@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Use createStateContext to share a useState hook](https://www.jacobparis.com/content/use-state-context)
+
 [You Might Not Need React Query](https://tkdodo.eu/blog/you-might-not-need-react-query)
 
 [Pull to refresh from scratch as a React hook](https://www.strictmode.io/articles/react-pull-to-refresh)
