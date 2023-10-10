@@ -69,6 +69,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://www.perssondennis.com/articles/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client)
+
 [Understanding React Server Components](https://vercel.com/blog/understanding-react-server-components)
 
 [Devtools for React Server Components](https://www.alvar.dev/blog/creating-devtools-for-react-server-components)
