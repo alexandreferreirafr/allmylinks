@@ -647,6 +647,8 @@ A place where I share all my links
 
 ## Typing
 
+[Unraveling the magic of Pattern Matching](https://www.swan.io/blog-posts/unraveling-the-magic-of-pattern-matching)
+
 [One Thing Nobody Explained To You About TypeScript](https://redd.one/blog/one-thing-nobody-explained-to-you-about-typescript)
 
 [Array<T> vs T[]: Which is better?](https://www.totaltypescript.com/array-types-in-typescript)
