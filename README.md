@@ -441,6 +441,8 @@ A place where I share all my links
 
 [Astro 3.0](https://astro.build/blog/astro-3)
 
+[Astro 2.10: Persistent State in View Transitions](https://astro.build/blog/astro-2100/)
+
 [Better Images in Astro](https://astro.build/blog/images/)
 
 [Reducing 97% of the Open UI site's JavaScript by migrating to Astro](https://blog.andri.co/023-migrating-open-ui-site-from-gatsby-to-astro/)
