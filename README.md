@@ -571,6 +571,10 @@ A place where I share all my links
 
 [My thoughts on Bun and other Adventures](https://adventures.nodeland.dev/archive/my-thoughts-on-bun/)
 
+## Rust
+
+[Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
+
 ## CSS
 
 [CSS Nesting and the Cascade](https://webkit.org/blog/14571/css-nesting-and-the-cascade)
