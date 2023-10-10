@@ -665,6 +665,8 @@ A place where I share all my links
 
 ## General
 
+[Soft skill books that will make you a better developer](https://addyosmani.com/blog/soft-skills-books/)
+
 [Blogged Answers: My Experience Modernizing Packages to ESM](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons)
 
 [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode)
