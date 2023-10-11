@@ -299,7 +299,7 @@ A place where I share all my links
 
 ### General
 
-[Creating a Simplified Version of React Dom | Custom React Renderer](https://www.youtube.com/watch?v=0wXWHfLXMro)
+🎥 [Creating a Simplified Version of React Dom | Custom React Renderer](https://www.youtube.com/watch?v=0wXWHfLXMro)
 
 [The React Graph Gallery](https://datavizuniverse.substack.com/p/the-react-graph-gallery)
 
