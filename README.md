@@ -729,7 +729,9 @@ A place where I share all my links
 
 [Guide to AI for eCommerce](https://scale.com/guides/ai-for-ecommerce)
 
-### Announcements
+## Announcements
+
+[Visual Tests addon sneak peek](https://storybook.js.org/blog/visual-tests-addon-sneak-peek/)
 
 [Deprecating the unload event](https://developer.chrome.com/blog/deprecating-unload)
 
