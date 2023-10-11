@@ -423,6 +423,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Shopify’s platform is the Web platform](https://shopify.engineering/shopifys-platform-is-the-web-platform)
+
 [Introducing Next.js Commerce 2.0](https://vercel.com/blog/introducing-next-js-commerce-2-0)
 
 [Preparing your site for Docusaurus v3](https://docusaurus.io/blog/preparing-your-site-for-docusaurus-v3)
