@@ -305,6 +305,8 @@ A place where I share all my links
 
 ### General
 
+[Use svg sprite icons in React](https://www.jacobparis.com/content/svg-icons)
+
 [Partially Controlled Components: A Declarative Design Pattern in React](https://www.jameskerr.blog/posts/partially-controlled-react-components/)
 
 🎥 [Creating a Simplified Version of React Dom | Custom React Renderer](https://www.youtube.com/watch?v=0wXWHfLXMro)
