@@ -255,6 +255,8 @@ A place where I share all my links
 
 ### Typing
 
+[Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
+
 [Strongly Typing React Props with TypeScript](https://www.totaltypescript.com/react-props-typescript)
 
 [How to Pass a Component as a Prop in React](https://www.totaltypescript.com/pass-component-as-prop-react)
