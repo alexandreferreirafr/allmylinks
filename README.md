@@ -181,6 +181,8 @@ A place where I share all my links
 
 [React Suspense in three different architectures](https://elanmed.dev/blog/suspense-in-different-architectures)
 
+[10 Essential React Performance Optimization Techniques for Faster Web Applications](https://techreactlearning.blogspot.com/2023/07/10-essential-react-performance.html)
+
 🎥 [Is Next.js App Router SLOW? Performance Deep Dive](https://www.youtube.com/watch?v=HbUDiNlU6Yw&t=995s)
 
 🎥 [Are React Server Components Really Slower?](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
