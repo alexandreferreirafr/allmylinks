@@ -69,6 +69,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Speeding up the dbt™ docs by 20x with React Server Components](https://dagster.io/blog/dbt-docs-on-react)
+
 [Everything I wish I knew before moving 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 
 [Do Contexts in Next.js 13 Make the Whole App Render on the Client?](https://www.perssondennis.com/articles/do-contexts-in-nextjs-13-make-the-whole-app-render-on-the-client)
