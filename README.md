@@ -311,6 +311,8 @@ A place where I share all my links
 
 ### General
 
+[Why I love Remix](https://alemtuzlak.hashnode.dev/why-i-love-remix)
+
 [Access the Loader Data in Remix](https://sergiodxa.com/tutorials/access-loaders-data-in-remix)
 
 [Server-side pagination with Remix](https://www.jacobparis.com/content/remix-pagination)
