@@ -167,6 +167,8 @@ A place where I share all my links
 
 ### Performance
 
+[Making React Apps Memory Efficient | Million.js Beyond Speed](https://dev.to/ricardonunezio/millionjs-beyond-speed-making-react-apps-memory-efficient-2amn)
+
 [Hydration, the Saboteur of Lazy Loading](https://www.builder.io/blog/hydration-sabotages-lazy-loading)
 
 [Records & Tuples for React](https://sebastienlorber.com/records-and-tuples-for-react)
