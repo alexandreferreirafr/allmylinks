@@ -311,6 +311,8 @@ A place where I share all my links
 
 ### General
 
+[Server-side pagination with Remix](https://www.jacobparis.com/content/remix-pagination)
+
 [UI Composition](https://kyleshevlin.com/ui-composition)
 
 [Use svg sprite icons in React](https://www.jacobparis.com/content/svg-icons)
