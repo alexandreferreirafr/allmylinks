@@ -753,6 +753,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Lit Launch Day: Lit 3.0, Labs graduations, a compiler and more!](https://lit.dev/blog/2023-10-10-lit-3.0/)
+
 [Visual Tests addon sneak peek](https://storybook.js.org/blog/visual-tests-addon-sneak-peek/)
 
 [Deprecating the unload event](https://developer.chrome.com/blog/deprecating-unload)
