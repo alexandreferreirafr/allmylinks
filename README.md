@@ -687,6 +687,8 @@ A place where I share all my links
 
 ## Opnion
 
+[Is Jamstack Officially Finished?](https://remotesynthesis.com/blog/goodbye-jamstack/)
+
 [Is React Having An Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
 
 [The JavaScript Ecosystem is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
