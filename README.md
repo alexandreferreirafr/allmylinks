@@ -311,6 +311,8 @@ A place where I share all my links
 
 ### General
 
+[Access the Loader Data in Remix](https://sergiodxa.com/tutorials/access-loaders-data-in-remix)
+
 [Server-side pagination with Remix](https://www.jacobparis.com/content/remix-pagination)
 
 [UI Composition](https://kyleshevlin.com/ui-composition)
