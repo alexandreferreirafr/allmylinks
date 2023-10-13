@@ -689,6 +689,8 @@ A place where I share all my links
 
 ## Typing
 
+[Write your own Zod](https://zackoverflow.dev/writing/write-your-own-zod)
+
 [How to Properly Type Window](https://www.totaltypescript.com/how-to-properly-type-window)
 
 [Unraveling the magic of Pattern Matching](https://www.swan.io/blog-posts/unraveling-the-magic-of-pattern-matching)
