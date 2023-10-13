@@ -783,6 +783,10 @@ A place where I share all my links
 
 [Guide to AI for eCommerce](https://scale.com/guides/ai-for-ecommerce)
 
+### WebML
+
+[useMachineLearning… and Have Fun with It!](https://portal.gitnation.org/contents/usemachinelearning-and-have-fun-with-it)
+
 ## Announcements
 
 [Fresh 1.5: Partials, client side navigation and more](https://deno.com/blog/fresh-1.5)
