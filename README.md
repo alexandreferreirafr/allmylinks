@@ -29,6 +29,10 @@ A place where I share all my links
 
 [Actionless and Stateless Reducers in React](https://julesblom.com/writing/actionless-and-stateless-reducers)
 
+### HOC
+
+[Why we still use React HOCs](https://www.propelauth.com/post/why-we-have-both-react-hooks-and-hocs)
+
 ### State Management
 
 [How to Use Jotai and useTransition for Mutation](https://blog.axlight.com/posts/how-to-use-jotai-and-use-transition-for-mutation/)
