@@ -317,6 +317,8 @@ A place where I share all my links
 
 ### General
 
+🎥 [React Myths And Legends](https://portal.gitnation.org/contents/react-myths-and-legends)
+
 [Test your React Libraries Locally with Yalc](https://www.propelauth.com/post/test-your-react-libraries-with-yalc)
 
 [Why I love Remix](https://alemtuzlak.hashnode.dev/why-i-love-remix)
