@@ -621,6 +621,8 @@ A place where I share all my links
 
 ## CSS
 
+[Limit the reach of your selectors with the CSS @scope at-rule](https://developer.chrome.com/articles/at-scope/)
+
 [CSS Nesting and the Cascade](https://webkit.org/blog/14571/css-nesting-and-the-cascade)
 
 [CSS Subgrid](https://web.dev/css-subgrid)
