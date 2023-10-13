@@ -659,6 +659,8 @@ A place where I share all my links
 
 ## 3D / ThreeJS
 
+[Progressively Enhanced WebGL Lens Refraction](https://tympanus.net/codrops/2023/10/10/progressively-enhanced-webgl-lens-refraction)
+
 [Coding the stars - an interactive constellation with Three.js and React Three Fiber](https://supabase.com/blog/interactive-constellation-threejs-react-three-fiber)
 
 [Getting Started With Your First three.js Project: Part One — The Setup](https://medium.com/nerd-for-tech/getting-started-with-your-first-three-js-project-part-one-the-setup-17f18660aecc)
