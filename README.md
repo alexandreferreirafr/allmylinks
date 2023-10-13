@@ -689,6 +689,8 @@ A place where I share all my links
 
 ## Typing
 
+[This technique makes Valibot’s bundle size 10x smaller than Zod’s!](https://www.builder.io/blog/valibot-bundle-size)
+
 [Strong static typing, a hill I'm willing to die on...](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 
 [Write your own Zod](https://zackoverflow.dev/writing/write-your-own-zod)
