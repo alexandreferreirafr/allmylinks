@@ -553,6 +553,10 @@ A place where I share all my links
 
 [A11y-Driven Development](https://www.simplethread.com/a11y-driven-development)
 
+## Security
+
+[A New Protocol Vulnerability Will Haunt the Web for Years](https://www.wired.com/story/http-2-rapid-reset-flaw/)
+
 ## Architecture
 
 ### Application Design
