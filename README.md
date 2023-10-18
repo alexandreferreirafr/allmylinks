@@ -317,6 +317,8 @@ A place where I share all my links
 
 ### General
 
+[Next-Auth in App Router of Next.js](https://medium.com/@rohitkumarkhatri/next-auth-in-app-router-of-next-js-7df037f7a2ad)
+
 🎥 [React Myths And Legends](https://portal.gitnation.org/contents/react-myths-and-legends)
 
 [Test your React Libraries Locally with Yalc](https://www.propelauth.com/post/test-your-react-libraries-with-yalc)
