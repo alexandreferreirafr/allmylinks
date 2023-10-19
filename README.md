@@ -749,6 +749,8 @@ A place where I share all my links
 
 ## General
 
+[You can't get faster than No Build](https://world.hey.com/dhh/you-can-t-get-faster-than-no-build-7a44131c)
+
 [How we optimized package imports in Next.js](https://vercel.com/blog/how-we-optimized-package-imports-in-next-js)
 
 [Soft skill books that will make you a better developer](https://addyosmani.com/blog/soft-skills-books/)
