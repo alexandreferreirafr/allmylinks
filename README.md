@@ -797,6 +797,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Rspress, the Rspack-based static site generator](https://github.com/orgs/web-infra-dev/discussions/5)
+
 [Announcing TanStack Query v5](https://tanstack.com/blog/announcing-tanstack-query-v5)
 
 [Fresh 1.5: Partials, client side navigation and more](https://deno.com/blog/fresh-1.5)
