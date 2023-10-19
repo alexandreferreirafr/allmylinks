@@ -483,6 +483,8 @@ A place where I share all my links
 
 ## Astro
 
+[Astro 3.3: Picture component](https://astro.build/blog/astro-330/)
+
 [Astro 3.2: View Transitions improvements](https://astro.build/blog/astro-320/)
 
 [Migrating my blog from Gatsby to Astro](https://sapegin.me/blog/gatsby-to-astro/)
