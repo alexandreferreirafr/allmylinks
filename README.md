@@ -809,6 +809,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Introducing the Theme Switcher addon](https://storybook.js.org/blog/introducing-theme-switcher-addon/)
+
 [Rspress, the Rspack-based static site generator](https://github.com/orgs/web-infra-dev/discussions/5)
 
 [Announcing TanStack Query v5](https://tanstack.com/blog/announcing-tanstack-query-v5)
