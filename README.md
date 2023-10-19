@@ -815,6 +815,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Node.js 21 Available Now!](https://openjsf.org/announcement/2023/10/17/node-js-21-available-now/)
+
 [Legend-State 2.0: Performance and Persistence](https://legendapp.com/open-source/legend-state-v2/)
 
 [Introducing the Theme Switcher addon](https://storybook.js.org/blog/introducing-theme-switcher-addon/)
