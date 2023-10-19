@@ -811,6 +811,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Legend-State 2.0: Performance and Persistence](https://legendapp.com/open-source/legend-state-v2/)
+
 [Introducing the Theme Switcher addon](https://storybook.js.org/blog/introducing-theme-switcher-addon/)
 
 [Rspress, the Rspack-based static site generator](https://github.com/orgs/web-infra-dev/discussions/5)
