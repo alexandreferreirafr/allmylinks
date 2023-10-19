@@ -523,6 +523,8 @@ A place where I share all my links
 
 ## Design Patterns
 
+[DefinitelyTyped is a monorepo!](https://jakebailey.dev/posts/pnpm-dt-3/)
+
 [Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
 
 [Writing Your Own Reactive Signal Library](https://www.lksh.dev/blog/writing-your-own-reactive-signal-library)
