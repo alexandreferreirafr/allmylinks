@@ -739,6 +739,8 @@ A place where I share all my links
 
 ## General
 
+[How we optimized package imports in Next.js](https://vercel.com/blog/how-we-optimized-package-imports-in-next-js)
+
 [Soft skill books that will make you a better developer](https://addyosmani.com/blog/soft-skills-books/)
 
 [Blogged Answers: My Experience Modernizing Packages to ESM](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons)
