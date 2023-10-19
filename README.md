@@ -173,6 +173,8 @@ A place where I share all my links
 
 ### Performance
 
+[React memo is good actually](https://timtech.blog/posts/react-memo-is-good-actually/)
+
 🎥 [React Forget: React for developers and compilers - Sathya Gunasekaran](https://www.youtube.com/watch?v=kjOacmVsLSE)
 
 [Making React Apps Memory Efficient | Million.js Beyond Speed](https://dev.to/ricardonunezio/millionjs-beyond-speed-making-react-apps-memory-efficient-2amn)
