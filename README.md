@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[React useTransition: performance game changer or...?](https://www.developerway.com/posts/use-transition)
+
 [Use createStateContext to share a useState hook](https://www.jacobparis.com/content/use-state-context)
 
 [You Might Not Need React Query](https://tkdodo.eu/blog/you-might-not-need-react-query)
