@@ -809,6 +809,8 @@ A place where I share all my links
 
 ### WebML
 
+[MediaPipe jS: TFjS on Steroids](https://dj-ai.medium.com/mediapipe-1f6818a44c9)
+
 [Make a smart webcam in JavaScript with a TensorFlow.js pre-trained Machine Learning model](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection?hl=en#0)
 
 [useMachineLearning… and Have Fun with It!](https://portal.gitnation.org/contents/usemachinelearning-and-have-fun-with-it)
