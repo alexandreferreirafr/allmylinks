@@ -325,6 +325,10 @@ A place where I share all my links
 
 [Fighting inter-component HTML bloat](https://elisehe.in/2023/03/27/minimal-html-in-design-systems.html)
 
+### SSR in other languages
+
+[Server-side rendering React in OCaml](https://sancho.dev/blog/server-side-rendering-react-in-ocaml)
+
 ### General
 
 [Embedding Remix in Directus](https://echobind.com/post/embedding-remix-in-directus)
