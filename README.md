@@ -277,6 +277,8 @@ A place where I share all my links
 
 ### Typing
 
+[React.ReactNode vs JSX.Element vs React.ReactElement](https://www.totaltypescript.com/jsx-element-vs-react-reactnode)
+
 [Strongly Type useRef with ElementRef](https://www.totaltypescript.com/strongly-type-useref-with-elementref)
 
 [Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
