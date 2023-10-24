@@ -547,7 +547,7 @@ A place where I share all my links
 
 ## Design Patterns
 
-[DefinitelyTyped is a monorepo!](https://jakebailey.dev/posts/pnpm-dt-3/)
+🎥 [React Advanced London 2023 - Hydration, Islands, Streaming, Resumability… Oh My!](https://portal.gitnation.org/contents/hydration-islands-streaming-resumability-oh-my)
 
 [Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
 
@@ -614,6 +614,8 @@ A place where I share all my links
 [The Web’s Next Transition](https://www.epicweb.dev/the-webs-next-transition)
 
 ### Monorepos
+
+[DefinitelyTyped is a monorepo!](https://jakebailey.dev/posts/pnpm-dt-3/)
 
 [5 Ways to Build a React Monorepo](https://blog.bitsrc.io/5-ways-to-build-a-react-monorepo-a294b6c5b0ac)
 
