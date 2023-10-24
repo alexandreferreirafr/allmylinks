@@ -341,6 +341,8 @@ A place where I share all my links
 
 ### General
 
+🎥 [React Advanced London 2023 - How Popovers Are About to Become a Whole Lot Easier to Build](https://portal.gitnation.org/contents/how-popovers-are-about-to-become-a-whole-lot-easier-to-build)
+
 🎥 [React Advanced London 2023 - Feature Flagging With React](https://portal.gitnation.org/contents/feature-flagging-with-react)
 
 [Embedding Remix in Directus](https://echobind.com/post/embedding-remix-in-directus)
