@@ -175,6 +175,8 @@ A place where I share all my links
 
 ### Performance
 
+🎥 [Speeding Up Your React App With Less Javascript](https://portal.gitnation.org/contents/speeding-up-your-react-app-with-less-javascript-1470)
+
 [React memo is good actually](https://timtech.blog/posts/react-memo-is-good-actually/)
 
 🎥 [React Forget: React for developers and compilers - Sathya Gunasekaran](https://www.youtube.com/watch?v=kjOacmVsLSE)
