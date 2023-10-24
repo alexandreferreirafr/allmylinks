@@ -575,6 +575,8 @@ A place where I share all my links
 
 ### General
 
+🎥 [React Advanced London 2023 - Hacking an e-Reader with React](https://portal.gitnation.org/contents/hacking-an-e-reader-with-react)
+
 🎥 [React Advanced London 2023 - Winning the Performance Race](https://portal.gitnation.org/contents/winning-the-performance-race)
 
 [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
