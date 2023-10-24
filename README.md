@@ -37,7 +37,7 @@ A place where I share all my links
 
 ### State Management
 
-[Simplifying Data Management in React With React Query](https://portal.gitnation.org/contents/simplifying-data-management-in-react-with-react-query)
+🎥 [Simplifying Data Management in React With React Query](https://portal.gitnation.org/contents/simplifying-data-management-in-react-with-react-query)
 
 [How to Use Jotai and useTransition for Mutation](https://blog.axlight.com/posts/how-to-use-jotai-and-use-transition-for-mutation/)
 
@@ -806,6 +806,8 @@ A place where I share all my links
 [Diffusion Models: A Practical Guide](https://scale.com/guides/diffusion-models-guide)
 
 ### Generative
+
+🎥 [Figma to React With AI, Are We There Yet?](https://portal.gitnation.org/contents/figma-to-react-with-ai-are-we-there-yet)
 
 🎥 [Vercel's New AI Writes Surprisingly Good Code](https://www.youtube.com/watch?v=xNG4zXpU1QA)
 
