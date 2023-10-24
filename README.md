@@ -37,7 +37,7 @@ A place where I share all my links
 
 ### State Management
 
-🎥 [Simplifying Data Management in React With React Query](https://portal.gitnation.org/contents/simplifying-data-management-in-react-with-react-query)
+🎥 [React Advanced London 2023 - Simplifying Data Management in React With React Query](https://portal.gitnation.org/contents/simplifying-data-management-in-react-with-react-query)
 
 [How to Use Jotai and useTransition for Mutation](https://blog.axlight.com/posts/how-to-use-jotai-and-use-transition-for-mutation/)
 
@@ -76,6 +76,8 @@ A place where I share all my links
 [A Visual Guide to React Rendering - Refs](https://alexsidorenko.com/blog/react-render-refs/)
 
 ### Server Components
+
+🎥 [React Advanced London 2023 - The State of The State In The App Router](https://portal.gitnation.org/contents/the-state-of-the-state-in-the-app-router)
 
 [Must Know App Router Secret: Promises For Props](https://www.youtube.com/watch?v=ViVa5JPGrf4)
 
