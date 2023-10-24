@@ -559,6 +559,8 @@ A place where I share all my links
 
 ## Design Patterns
 
+🎥 [React Advanced London 2023 - Opt in Design – The New Era of React Frameworks](https://portal.gitnation.org/contents/opt-in-design-the-new-era-of-react-frameworks-1497)
+
 🎥 [React Advanced London 2023 - Hydration, Islands, Streaming, Resumability… Oh My!](https://portal.gitnation.org/contents/hydration-islands-streaming-resumability-oh-my)
 
 [Sending UI over APIs](https://www.builder.io/blog/ui-over-apis)
