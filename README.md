@@ -607,6 +607,8 @@ A place where I share all my links
 
 ### Microfrontends
 
+🎥 [Micro-Frontends With React & Vite Module Federation](https://portal.gitnation.org/contents/micro-frontends-with-react-and-vite-module-federation)
+
 [Micro-frontend dev !](https://microfrontend.dev/)
 
 ### Cloud
