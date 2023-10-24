@@ -345,6 +345,8 @@ A place where I share all my links
 
 ### General
 
+🎥 [React Advanced London 2023 - Implementation of Schedules and Timelines](https://portal.gitnation.org/contents/implementation-of-schedules-and-timelines)
+
 🎥 [React Advanced London 2023 - Why Everybody Needs a Framework](https://portal.gitnation.org/contents/why-everybody-needs-a-framework)
 
 🎥 [React Advanced London 2023 - How Popovers Are About to Become a Whole Lot Easier to Build](https://portal.gitnation.org/contents/how-popovers-are-about-to-become-a-whole-lot-easier-to-build)
