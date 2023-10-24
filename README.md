@@ -183,6 +183,8 @@ A place where I share all my links
 
 ### Performance
 
+🎥 [React Advanced London 2023 - React Forget](https://portal.gitnation.org/contents/understanding-idiomatic-react)
+
 🎥 [React Advanced London 2023 - Patterns for Performance](https://portal.gitnation.org/contents/patterns-for-performance)
 
 🎥 [React Advanced London 2023 - Speeding Up Your React App With Less Javascript](https://portal.gitnation.org/contents/speeding-up-your-react-app-with-less-javascript-1470)
