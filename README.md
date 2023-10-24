@@ -735,6 +735,8 @@ A place where I share all my links
 
 ## Browsers API
 
+🎥 [React Advanced London 2023 - Harnessing the Power of Messagechannel and Broadcastchannel](https://portal.gitnation.org/contents/harnessing-the-power-of-messagechannel-and-broadcastchannel)
+
 [JavaScript import maps are now supported cross-browser](https://web.dev/import-maps-in-all-modern-browsers/)
 
 [Push notifications are now supported cross-browser](https://web.dev/push-notifications-in-all-modern-browsers/)
