@@ -131,6 +131,10 @@ A place where I share all my links
 
 🎥 [Secret React Server Component Patterns They Don't Want You To Know](https://www.youtube.com/watch?v=ciQdQkT0bZk)
 
+### Concurrency
+
+🎥 [Concurrent React Made Easy](https://portal.gitnation.org/contents/concurrent-react-made-easy)
+
 ### Fetching
 
 🎥 [Dominik Dorfmeister: React Query With The App Router](https://www.youtube.com/watch?v=R4NHXrvwZWA)
