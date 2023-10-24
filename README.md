@@ -37,6 +37,8 @@ A place where I share all my links
 
 ### State Management
 
+[Simplifying Data Management in React With React Query](https://portal.gitnation.org/contents/simplifying-data-management-in-react-with-react-query)
+
 [How to Use Jotai and useTransition for Mutation](https://blog.axlight.com/posts/how-to-use-jotai-and-use-transition-for-mutation/)
 
 [Storing React state in the URL with Next.js](https://francoisbest.com/posts/2023/storing-react-state-in-the-url-with-nextjs)
