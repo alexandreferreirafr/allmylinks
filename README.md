@@ -133,7 +133,7 @@ A place where I share all my links
 
 ### Concurrency
 
-🎥 [Concurrent React Made Easy](https://portal.gitnation.org/contents/concurrent-react-made-easy)
+🎥 [React Advanced London 2023 - Concurrent React Made Easy](https://portal.gitnation.org/contents/concurrent-react-made-easy)
 
 ### Fetching
 
@@ -179,7 +179,9 @@ A place where I share all my links
 
 ### Performance
 
-🎥 [Speeding Up Your React App With Less Javascript](https://portal.gitnation.org/contents/speeding-up-your-react-app-with-less-javascript-1470)
+🎥 [React Advanced London 2023 - Patterns for Performance](https://portal.gitnation.org/contents/patterns-for-performance)
+
+🎥 [React Advanced London 2023 - Speeding Up Your React App With Less Javascript](https://portal.gitnation.org/contents/speeding-up-your-react-app-with-less-javascript-1470)
 
 [React memo is good actually](https://timtech.blog/posts/react-memo-is-good-actually/)
 
@@ -339,7 +341,7 @@ A place where I share all my links
 
 ### General
 
-🎥 [Feature Flagging With React](https://portal.gitnation.org/contents/feature-flagging-with-react)
+🎥 [React Advanced London 2023 - Feature Flagging With React](https://portal.gitnation.org/contents/feature-flagging-with-react)
 
 [Embedding Remix in Directus](https://echobind.com/post/embedding-remix-in-directus)
 
@@ -563,7 +565,7 @@ A place where I share all my links
 
 ### General
 
-🎥 [Winning the Performance Race](https://portal.gitnation.org/contents/winning-the-performance-race)
+🎥 [React Advanced London 2023 - Winning the Performance Race](https://portal.gitnation.org/contents/winning-the-performance-race)
 
 [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 
@@ -615,7 +617,7 @@ A place where I share all my links
 
 ### Microfrontends
 
-🎥 [Micro-Frontends With React & Vite Module Federation](https://portal.gitnation.org/contents/micro-frontends-with-react-and-vite-module-federation)
+🎥 [React Advanced London 2023 - Micro-Frontends With React & Vite Module Federation](https://portal.gitnation.org/contents/micro-frontends-with-react-and-vite-module-federation)
 
 [Micro-frontend dev !](https://microfrontend.dev/)
 
@@ -817,7 +819,7 @@ A place where I share all my links
 
 ### Generative
 
-🎥 [Figma to React With AI, Are We There Yet?](https://portal.gitnation.org/contents/figma-to-react-with-ai-are-we-there-yet)
+🎥 [React Advanced London 2023 - Figma to React With AI, Are We There Yet?](https://portal.gitnation.org/contents/figma-to-react-with-ai-are-we-there-yet)
 
 🎥 [Vercel's New AI Writes Surprisingly Good Code](https://www.youtube.com/watch?v=xNG4zXpU1QA)
 
