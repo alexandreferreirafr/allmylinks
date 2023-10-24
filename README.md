@@ -677,6 +677,8 @@ A place where I share all my links
 
 ## Rust
 
+🎥 [React Advanced London 2023 - The Unlikely Friendship Between React and Rust](https://portal.gitnation.org/contents/the-unlikely-friendship-between-react-and-rust)
+
 [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
 
 ## CSS
