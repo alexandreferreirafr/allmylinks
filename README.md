@@ -267,6 +267,8 @@ A place where I share all my links
 
 ### Testing
 
+🎥 [React Advanced London 2023 - Automating Accessibility Testing for Your Component Library](https://portal.gitnation.org/contents/automating-accessibility-testing-for-your-component-library)
+
 [Unlocking the Power of Storybook](https://formidable.com/blog/2023/unlocking-the-power-of-storybook/)
 
 [Achieving Clean and Maintainable React Component Tests](https://medium.com/globant/achieving-clean-and-maintainable-react-component-tests-b3d5e0483307)
