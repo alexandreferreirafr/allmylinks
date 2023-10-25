@@ -873,6 +873,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Nx 17.0 Has Landed!!!](https://blog.nrwl.io/nx-17-0-has-landed-1dad19176ff3)
+
 [Node.js 21 Available Now!](https://openjsf.org/announcement/2023/10/17/node-js-21-available-now/)
 
 [Legend-State 2.0: Performance and Persistence](https://legendapp.com/open-source/legend-state-v2/)
