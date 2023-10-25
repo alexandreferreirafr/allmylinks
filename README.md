@@ -861,6 +861,8 @@ A place where I share all my links
 
 ### WebML
 
+🎥 [Machine Learning for Web Developers (Web ML)](https://www.youtube.com/playlist?list=PLOU2XLYxmsILr3HQpqjLAUkIPa5EaZiui)
+
 🎥 [Getting started with image classification for the web using MediaPipe Solutions](https://www.youtube.com/watch?v=LYtl0cWhC4U)
 
 [MediaPipe jS: TFjS on Steroids](https://dj-ai.medium.com/mediapipe-1f6818a44c9)
