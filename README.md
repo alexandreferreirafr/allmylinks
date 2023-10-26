@@ -879,6 +879,8 @@ A place where I share all my links
 
 🎥 [PyTorch vs TensorFlow in 2023 FULL OVERVIEW](https://www.youtube.com/watch?v=YZ6q1_kL51k)
 
+🎥 [PyTorch in 100 Seconds](https://www.youtube.com/watch?v=ORMx45xqWkA)
+
 ## Announcements
 
 [Nx 17.0 Has Landed!!!](https://blog.nrwl.io/nx-17-0-has-landed-1dad19176ff3)
