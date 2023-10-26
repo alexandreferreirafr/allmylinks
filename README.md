@@ -875,6 +875,10 @@ A place where I share all my links
 
 [useMachineLearning… and Have Fun with It!](https://portal.gitnation.org/contents/usemachinelearning-and-have-fun-with-it)
 
+### General
+
+🎥 [PyTorch vs TensorFlow in 2023 FULL OVERVIEW](https://www.youtube.com/watch?v=YZ6q1_kL51k)
+
 ## Announcements
 
 [Nx 17.0 Has Landed!!!](https://blog.nrwl.io/nx-17-0-has-landed-1dad19176ff3)
