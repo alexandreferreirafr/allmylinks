@@ -305,6 +305,8 @@ A place where I share all my links
 
 ### Typing
 
+🎥 [Rethink your life choices before you do this...](https://www.youtube.com/watch?v=uiOJ5_7cB4I)
+
 [React.ReactNode vs JSX.Element vs React.ReactElement](https://www.totaltypescript.com/jsx-element-vs-react-reactnode)
 
 [Strongly Type useRef with ElementRef](https://www.totaltypescript.com/strongly-type-useref-with-elementref)
