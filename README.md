@@ -77,6 +77,8 @@ A place where I share all my links
 
 ### Server Components
 
+[How to Think About Security in Next.js](https://nextjs.org/blog/security-nextjs-server-components-actions)
+
 🎥 [React Advanced London 2023 - Simplifying Server Components](https://portal.gitnation.org/contents/simplifying-server-components)
 
 🎥 [React Advanced London 2023 - A Practical Guide for Migrating to Server Components](https://portal.gitnation.org/contents/a-practical-guide-for-migrating-to-server-components)
