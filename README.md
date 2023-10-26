@@ -77,6 +77,8 @@ A place where I share all my links
 
 ### Server Components
 
+🎥 [The Truth About React Server Components](https://www.youtube.com/watch?v=0jHFeGowIQ8)
+
 [How to Think About Security in Next.js](https://nextjs.org/blog/security-nextjs-server-components-actions)
 
 🎥 [React Advanced London 2023 - Simplifying Server Components](https://portal.gitnation.org/contents/simplifying-server-components)
