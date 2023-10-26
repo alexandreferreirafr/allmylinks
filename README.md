@@ -895,6 +895,8 @@ A place where I share all my links
 
 ## Announcements
 
+🎥 [Introducing Visual Copilot - Design to Code in a Click](https://www.youtube.com/watch?v=nxaRKSQMMco)
+
 [Nx 17.0 Has Landed!!!](https://blog.nrwl.io/nx-17-0-has-landed-1dad19176ff3)
 
 [Node.js 21 Available Now!](https://openjsf.org/announcement/2023/10/17/node-js-21-available-now/)
