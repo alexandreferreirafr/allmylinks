@@ -523,6 +523,10 @@ A place where I share all my links
 
 [Remix without Limits](https://vercel.com/blog/vercel-remix-integration-with-edge-functions-support)
 
+## React Native
+
+🎥 [React Native’s Secret Superpower](https://www.youtube.com/watch?v=wd9198xvlzc)
+
 ## Astro
 
 [Astro 3.3: Picture component](https://astro.build/blog/astro-330/)
