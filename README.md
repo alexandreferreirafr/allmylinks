@@ -799,6 +799,8 @@ A place where I share all my links
 
 ## Opnion
 
+🎥 [The Average React Developer](https://www.youtube.com/watch?v=sNl0kzR8S7U)
+
 [Is Jamstack Officially Finished?](https://remotesynthesis.com/blog/goodbye-jamstack/)
 
 [Is React Having An Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
