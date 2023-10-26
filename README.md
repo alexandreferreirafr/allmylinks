@@ -881,6 +881,8 @@ A place where I share all my links
 
 🎥 [PyTorch vs TensorFlow in 2023 FULL OVERVIEW](https://www.youtube.com/watch?v=YZ6q1_kL51k)
 
+🎥 [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
+
 🎥 [PyTorch in 100 Seconds](https://www.youtube.com/watch?v=ORMx45xqWkA)
 
 ## Announcements
