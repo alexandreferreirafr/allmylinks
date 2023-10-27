@@ -363,6 +363,10 @@ A place where I share all my links
 
 ### General
 
+🎥 [Next.js Conf 2023](https://www.youtube.com/watch?v=8q2q_820Sx4)
+
+🎥 [Next.js Conf 2023 — Stage S](https://www.youtube.com/watch?v=FdiX5rHS_0Y)
+
 🎥 [React Advanced London 2023 - Implementation of Schedules and Timelines](https://portal.gitnation.org/contents/implementation-of-schedules-and-timelines)
 
 🎥 [React Advanced London 2023 - Why Everybody Needs a Framework](https://portal.gitnation.org/contents/why-everybody-needs-a-framework)
