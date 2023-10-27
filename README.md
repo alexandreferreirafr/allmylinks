@@ -191,6 +191,8 @@ A place where I share all my links
 
 ### Performance
 
+[Optimizing third-party script loading in Next.js](https://developer.chrome.com/blog/script-component/)
+
 🎥 [React Advanced London 2023 - Power Fixing React Performance Woes](https://portal.gitnation.org/contents/power-fixing-react-performance-woes)
 
 🎥 [React Advanced London 2023 - React Forget](https://portal.gitnation.org/contents/understanding-idiomatic-react)
