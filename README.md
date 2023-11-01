@@ -363,6 +363,8 @@ A place where I share all my links
 
 ### General
 
+[Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
+
 [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 
 🎥 [Next.js Conf 2023](https://www.youtube.com/watch?v=8q2q_820Sx4)
