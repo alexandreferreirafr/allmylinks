@@ -909,6 +909,8 @@ A place where I share all my links
 
 ## Web 3
 
+[The Distinctions between Ethers.js and Web3.js](https://medium.com/coinmonks/the-distinctions-between-ethers-js-and-web3-js-8e51f60083ce)
+
 🎥 [Decentralized Finance 101 | Francesco Canessa | Porto Tech Hub Conference 2022](https://www.youtube.com/watch?v=TPqKXQM0XR4)
 
 ## Announcements
