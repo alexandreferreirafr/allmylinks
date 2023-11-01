@@ -893,6 +893,10 @@ A place where I share all my links
 
 [useMachineLearning… and Have Fun with It!](https://portal.gitnation.org/contents/usemachinelearning-and-have-fun-with-it)
 
+### Web 3
+
+🎥 [Decentralized Finance 101 | Francesco Canessa | Porto Tech Hub Conference 2022](https://www.youtube.com/watch?v=TPqKXQM0XR4)
+
 ### General
 
 🎥 [PyTorch vs TensorFlow in 2023 FULL OVERVIEW](https://www.youtube.com/watch?v=YZ6q1_kL51k)
