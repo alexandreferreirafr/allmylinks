@@ -827,6 +827,8 @@ A place where I share all my links
 
 ## General
 
+[Chrome Extensions Should Scare You.](https://www.youtube.com/watch?v=xIKwkPWUgOA)
+
 [You can't get faster than No Build](https://world.hey.com/dhh/you-can-t-get-faster-than-no-build-7a44131c)
 
 [How we optimized package imports in Next.js](https://vercel.com/blog/how-we-optimized-package-imports-in-next-js)
