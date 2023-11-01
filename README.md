@@ -363,6 +363,8 @@ A place where I share all my links
 
 ### General
 
+[Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
+
 🎥 [Next.js Conf 2023](https://www.youtube.com/watch?v=8q2q_820Sx4)
 
 🎥 [Next.js Conf 2023 — Stage S](https://www.youtube.com/watch?v=FdiX5rHS_0Y)
@@ -893,10 +895,6 @@ A place where I share all my links
 
 [useMachineLearning… and Have Fun with It!](https://portal.gitnation.org/contents/usemachinelearning-and-have-fun-with-it)
 
-## Web 3
-
-🎥 [Decentralized Finance 101 | Francesco Canessa | Porto Tech Hub Conference 2022](https://www.youtube.com/watch?v=TPqKXQM0XR4)
-
 ### General
 
 🎥 [PyTorch vs TensorFlow in 2023 FULL OVERVIEW](https://www.youtube.com/watch?v=YZ6q1_kL51k)
@@ -904,6 +902,10 @@ A place where I share all my links
 🎥 [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
 
 🎥 [PyTorch in 100 Seconds](https://www.youtube.com/watch?v=ORMx45xqWkA)
+
+## Web 3
+
+🎥 [Decentralized Finance 101 | Francesco Canessa | Porto Tech Hub Conference 2022](https://www.youtube.com/watch?v=TPqKXQM0XR4)
 
 ## Announcements
 
