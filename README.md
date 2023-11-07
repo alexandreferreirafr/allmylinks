@@ -185,6 +185,8 @@ A place where I share all my links
 
 ### Animation
 
+[Inside Framer's Magic Motion](https://www.nan.fyi/magic-motion)
+
 [Animated page transitions with Remix's nested routes](https://www.jacobparis.com/guides/remix-animated-page-transitions)
 
 [Animating View Transitions](https://www.patterns.dev/posts/view-transitions)
