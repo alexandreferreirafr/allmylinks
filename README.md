@@ -193,6 +193,8 @@ A place where I share all my links
 
 ### Performance
 
+🎥 [You Probably Shouldn't Use React.memo()](https://www.youtube.com/watch?v=Yh2eH4fXgbU)
+
 [Optimizing third-party script loading in Next.js](https://developer.chrome.com/blog/script-component/)
 
 🎥 [React Advanced London 2023 - Power Fixing React Performance Woes](https://portal.gitnation.org/contents/power-fixing-react-performance-woes)
