@@ -879,6 +879,8 @@ A place where I share all my links
 
 ### Generative
 
+🎥 [Don’t Build AI Products The Way Everyone Else Is Doing It](https://www.youtube.com/watch?v=bRFLE9qi3t8)
+
 🎥 [React Advanced London 2023 - Figma to React With AI, Are We There Yet?](https://portal.gitnation.org/contents/figma-to-react-with-ai-are-we-there-yet)
 
 🎥 [Vercel's New AI Writes Surprisingly Good Code](https://www.youtube.com/watch?v=xNG4zXpU1QA)
