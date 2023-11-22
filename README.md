@@ -831,6 +831,8 @@ A place where I share all my links
 
 ## General
 
+[What is WebAuthn: Logging in with Face ID and Touch ID on the web](https://medium.com/cotterapp/what-is-webauthn-logging-in-with-face-id-and-touch-id-on-the-web-d71e8d53933b)
+
 [Chrome Extensions Should Scare You.](https://www.youtube.com/watch?v=xIKwkPWUgOA)
 
 [You can't get faster than No Build](https://world.hey.com/dhh/you-can-t-get-faster-than-no-build-7a44131c)
