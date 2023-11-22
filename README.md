@@ -831,6 +831,8 @@ A place where I share all my links
 
 ## General
 
+[How to Authenticate a User via Face Recognition in Your Web Application](https://hackernoon.com/how-to-authenticate-a-user-via-face-recognition-in-your-web-application)
+
 [What is WebAuthn: Logging in with Face ID and Touch ID on the web](https://medium.com/cotterapp/what-is-webauthn-logging-in-with-face-id-and-touch-id-on-the-web-d71e8d53933b)
 
 [Chrome Extensions Should Scare You.](https://www.youtube.com/watch?v=xIKwkPWUgOA)
