@@ -369,6 +369,8 @@ A place where I share all my links
 
 ### General
 
+[Nexar Application architecture for Next.js App Router apps](https://nexar.dev/learn)
+
 [Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
 
 [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
