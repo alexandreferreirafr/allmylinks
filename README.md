@@ -375,6 +375,8 @@ A place where I share all my links
 
 ### General
 
+[A new kind of color picker - built with React & TypeScript](https://polar.sh/emilwidlund/posts/a-new-kind-of-color-picker-with-react-typescript)
+
 [Panda v1 Roadmap](https://www.adebayosegun.com/blog/panda-v1-roadmap)
 
 [Nexar Application architecture for Next.js App Router apps](https://nexar.dev/learn)
