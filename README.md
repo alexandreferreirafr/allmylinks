@@ -707,6 +707,8 @@ A place where I share all my links
 
 ## Bun
 
+[Build an app with Remix and Bun](https://sergiodxa.com/tutorials/build-an-app-with-remix-and-bun)
+
 [Bun: lessons from disrupting a tech ecosystem](https://blog.pragmaticengineer.com/bun-lessons-from-disrupting)
 
 [Bun hype. How we learned nothing from Yarn](https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j)
