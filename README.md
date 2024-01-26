@@ -373,6 +373,8 @@ A place where I share all my links
 
 ### General
 
+[Panda v1 Roadmap](https://www.adebayosegun.com/blog/panda-v1-roadmap)
+
 [Nexar Application architecture for Next.js App Router apps](https://nexar.dev/learn)
 
 [Why I'm Using Next.js](https://leerob.io/blog/using-nextjs)
