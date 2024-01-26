@@ -377,6 +377,8 @@ A place where I share all my links
 
 ### General
 
+[Optimizing images for Next.js sites with imgproxy and docker](https://mxd.codes/articles/optimizing-images-for-next-js-sites-with-imgproxy-and-docker)
+
 [A new kind of color picker - built with React & TypeScript](https://polar.sh/emilwidlund/posts/a-new-kind-of-color-picker-with-react-typescript)
 
 [Panda v1 Roadmap](https://www.adebayosegun.com/blog/panda-v1-roadmap)
