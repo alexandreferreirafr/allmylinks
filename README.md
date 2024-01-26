@@ -77,6 +77,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Next.js App Router Training](https://nextjs-app-router-training.vercel.app/)
+
 🎥 [The Truth About React Server Components](https://www.youtube.com/watch?v=0jHFeGowIQ8)
 
 🎥 [Next 14 Reveals React's Taint, Solves RSC Safety Issues](https://www.youtube.com/watch?v=JrKBinrMGR4)
