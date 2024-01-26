@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[New client-side hooks coming to React 19](https://marmelab.com/blog/2024/01/23/react-19-new-hooks.html)
+
 [React useTransition: performance game changer or...?](https://www.developerway.com/posts/use-transition)
 
 [Use createStateContext to share a useState hook](https://www.jacobparis.com/content/use-state-context)
