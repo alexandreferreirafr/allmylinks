@@ -377,6 +377,8 @@ A place where I share all my links
 
 ### General
 
+[Mastering React and OpenLayers Integration: A Comprehensive Guide](https://mxd.codes/articles/how-to-create-a-web-map-with-open-layers-and-react)
+
 [Optimizing images for Next.js sites with imgproxy and docker](https://mxd.codes/articles/optimizing-images-for-next-js-sites-with-imgproxy-and-docker)
 
 [A new kind of color picker - built with React & TypeScript](https://polar.sh/emilwidlund/posts/a-new-kind-of-color-picker-with-react-typescript)
