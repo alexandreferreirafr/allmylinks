@@ -575,6 +575,8 @@ A place where I share all my links
 
 ## HTMX
 
+[HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
+
 🎥 [HTMX: The Game-Changing Alternative to React](https://www.youtube.com/watch?v=DuGyH5RvfbY&t=849s)
 
 🎥 [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
