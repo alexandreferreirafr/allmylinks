@@ -683,6 +683,8 @@ A place where I share all my links
 
 ## Deno
 
+[Deno 1.40: Temporal API](https://deno.com/blog/v1.40)
+
 [Node.js's Config Hell Problem](https://deno.com/blog/node-config-hell)
 
 [The State of Web Frameworks on Deno](https://deno.com/blog/web-frameworks-on-deno)
