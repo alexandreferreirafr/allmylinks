@@ -719,6 +719,8 @@ A place where I share all my links
 
 ## CSS
 
+[5 CSS snippets every front-end developer should know in 2024](https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024)
+
 [Limit the reach of your selectors with the CSS @scope at-rule](https://developer.chrome.com/articles/at-scope/)
 
 [CSS Nesting and the Cascade](https://webkit.org/blog/14571/css-nesting-and-the-cascade)
