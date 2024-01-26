@@ -81,6 +81,8 @@ A place where I share all my links
 
 ### Server Components
 
+[RSC is React Server + Component](https://bobaekang.com/blog/rsc-is-react-server-plus-component/)
+
 [Next.js App Router Training](https://nextjs-app-router-training.vercel.app/)
 
 🎥 [The Truth About React Server Components](https://www.youtube.com/watch?v=0jHFeGowIQ8)
