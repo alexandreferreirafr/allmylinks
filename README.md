@@ -919,6 +919,8 @@ A place where I share all my links
 
 ### Generative
 
+🎥 [Accelerate Your GenAI Journey: Build GenAI applications in minutes...](https://www.youtube.com/watch?v=MmEtYTPzueQ)
+
 [Don’t Build AI Products The Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
 
 🎥 [Don’t Build AI Products The Way Everyone Else Is Doing It](https://www.youtube.com/watch?v=bRFLE9qi3t8)
