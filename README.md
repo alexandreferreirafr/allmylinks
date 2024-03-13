@@ -865,6 +865,8 @@ A place where I share all my links
 
 ## General
 
+[Getting Stuff Done: Productivity Tips for Backend and Frontend Devs](https://dev.to/munashe_njanji/getting-stuff-done-productivity-tips-for-backend-and-frontend-devs-a1j)
+
 [Meet Face ID and Touch ID for the Web](https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/)
 
 [How to Authenticate a User via Face Recognition in Your Web Application](https://hackernoon.com/how-to-authenticate-a-user-via-face-recognition-in-your-web-application)
