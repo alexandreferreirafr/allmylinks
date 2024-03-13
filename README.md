@@ -915,6 +915,8 @@ A place where I share all my links
 
 ### Diffusion Models
 
+[How to fix hands in Stable Diffusion](https://stable-diffusion-art.com/fix-hands/)
+
 [Diffusion Models: A Practical Guide](https://scale.com/guides/diffusion-models-guide)
 
 ### Generative
