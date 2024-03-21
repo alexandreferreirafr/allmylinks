@@ -563,6 +563,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Next.js AI Chatbot 2.0](https://vercel.com/changelog/next-js-ai-chatbot-2-0)
+
 [Introducing Firebolt: The Productive React Framework](https://firebolt.dev/blog/introducing-firebolt)
 
 [Next.js 14](https://nextjs.org/blog/next-14)
