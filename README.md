@@ -795,6 +795,8 @@ A place where I share all my links
 
 ## CSS
 
+[Pigment-CSS: Material-UI Fixed on NextJS and React 19](https://www.youtube.com/watch?v=fyja_ldjxwA)
+
 [5 CSS snippets every front-end developer should know in 2024](https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024)
 
 [Limit the reach of your selectors with the CSS @scope at-rule](https://developer.chrome.com/articles/at-scope/)
