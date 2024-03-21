@@ -209,6 +209,8 @@ A place where I share all my links
 
 ### Performance
 
+🎥 [Rethinking The Linter](https://www.youtube.com/watch?v=fcY9TthQnI4)
+
 [Type system of the React compiler](https://recompiled.dev/blog/type-system/)
 
 🎥 [You Probably Shouldn't Use React.memo()](https://www.youtube.com/watch?v=Yh2eH4fXgbU)
