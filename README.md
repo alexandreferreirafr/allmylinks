@@ -573,6 +573,8 @@ A place where I share all my links
 
 ## Astro
 
+[Astro DB: A Deep Dive](https://astro.build/blog/astro-db-deep-dive/)
+
 [Astro 3.3: Picture component](https://astro.build/blog/astro-330/)
 
 [Astro 3.2: View Transitions improvements](https://astro.build/blog/astro-320/)
