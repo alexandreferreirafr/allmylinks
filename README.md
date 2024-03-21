@@ -547,6 +547,8 @@ A place where I share all my links
 
 ### Announcements
 
+[The Astro Developer Portal](https://astro.build/blog/dev-portal/)
+
 [Next.js 14](https://nextjs.org/blog/next-14)
 
 [Shopify’s platform is the Web platform](https://shopify.engineering/shopifys-platform-is-the-web-platform)
