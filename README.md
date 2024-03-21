@@ -391,6 +391,8 @@ A place where I share all my links
 
 ### General
 
+[Understanding the Steps of Migrating Your Remix App to Vite.js](https://www.youtube.com/watch?v=CTgQhNFqn5E)
+
 [You Are Leaking Your Next.js Application Features](https://www.rexforde.com/blog/conditional-render-problem)
 
 [Migrate Next.js app away from "Vercel + PlanetScale" to "Fly.io"](https://www.crispyscript.com/articles/13)
