@@ -385,6 +385,8 @@ A place where I share all my links
 
 ### General
 
+[Migrate Next.js app away from "Vercel + PlanetScale" to "Fly.io"](https://www.crispyscript.com/articles/13)
+
 [Two Types of Composition](https://kyleshevlin.com/two-types-of-composition/)
 
 [From Next.js to Rails then Elixir: My journey through React.js burnout](https://dev.to/danielbergholz/from-nextjs-to-rails-then-elixir-my-journey-through-reactjs-burnout-h8d)
