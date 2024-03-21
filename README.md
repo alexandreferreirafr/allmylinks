@@ -583,6 +583,8 @@ A place where I share all my links
 
 ## Astro
 
+[Astro Studio - first impression](https://maciekpalmowski.dev/blog/astro-studio-first-impression/)
+
 [Astro DB: A Deep Dive](https://astro.build/blog/astro-db-deep-dive/)
 
 [Astro 3.3: Picture component](https://astro.build/blog/astro-330/)
