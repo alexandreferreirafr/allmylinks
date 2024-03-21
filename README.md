@@ -563,7 +563,7 @@ A place where I share all my links
 
 ### Announcements
 
-[The Astro Developer Portal](https://astro.build/blog/dev-portal/)
+[Introducing Firebolt: The Productive React Framework](https://firebolt.dev/blog/introducing-firebolt)
 
 [Next.js 14](https://nextjs.org/blog/next-14)
 
@@ -998,6 +998,8 @@ A place where I share all my links
 🎥 [Decentralized Finance 101 | Francesco Canessa | Porto Tech Hub Conference 2022](https://www.youtube.com/watch?v=TPqKXQM0XR4)
 
 ## Announcements
+
+[The Astro Developer Portal](https://astro.build/blog/dev-portal/)
 
 🎥 [Introducing Visual Copilot - Design to Code in a Click](https://www.youtube.com/watch?v=nxaRKSQMMco)
 
