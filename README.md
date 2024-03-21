@@ -81,6 +81,8 @@ A place where I share all my links
 
 ### Server Components
 
+[How Next.js breaks React Fundamentals (Examples)](https://ondrejvelisek.github.io/how-nextjs-breaks-react-fundamentals/)
+
 🎥 [Next.js Explained: Partial Prerendering (What? Why? How?)](https://www.youtube.com/watch?v=MTcPrTIBkpA)
 
 🎥 [10 common mistakes with the Next.js App Router](https://www.youtube.com/watch?v=RBM03RihZVs)
