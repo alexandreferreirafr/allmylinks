@@ -81,6 +81,8 @@ A place where I share all my links
 
 ### Server Components
 
+🎥 [10 common mistakes with the Next.js App Router](https://www.youtube.com/watch?v=RBM03RihZVs)
+
 [RSC is React Server + Component](https://bobaekang.com/blog/rsc-is-react-server-plus-component/)
 
 [Next.js App Router Training](https://nextjs-app-router-training.vercel.app/)
