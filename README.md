@@ -391,7 +391,9 @@ A place where I share all my links
 
 ### General
 
-[Understanding the Steps of Migrating Your Remix App to Vite.js](https://www.youtube.com/watch?v=CTgQhNFqn5E)
+🎥 [Deploying Remix to GitHub Pages](https://www.youtube.com/watch?v=EO_-KwSslWQ)
+
+🎥 [Understanding the Steps of Migrating Your Remix App to Vite.js](https://www.youtube.com/watch?v=CTgQhNFqn5E)
 
 [You Are Leaking Your Next.js Application Features](https://www.rexforde.com/blog/conditional-render-problem)
 
