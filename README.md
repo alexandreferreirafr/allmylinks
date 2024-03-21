@@ -747,6 +747,10 @@ A place where I share all my links
 
 [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
 
+## Kafka
+
+🎥 [Kafka in 100 Seconds](https://www.youtube.com/watch?v=uvb00oaa3k8)
+
 ## CSS
 
 [5 CSS snippets every front-end developer should know in 2024](https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024)
