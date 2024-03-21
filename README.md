@@ -329,6 +329,8 @@ A place where I share all my links
 
 ### Typing
 
+[You Can't Make Children "Type Safe" in React & TypeScript](https://www.totaltypescript.com/type-safe-children-in-react-and-typescript)
+
 [Wrangling Tuple Types](https://kyleshevlin.com/wrangling-tuple-types/)
 
 🎥 [Rethink your life choices before you do this...](https://www.youtube.com/watch?v=uiOJ5_7cB4I)
