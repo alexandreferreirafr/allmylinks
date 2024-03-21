@@ -589,6 +589,8 @@ A place where I share all my links
 
 ## React Native
 
+[Ship OTA (Over-The-Air) When in an Emergency](https://www.callstack.com/blog/ship-over-the-air-when-in-an-emergency)
+
 [React navigation & state machine: Perfecting app flows](https://www.bam.tech/article/react-navigation-state-machine-perfecting-app-flows)
 
 [What is the Expo Router?](https://www.themorrow.digital/blog/what-is-the-expo-router)
