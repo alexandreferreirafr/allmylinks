@@ -385,6 +385,8 @@ A place where I share all my links
 
 ### General
 
+[Two Types of Composition](https://kyleshevlin.com/two-types-of-composition/)
+
 [From Next.js to Rails then Elixir: My journey through React.js burnout](https://dev.to/danielbergholz/from-nextjs-to-rails-then-elixir-my-journey-through-reactjs-burnout-h8d)
 
 [Mastering React and OpenLayers Integration: A Comprehensive Guide](https://mxd.codes/articles/how-to-create-a-web-map-with-open-layers-and-react)
