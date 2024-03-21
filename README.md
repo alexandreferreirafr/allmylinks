@@ -81,6 +81,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Embracing the Future and Moving Back Again: From Server Actions to tRPC](https://documenso.com/blog/removing-server-actions)
+
 [How Next.js breaks React Fundamentals (Examples)](https://ondrejvelisek.github.io/how-nextjs-breaks-react-fundamentals/)
 
 🎥 [Next.js Explained: Partial Prerendering (What? Why? How?)](https://www.youtube.com/watch?v=MTcPrTIBkpA)
