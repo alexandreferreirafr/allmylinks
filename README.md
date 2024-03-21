@@ -589,6 +589,8 @@ A place where I share all my links
 
 ## React Native
 
+[React navigation & state machine: Perfecting app flows](https://www.bam.tech/article/react-navigation-state-machine-perfecting-app-flows)
+
 [What is the Expo Router?](https://www.themorrow.digital/blog/what-is-the-expo-router)
 
 🎥 [React Native’s Secret Superpower](https://www.youtube.com/watch?v=wd9198xvlzc)
