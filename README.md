@@ -589,6 +589,8 @@ A place where I share all my links
 
 ## React Native
 
+[What is the Expo Router?](https://www.themorrow.digital/blog/what-is-the-expo-router)
+
 🎥 [React Native’s Secret Superpower](https://www.youtube.com/watch?v=wd9198xvlzc)
 
 ## Astro
