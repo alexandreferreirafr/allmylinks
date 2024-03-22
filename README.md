@@ -395,6 +395,8 @@ A place where I share all my links
 
 ### General
 
+[Comparing Authentication in React.js vs. Next.js](https://clerk.com/blog/comparing-authentication-react-nextjs)
+
 🎥 [Goodbye, forwardRef](https://www.youtube.com/watch?v=m4QbeS9BTNU)
 
 🎥 [Deploying Remix to GitHub Pages](https://www.youtube.com/watch?v=EO_-KwSslWQ)
