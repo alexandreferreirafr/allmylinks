@@ -333,6 +333,8 @@ A place where I share all my links
 
 ### Typing
 
+[This Pattern Will Wreck Your React App's TS Performance](https://www.totaltypescript.com/react-apps-ts-performance)
+
 [You Can't Make Children "Type Safe" in React & TypeScript](https://www.totaltypescript.com/type-safe-children-in-react-and-typescript)
 
 [Wrangling Tuple Types](https://kyleshevlin.com/wrangling-tuple-types/)
