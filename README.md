@@ -1025,6 +1025,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Storybook 8](https://storybook.js.org/blog/storybook-8/)
+
 [Million Lint is in public beta](https://million.dev/blog/lint)
 
 [The Astro Developer Portal](https://astro.build/blog/dev-portal/)
