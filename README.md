@@ -919,6 +919,8 @@ A place where I share all my links
 
 ## General
 
+[A practical guide to using shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide)
+
 [Getting Stuff Done: Productivity Tips for Backend and Frontend Devs](https://dev.to/munashe_njanji/getting-stuff-done-productivity-tips-for-backend-and-frontend-devs-a1j)
 
 [Meet Face ID and Touch ID for the Web](https://webkit.org/blog/11312/meet-face-id-and-touch-id-for-the-web/)
