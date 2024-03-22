@@ -1023,6 +1023,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Million Lint is in public beta](https://million.dev/blog/lint)
+
 [The Astro Developer Portal](https://astro.build/blog/dev-portal/)
 
 🎥 [Introducing Visual Copilot - Design to Code in a Click](https://www.youtube.com/watch?v=nxaRKSQMMco)
