@@ -921,6 +921,8 @@ A place where I share all my links
 
 ## General
 
+[WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
+
 [A practical guide to using shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide)
 
 [Getting Stuff Done: Productivity Tips for Backend and Frontend Devs](https://dev.to/munashe_njanji/getting-stuff-done-productivity-tips-for-backend-and-frontend-devs-a1j)
