@@ -601,6 +601,8 @@ A place where I share all my links
 
 ## React Native
 
+[About the New Architecture](https://reactnative.dev/docs/the-new-architecture/landing-page)
+
 [Ship OTA (Over-The-Air) When in an Emergency](https://www.callstack.com/blog/ship-over-the-air-when-in-an-emergency)
 
 [React navigation & state machine: Perfecting app flows](https://www.bam.tech/article/react-navigation-state-machine-perfecting-app-flows)
