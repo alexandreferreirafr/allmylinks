@@ -395,6 +395,8 @@ A place where I share all my links
 
 ### General
 
+[17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
+
 [Comparing Authentication in React.js vs. Next.js](https://clerk.com/blog/comparing-authentication-react-nextjs)
 
 🎥 [Goodbye, forwardRef](https://www.youtube.com/watch?v=m4QbeS9BTNU)
