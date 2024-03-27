@@ -803,6 +803,8 @@ A place where I share all my links
 
 ## CSS
 
+[Goodbye SASS 👋, welcome back native CSS](https://dev.to/karsten_biedermann/goodbye-sass-welcome-back-native-css-cf)
+
 [Pigment-CSS: Material-UI Fixed on NextJS and React 19](https://www.youtube.com/watch?v=fyja_ldjxwA)
 
 [5 CSS snippets every front-end developer should know in 2024](https://web.dev/articles/5-css-snippets-every-front-end-developer-should-know-in-2024)
