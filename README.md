@@ -397,6 +397,8 @@ A place where I share all my links
 
 ### General
 
+[What's Different? Comparing the Router in Next.js App API, Next.js Pages API, Remix, and RedwoodJS](https://redwoodjs.com/blog/whats-different-comparing-the-router-in-nextjs-app-api-nextjs-pages-api-remix-and-redwoodjs)
+
 [17 Libraries You Should Know if You Build with React](https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807)
 
 [Comparing Authentication in React.js vs. Next.js](https://clerk.com/blog/comparing-authentication-react-nextjs)
