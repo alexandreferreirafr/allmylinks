@@ -81,6 +81,8 @@ A place where I share all my links
 
 ### Server Components
 
+[React Server Components now in RedwoodJS](https://redwoodjs.com/blog/rsc-now-in-redwoodjs)
+
 [Embracing the Future and Moving Back Again: From Server Actions to tRPC](https://documenso.com/blog/removing-server-actions)
 
 [How Next.js breaks React Fundamentals (Examples)](https://ondrejvelisek.github.io/how-nextjs-breaks-react-fundamentals/)
