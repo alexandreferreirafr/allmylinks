@@ -773,6 +773,8 @@ A place where I share all my links
 
 ## Bun
 
+[Power of Partial Prerendering with Bun](https://aralroca.com/blog/partial-prerendering)
+
 [Build an app with Remix and Bun](https://sergiodxa.com/tutorials/build-an-app-with-remix-and-bun)
 
 [Bun: lessons from disrupting a tech ecosystem](https://blog.pragmaticengineer.com/bun-lessons-from-disrupting)
