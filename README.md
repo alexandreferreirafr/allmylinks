@@ -211,6 +211,8 @@ A place where I share all my links
 
 ### Performance
 
+[I tried React Compiler today, and guess what... ](https://www.developerway.com/posts/i-tried-react-compiler)
+
 🎥 [Rethinking The Linter](https://www.youtube.com/watch?v=fcY9TthQnI4)
 
 [Type system of the React compiler](https://recompiled.dev/blog/type-system/)
