@@ -211,6 +211,8 @@ A place where I share all my links
 
 ### Performance
 
+[Sneaky React Memory Leaks: How useCallback and closures can bite you](https://schiener.io/2024-03-03/react-closures)
+
 [I tried React Compiler today, and guess what... ](https://www.developerway.com/posts/i-tried-react-compiler)
 
 🎥 [Rethinking The Linter](https://www.youtube.com/watch?v=fcY9TthQnI4)
