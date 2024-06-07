@@ -315,6 +315,8 @@ A place where I share all my links
 
 ### Testing
 
+[Type-safe module mocking in Storybook](https://storybook.js.org/blog/type-safe-module-mocking/)
+
 [How to test React custom hooks and components with Vitest](https://www.thisdot.co/blog/how-to-test-react-custom-hooks-and-components-with-vitest)
 
 🎥 [React Advanced London 2023 - Automating Accessibility Testing for Your Component Library](https://portal.gitnation.org/contents/automating-accessibility-testing-for-your-component-library)
