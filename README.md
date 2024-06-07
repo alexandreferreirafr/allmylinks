@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Explore new hooks coming up in React 19](https://blog.saeloun.com/2024/06/05/new-hooks-in-react-19/)
+
 [The Query Options API](https://tkdodo.eu/blog/the-query-options-api)
 
 [New client-side hooks coming to React 19](https://marmelab.com/blog/2024/01/23/react-19-new-hooks.html)
