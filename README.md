@@ -81,6 +81,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Embracing Slow Networks: Improving User Experience](https://www.epicweb.dev/embracing-slow-networks-improving-user-experience)
+
 [React Server Components now in RedwoodJS](https://redwoodjs.com/blog/rsc-now-in-redwoodjs)
 
 [Embracing the Future and Moving Back Again: From Server Actions to tRPC](https://documenso.com/blog/removing-server-actions)
