@@ -629,6 +629,8 @@ A place where I share all my links
 
 ## React Native
 
+[React Native Security Guide](https://ospfranco.com/react-native-security-guide/)
+
 [About the New Architecture](https://reactnative.dev/docs/the-new-architecture/landing-page)
 
 [Ship OTA (Over-The-Air) When in an Emergency](https://www.callstack.com/blog/ship-over-the-air-when-in-an-emergency)
