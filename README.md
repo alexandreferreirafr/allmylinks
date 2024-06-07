@@ -629,6 +629,8 @@ A place where I share all my links
 
 ## React Native
 
+[Seamless Transitions: From Native to React Native](https://commerce.nearform.com/blog/2024/seamless-transitions-from-native-to-react-native)
+
 [React Native Security Guide](https://ospfranco.com/react-native-security-guide/)
 
 [About the New Architecture](https://reactnative.dev/docs/the-new-architecture/landing-page)
