@@ -409,6 +409,8 @@ A place where I share all my links
 
 ### General
 
+[Why useSuspenseQuery works](https://swizec.com/blog/why-use-suspense-query-works/)
+
 [Cleaner components with useSuspenseQuery](https://swizec.com/blog/cleaner-components-with-use-suspense-query/)
 
 [Multiple action handlers with Zod in Remix](https://www.jacobparis.com/content/zod-actions-remix)
