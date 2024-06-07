@@ -407,6 +407,8 @@ A place where I share all my links
 
 ### General
 
+[Multiple action handlers with Zod in Remix](https://www.jacobparis.com/content/zod-actions-remix)
+
 [Do you still need Framer Motion?](https://motion.dev/blog/do-you-still-need-framer-motion)
 
 [What's Different? Comparing the Router in Next.js App API, Next.js Pages API, Remix, and RedwoodJS](https://redwoodjs.com/blog/whats-different-comparing-the-router-in-nextjs-app-api-nextjs-pages-api-remix-and-redwoodjs)
