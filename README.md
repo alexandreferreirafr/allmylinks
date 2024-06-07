@@ -787,6 +787,10 @@ A place where I share all my links
 
 🎥 [Vite and Module Federation Makes Micro-Frontends EASY!](https://www.youtube.com/watch?v=t-nchkL9yIg)
 
+## Node
+
+[10 modern Node.js runtime features to start using in 2024](https://snyk.io/fr/blog/10-modern-node-js-runtime-features/)
+
 ## Deno
 
 [Deno 1.40: Temporal API](https://deno.com/blog/v1.40)
