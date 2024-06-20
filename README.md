@@ -655,6 +655,8 @@ A place where I share all my links
 
 ## Astro
 
+[Zero-JavaScript View Transitions](https://astro.build/blog/future-of-astro-zero-js-view-transitions/)
+
 [Astro Studio - first impression](https://maciekpalmowski.dev/blog/astro-studio-first-impression/)
 
 [Astro DB: A Deep Dive](https://astro.build/blog/astro-db-deep-dive/)
