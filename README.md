@@ -611,6 +611,8 @@ A place where I share all my links
 
 ### Announcements
 
+[June 2024 Release: Optimistic cart, RichText component, stable analytics](https://hydrogen.shopify.dev/update/june-2024)
+
 [Next.js AI Chatbot 2.0](https://vercel.com/changelog/next-js-ai-chatbot-2-0)
 
 [Introducing Firebolt: The Productive React Framework](https://firebolt.dev/blog/introducing-firebolt)
