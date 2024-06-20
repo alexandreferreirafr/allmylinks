@@ -963,6 +963,8 @@ A place where I share all my links
 
 ## General
 
+[Weak memoization in Javascript](https://dev.to/thekashey/weak-memoization-in-javascript-4po6)
+
 [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 
 [A practical guide to using shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide)
