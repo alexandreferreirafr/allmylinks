@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Creating a Reusable SubmitButton with UseFormStatus](https://aurorascharff.no/posts/creating-a-reusable-submitbutton-with-useformstatus/)
+
 [Explore new hooks coming up in React 19](https://blog.saeloun.com/2024/06/05/new-hooks-in-react-19/)
 
 [The Query Options API](https://tkdodo.eu/blog/the-query-options-api)
