@@ -413,6 +413,12 @@ A place where I share all my links
 
 ### General
 
+[Next.js security checklist](https://blog.arcjet.com/next-js-security-checklist/)
+
+🎥 [React Advanced London 2023 - Hacking an e-Reader with React](https://portal.gitnation.org/contents/hacking-an-e-reader-with-react)
+
+🎥 [React Advanced London 2023 - Winning the Performance Race](https://portal.gitnation.org/contents/winning-the-performance-race)
+
 [Why useSuspenseQuery works](https://swizec.com/blog/why-use-suspense-query-works/)
 
 [Cleaner components with useSuspenseQuery](https://swizec.com/blog/cleaner-components-with-use-suspense-query/)
@@ -722,10 +728,6 @@ A place where I share all my links
 [Advancing Interaction to Next Paint](https://web.dev/inp-cwv/)
 
 ### General
-
-🎥 [React Advanced London 2023 - Hacking an e-Reader with React](https://portal.gitnation.org/contents/hacking-an-e-reader-with-react)
-
-🎥 [React Advanced London 2023 - Winning the Performance Race](https://portal.gitnation.org/contents/winning-the-performance-race)
 
 [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 
