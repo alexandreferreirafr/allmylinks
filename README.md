@@ -415,6 +415,8 @@ A place where I share all my links
 
 ### General
 
+[How to Build a Notification System in Next.js with Knock](https://spacejelly.dev/posts/how-to-build-a-notification-system-in-next-js-with-knock)
+
 [Next.js security checklist](https://blog.arcjet.com/next-js-security-checklist/)
 
 🎥 [React Advanced London 2023 - Hacking an e-Reader with React](https://portal.gitnation.org/contents/hacking-an-e-reader-with-react)
