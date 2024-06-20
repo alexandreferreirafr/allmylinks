@@ -321,6 +321,8 @@ A place where I share all my links
 
 ### Testing
 
+[The Need for Speed: A Quick Way to Improve React Testing Times](https://www.helpscout.com/blog/improve-react-testing-times/)
+
 [Type-safe module mocking in Storybook](https://storybook.js.org/blog/type-safe-module-mocking/)
 
 [How to test React custom hooks and components with Vitest](https://www.thisdot.co/blog/how-to-test-react-custom-hooks-and-components-with-vitest)
