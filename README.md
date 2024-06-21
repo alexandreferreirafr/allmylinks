@@ -941,6 +941,8 @@ A place where I share all my links
 
 ## Typing
 
+[Tutorial on Exact Type in TypeScript](https://www.squash.io/tutorial-on-exact-type-in-typescript/)
+
 [This technique makes Valibot’s bundle size 10x smaller than Zod’s!](https://www.builder.io/blog/valibot-bundle-size)
 
 [Strong static typing, a hill I'm willing to die on...](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
