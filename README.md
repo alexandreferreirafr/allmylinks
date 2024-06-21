@@ -707,6 +707,8 @@ A place where I share all my links
 
 ## Storybook
 
+[Interactive story generation](https://storybook.js.org/blog/interactive-story-generation/)
+
 [Build a Next.js app in Storybook with React Server Components and Mock Service Worker](https://storybook.js.org/blog/build-a-nextjs-app-with-rsc-msw-storybook/)
 
 [What's new in the new Storybook](https://www.mariasimo.codes/storybook-7-new-release)
