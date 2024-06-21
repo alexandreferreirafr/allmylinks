@@ -415,6 +415,8 @@ A place where I share all my links
 
 ### General
 
+[Interactive dropdown menus with Radix UI](https://www.joshuawootonn.com/radix-interactive-dropdown)
+
 [How to Build a Notification System in Next.js with Knock](https://spacejelly.dev/posts/how-to-build-a-notification-system-in-next-js-with-knock)
 
 [Next.js security checklist](https://blog.arcjet.com/next-js-security-checklist/)
