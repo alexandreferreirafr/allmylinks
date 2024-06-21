@@ -649,6 +649,8 @@ A place where I share all my links
 
 ## React Native
 
+[How Starlink built 3d and AR in React Native & Expo](https://www.notjust.dev/blog/react-native-starlink)
+
 [Flatlist Rendering Techniques](https://www.andydevs.dev/articles/flatlist-rendering-techniques)
 
 [How Belka built MangaYo! app in just 3 months with Expo](https://expo.dev/blog/how-belka-built-mangayo-app-in-just-3-months-with-expo)
