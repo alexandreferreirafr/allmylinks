@@ -991,6 +991,8 @@ A place where I share all my links
 
 ## General
 
+[JS Toolbox 2024: Runtime environments & package management](https://raygun.com/blog/js-toolbox-part-1/)
+
 [Get a catch block error message with TypeScript](https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript)
 
 [Weak memoization in Javascript](https://dev.to/thekashey/weak-memoization-in-javascript-4po6)
