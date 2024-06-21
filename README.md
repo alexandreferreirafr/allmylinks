@@ -647,6 +647,8 @@ A place where I share all my links
 
 ## React Native
 
+[Flatlist Rendering Techniques](https://www.andydevs.dev/articles/flatlist-rendering-techniques)
+
 [How Belka built MangaYo! app in just 3 months with Expo](https://expo.dev/blog/how-belka-built-mangayo-app-in-just-3-months-with-expo)
 
 [Seamless Transitions: From Native to React Native](https://commerce.nearform.com/blog/2024/seamless-transitions-from-native-to-react-native)
