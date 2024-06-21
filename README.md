@@ -983,6 +983,8 @@ A place where I share all my links
 
 ## General
 
+[Get a catch block error message with TypeScript](https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript)
+
 [Weak memoization in Javascript](https://dev.to/thekashey/weak-memoization-in-javascript-4po6)
 
 [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
