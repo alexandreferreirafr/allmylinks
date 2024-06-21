@@ -751,6 +751,8 @@ A place where I share all my links
 
 ### General
 
+[Blazing Fast Websites with Speculation Rules](https://www.debugbear.com/blog/speculation-rules)
+
 [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 
 [How layout position impacts three big web performance levers](https://performance.shopify.com/blogs/blog/how-layout-position-impacts-three-big-web-performance-levers)
