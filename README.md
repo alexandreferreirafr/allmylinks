@@ -321,6 +321,8 @@ A place where I share all my links
 
 ### Testing
 
+[Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+
 [The Need for Speed: A Quick Way to Improve React Testing Times](https://www.helpscout.com/blog/improve-react-testing-times/)
 
 [Type-safe module mocking in Storybook](https://storybook.js.org/blog/type-safe-module-mocking/)
