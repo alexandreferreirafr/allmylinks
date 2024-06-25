@@ -755,6 +755,8 @@ A place where I share all my links
 
 ### General
 
+[How Deep is Your DOM?](https://frontendatscale.com/blog/how-deep-is-your-dom/)
+
 [Blazing Fast Websites with Speculation Rules](https://www.debugbear.com/blog/speculation-rules)
 
 [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
