@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Next.js Server Actions with next-safe-action](https://www.davegray.codes/posts/nextjs-server-actions-with-next-safe-action)
+
 [React Form with Loading State (Pending Action)](https://www.robinwieruch.de/react-form-loading-pending-action/)
 
 [Creating a Reusable SubmitButton with UseFormStatus](https://aurorascharff.no/posts/creating-a-reusable-submitbutton-with-useformstatus/)
