@@ -683,6 +683,8 @@ A place where I share all my links
 
 ## Astro
 
+[Using React Query With Astro](https://hounie.me/writings/how-to-use-react-query-with-astro/)
+
 [Zero-JavaScript View Transitions](https://astro.build/blog/future-of-astro-zero-js-view-transitions/)
 
 [Astro Studio - first impression](https://maciekpalmowski.dev/blog/astro-studio-first-impression/)
