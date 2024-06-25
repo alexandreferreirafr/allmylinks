@@ -757,6 +757,8 @@ A place where I share all my links
 
 ### General
 
+[Comprehensive guide to JavaScript performance analysis using Chrome DevTools](https://blog.jiayihu.net/comprenhensive-guide-chrome-performance/)
+
 [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
 
 [How Deep is Your DOM?](https://frontendatscale.com/blog/how-deep-is-your-dom/)
