@@ -85,6 +85,8 @@ A place where I share all my links
 
 ### Server Components
 
+[Experimenting with React Server Components and Vite](https://danielnagy.me/posts/Post_usaivhdu3j5d)
+
 [Embracing Slow Networks: Improving User Experience](https://www.epicweb.dev/embracing-slow-networks-improving-user-experience)
 
 [React Server Components now in RedwoodJS](https://redwoodjs.com/blog/rsc-now-in-redwoodjs)
