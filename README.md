@@ -1013,6 +1013,8 @@ A place where I share all my links
 
 ## General
 
+[How to compose javascript functions that take multiple parameters (the epic guide)](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/)
+
 [JS Toolbox 2024: Runtime environments & package management](https://raygun.com/blog/js-toolbox-part-1/)
 
 [Get a catch block error message with TypeScript](https://kentcdodds.com/blog/get-a-catch-block-error-message-with-typescript)
