@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[React Form with Loading State (Pending Action)](https://www.robinwieruch.de/react-form-loading-pending-action/)
+
 [Creating a Reusable SubmitButton with UseFormStatus](https://aurorascharff.no/posts/creating-a-reusable-submitbutton-with-useformstatus/)
 
 [Explore new hooks coming up in React 19](https://blog.saeloun.com/2024/06/05/new-hooks-in-react-19/)
