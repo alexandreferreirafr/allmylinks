@@ -757,6 +757,8 @@ A place where I share all my links
 
 ### General
 
+[Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
+
 [How Deep is Your DOM?](https://frontendatscale.com/blog/how-deep-is-your-dom/)
 
 [Blazing Fast Websites with Speculation Rules](https://www.debugbear.com/blog/speculation-rules)
