@@ -755,6 +755,8 @@ A place where I share all my links
 
 ### Core Web Vitals
 
+[Demystifying INP: New tools and actionable insights](https://vercel.com/blog/demystifying-inp-new-tools-and-actionable-insights)
+
 [Find slow interactions in the field](https://web.dev/articles/find-slow-interactions-in-the-field)
 
 [What is INP and why you should care](https://blog.sentry.io/what-is-inp/)
