@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Write SOLID React Hooks](https://www.perssondennis.com/articles/write-solid-react-hooks)
+
 [Next.js Server Actions with next-safe-action](https://www.davegray.codes/posts/nextjs-server-actions-with-next-safe-action)
 
 [React Form with Loading State (Pending Action)](https://www.robinwieruch.de/react-form-loading-pending-action/)
