@@ -211,6 +211,8 @@ A place where I share all my links
 
 ### i18n
 
+[Hybrid i18n with Next and Astro (part 1)](https://www.ericburel.tech/blog/hybrid-i18n-next-astro-1)
+
 [Internationalization In Next.js 13 With React Server Components](https://www.smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/)
 
 ### Animation
