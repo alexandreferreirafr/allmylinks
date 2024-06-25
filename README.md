@@ -423,6 +423,8 @@ A place where I share all my links
 
 ### General
 
+[React & Codemod Announcement](https://codemod.com/blog/react-announcement)
+
 [How React 19 (Almost) Made the Internet Slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
 
 [How to render zoomable image with Shadcn UI and Tailwind CSS in Next.js](https://www.nico.fyi/blog/easy-zoomable-image-with-shadcn-tailwind)
