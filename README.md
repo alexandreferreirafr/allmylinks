@@ -749,6 +749,8 @@ A place where I share all my links
 
 ### Core Web Vitals
 
+[Find slow interactions in the field](https://web.dev/articles/find-slow-interactions-in-the-field)
+
 [What is INP and why you should care](https://blog.sentry.io/what-is-inp/)
 
 [Advancing Interaction to Next Paint](https://web.dev/inp-cwv/)
