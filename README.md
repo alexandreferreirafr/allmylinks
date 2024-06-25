@@ -219,6 +219,8 @@ A place where I share all my links
 
 ### Performance
 
+[React Internals Explorer - easily see how React works](https://jser.dev/2024-05-11-introducing-rie/)
+
 [Speeding up the JavaScript ecosystem - Server Side JSX](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-9/)
 
 [Sneaky React Memory Leaks II: Closures Vs. React Query](https://schiener.io/2024-05-29/react-query-leaks)
