@@ -1093,6 +1093,8 @@ A place where I share all my links
 
 ### Generative
 
+[Introducing Vercel AI SDK 3.2](https://vercel.com/blog/introducing-vercel-ai-sdk-3-2)
+
 🎥 [Accelerate Your GenAI Journey: Build GenAI applications in minutes...](https://www.youtube.com/watch?v=MmEtYTPzueQ)
 
 [Don’t Build AI Products The Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai)
