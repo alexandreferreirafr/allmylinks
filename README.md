@@ -859,6 +859,8 @@ A place where I share all my links
 
 ## Node
 
+[Node.js is Here to Stay](https://blog.platformatic.dev/nodejs-is-here-to-stay)
+
 [10 modern Node.js runtime features to start using in 2024](https://snyk.io/fr/blog/10-modern-node-js-runtime-features/)
 
 ## Deno
