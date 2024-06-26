@@ -673,6 +673,8 @@ A place where I share all my links
 
 ## React Native
 
+[Bringing native AI to your mobile apps with ExecuTorch— part I — iOS](https://blog.swmansion.com/bringing-native-ai-to-your-mobile-apps-with-executorch-part-i-ios-f1562a4556e8)
+
 [Testing Expo Web3 Apps With Wagmi and Anvil](https://www.callstack.com/blog/testing-expo-web3-apps-with-wagmi-and-anvil)
 
 [Reanimated Can Block Your JS Thread](https://andrei-calazans.com/posts/reanimated-blocking-js-thread/)
