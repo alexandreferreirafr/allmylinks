@@ -671,6 +671,8 @@ A place where I share all my links
 
 ## React Native
 
+[Testing Expo Web3 Apps With Wagmi and Anvil](https://www.callstack.com/blog/testing-expo-web3-apps-with-wagmi-and-anvil)
+
 [Reanimated Can Block Your JS Thread](https://andrei-calazans.com/posts/reanimated-blocking-js-thread/)
 
 [How Starlink built 3d and AR in React Native & Expo](https://www.notjust.dev/blog/react-native-starlink)
