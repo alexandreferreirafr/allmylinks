@@ -333,6 +333,8 @@ A place where I share all my links
 
 ### Testing
 
+[Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
+
 [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 [The Need for Speed: A Quick Way to Improve React Testing Times](https://www.helpscout.com/blog/improve-react-testing-times/)
