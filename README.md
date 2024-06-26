@@ -367,6 +367,8 @@ A place where I share all my links
 
 ### Typing
 
+[How to Pass a Component as a Prop in React](https://www.totaltypescript.com/pass-component-as-prop-react)
+
 [Demystifying React's Types: Component types](https://dev.to/itswillt/explaining-reacts-types-940)
 
 [This Pattern Will Wreck Your React App's TS Performance](https://www.totaltypescript.com/react-apps-ts-performance)
