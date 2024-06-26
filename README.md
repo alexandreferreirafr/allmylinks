@@ -367,7 +367,7 @@ A place where I share all my links
 
 ### Typing
 
-[Type vs Interface: Which Should You Use?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
+[Demystifying React's Types: Component types](https://dev.to/itswillt/explaining-reacts-types-940)
 
 [This Pattern Will Wreck Your React App's TS Performance](https://www.totaltypescript.com/react-apps-ts-performance)
 
@@ -976,6 +976,8 @@ A place where I share all my links
 [Badging for Home Screen Web Apps](https://webkit.org/blog/14112/badging-for-home-screen-web-apps/)
 
 ## Typing
+
+[Type vs Interface: Which Should You Use?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
 
 ['as const' Annotations](https://www.totaltypescript.com/concepts/as-const)
 
