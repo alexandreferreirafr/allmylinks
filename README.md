@@ -671,6 +671,8 @@ A place where I share all my links
 
 ## React Native
 
+[Reanimated Can Block Your JS Thread](https://andrei-calazans.com/posts/reanimated-blocking-js-thread/)
+
 [How Starlink built 3d and AR in React Native & Expo](https://www.notjust.dev/blog/react-native-starlink)
 
 [Flatlist Rendering Techniques](https://www.andydevs.dev/articles/flatlist-rendering-techniques)
