@@ -367,6 +367,8 @@ A place where I share all my links
 
 ### Typing
 
+[How to Use TypeScript Generics with Functional React Components](https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/)
+
 [How to Pass a Component as a Prop in React](https://www.totaltypescript.com/pass-component-as-prop-react)
 
 [Demystifying React's Types: Component types](https://dev.to/itswillt/explaining-reacts-types-940)
