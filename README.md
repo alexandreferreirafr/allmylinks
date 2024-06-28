@@ -51,6 +51,8 @@ A place where I share all my links
 
 ### State Management
 
+[Working with React Context in TypeScript](https://reacttraining.com/blog/react-context-with-typescript)
+
 🎥 [React Advanced London 2023 - Simplifying Data Management in React With React Query](https://portal.gitnation.org/contents/simplifying-data-management-in-react-with-react-query)
 
 [How to Use Jotai and useTransition for Mutation](https://blog.axlight.com/posts/how-to-use-jotai-and-use-transition-for-mutation/)
