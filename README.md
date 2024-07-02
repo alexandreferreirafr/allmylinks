@@ -371,6 +371,8 @@ A place where I share all my links
 
 ### Typing
 
+[TypeScript: React useRef Hook](https://www.robinwieruch.de/typescript-react-useref/)
+
 [How to Use TypeScript Generics with Functional React Components](https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/)
 
 [How to Pass a Component as a Prop in React](https://www.totaltypescript.com/pass-component-as-prop-react)
