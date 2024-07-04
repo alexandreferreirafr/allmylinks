@@ -1165,6 +1165,8 @@ A place where I share all my links
 
 ## Announcements
 
+[Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
+
 [News from WWDC24: WebKit in Safari 18 beta](https://webkit.org/blog/15443/news-from-wwdc24-webkit-in-safari-18-beta/)
 
 [Redis Adopts Dual Source-Available Licensing](https://redis.com/blog/redis-adopts-dual-source-available-licensing/)
