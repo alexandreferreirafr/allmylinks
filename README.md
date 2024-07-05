@@ -335,6 +335,8 @@ A place where I share all my links
 
 ### Testing
 
+[Making your UI tests resilient to change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change)
+
 [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
 
 [Common mistakes with React Testing Library](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
