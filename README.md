@@ -335,6 +335,8 @@ A place where I share all my links
 
 ### Testing
 
+[The Six Benefits of Test-Driven Development](https://www.conformiq.com/resources/blog-the-six-benefits-of-test-driven-development-05-16-2023)
+
 [Making your UI tests resilient to change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change)
 
 [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
