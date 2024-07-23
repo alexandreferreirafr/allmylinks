@@ -445,6 +445,8 @@ A place where I share all my links
 
 ### General
 
+[Component, colocation, composition: A note on the state of React](https://bobaekang.com/blog/component-colocation-composition/)
+
 [React & Codemod Announcement](https://codemod.com/blog/react-announcement)
 
 [How React 19 (Almost) Made the Internet Slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
