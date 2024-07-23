@@ -447,6 +447,8 @@ A place where I share all my links
 
 ### General
 
+[Wait for pending: A Suspense algorithm exploration](https://dev.to/alexandereardon/wait-for-pending-a-not-great-alternative-suspense-algorithm-1gdl)
+
 [Component, colocation, composition: A note on the state of React](https://bobaekang.com/blog/component-colocation-composition/)
 
 [React & Codemod Announcement](https://codemod.com/blog/react-announcement)
