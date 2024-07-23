@@ -221,6 +221,8 @@ A place where I share all my links
 
 ### Animation
 
+[How to make draggable Framer Motion elements snap to breakpoints](https://sinja.io/blog/framer-motion-drag-snap-points)
+
 [Inside Framer's Magic Motion](https://www.nan.fyi/magic-motion)
 
 [Animated page transitions with Remix's nested routes](https://www.jacobparis.com/guides/remix-animated-page-transitions)
