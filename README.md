@@ -229,6 +229,8 @@ A place where I share all my links
 
 ### Performance
 
+[Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
+
 [React Internals Explorer - easily see how React works](https://jser.dev/2024-05-11-introducing-rie/)
 
 [Speeding up the JavaScript ecosystem - Server Side JSX](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-9/)
