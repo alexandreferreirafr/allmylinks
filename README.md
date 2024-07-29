@@ -1011,6 +1011,8 @@ A place where I share all my links
 
 ## Typing
 
+[Using fetch with TypeScript](https://kentcdodds.com/blog/using-fetch-with-type-script)
+
 [Make only part of Typescript properties required](https://www.emmanuelgautier.com/blog/snippets/typescript-required-properties)
 
 [Typescript Is written in… Typescript?: A Look Into How Languages Are Written in Their Own Language.](https://medium.com/swlh/typescript-is-written-in-typescript-a-look-into-how-languages-are-written-in-their-own-language-98d65f640929)
