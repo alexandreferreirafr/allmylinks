@@ -793,6 +793,8 @@ A place where I share all my links
 
 ### Core Web Vitals
 
+[Time to Interactive (TTI)](https://web.dev/articles/tti)
+
 [Demystifying INP: New tools and actionable insights](https://vercel.com/blog/demystifying-inp-new-tools-and-actionable-insights)
 
 [Find slow interactions in the field](https://web.dev/articles/find-slow-interactions-in-the-field)
