@@ -1077,6 +1077,8 @@ A place where I share all my links
 
 ## General
 
+[Just as Google, Theodo Apps believes in Kotlin Multiplatform](https://www.bam.tech/article/just-as-google-bam-believes-in-kotlin-multiplatform)
+
 [How to compose javascript functions that take multiple parameters (the epic guide)](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/)
 
 [JS Toolbox 2024: Runtime environments & package management](https://raygun.com/blog/js-toolbox-part-1/)
