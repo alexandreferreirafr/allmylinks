@@ -691,6 +691,8 @@ A place where I share all my links
 
 ## React Native
 
+[From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react)
+
 [On-device AI/ML in React Native](https://blog.swmansion.com/on-device-ai-ml-in-react-native-137918d0331b)
 
 [Client guide to React Native modules](https://ospfranco.com/client-guide-to-react-native-modules/)
