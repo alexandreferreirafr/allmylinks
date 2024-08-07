@@ -719,6 +719,8 @@ A place where I share all my links
 
 ## Astro
 
+[Astro 4.11](https://astro.build/blog/astro-4110/)
+
 [Using React Query With Astro](https://hounie.me/writings/how-to-use-react-query-with-astro/)
 
 [Zero-JavaScript View Transitions](https://astro.build/blog/future-of-astro-zero-js-view-transitions/)
