@@ -51,6 +51,8 @@ A place where I share all my links
 
 ### State Management
 
+[Is it ok to pass setState as a prop in React?](https://tigerabrodi.blog/is-it-ok-to-pass-setstate-as-a-prop-in-react)
+
 [Working with React Context in TypeScript](https://reacttraining.com/blog/react-context-with-typescript)
 
 🎥 [React Advanced London 2023 - Simplifying Data Management in React With React Query](https://portal.gitnation.org/contents/simplifying-data-management-in-react-with-react-query)
