@@ -691,6 +691,8 @@ A place where I share all my links
 
 ## React Native
 
+[On-device AI/ML in React Native](https://blog.swmansion.com/on-device-ai-ml-in-react-native-137918d0331b)
+
 [Client guide to React Native modules](https://ospfranco.com/client-guide-to-react-native-modules/)
 
 [Bringing native AI to your mobile apps with ExecuTorch— part I — iOS](https://blog.swmansion.com/bringing-native-ai-to-your-mobile-apps-with-executorch-part-i-ios-f1562a4556e8)
