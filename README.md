@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[🎥 React 19's useOptimistic: EVERYTHING you NEED to know](https://www.youtube.com/watch?v=QWVr7uDyBXE)
+
 [Write SOLID React Hooks](https://www.perssondennis.com/articles/write-solid-react-hooks)
 
 [Next.js Server Actions with next-safe-action](https://www.davegray.codes/posts/nextjs-server-actions-with-next-safe-action)
