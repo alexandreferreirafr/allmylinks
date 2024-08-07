@@ -1023,6 +1023,8 @@ A place where I share all my links
 
 ## Typing
 
+[🎥 TypeScript 5.5 is a BANGER](https://www.youtube.com/watch?v=sciBO_IaxTw)
+
 [Using fetch with TypeScript](https://kentcdodds.com/blog/using-fetch-with-type-script)
 
 [Make only part of Typescript properties required](https://www.emmanuelgautier.com/blog/snippets/typescript-required-properties)
