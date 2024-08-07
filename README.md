@@ -691,6 +691,8 @@ A place where I share all my links
 
 ## React Native
 
+[Client guide to React Native modules](https://ospfranco.com/client-guide-to-react-native-modules/)
+
 [Bringing native AI to your mobile apps with ExecuTorch— part I — iOS](https://blog.swmansion.com/bringing-native-ai-to-your-mobile-apps-with-executorch-part-i-ios-f1562a4556e8)
 
 [Testing Expo Web3 Apps With Wagmi and Anvil](https://www.callstack.com/blog/testing-expo-web3-apps-with-wagmi-and-anvil)
