@@ -995,6 +995,8 @@ A place where I share all my links
 
 ## 3D / ThreeJS
 
+[🎥 Optimize for the spatial web](https://developer.apple.com/videos/play/wwdc2024/10065/)
+
 [Shining a light on Caustics with Shaders and React Three Fiber](https://blog.maximeheckel.com/posts/caustics-in-webgl/)
 
 [Progressively Enhanced WebGL Lens Refraction](https://tympanus.net/codrops/2023/10/10/progressively-enhanced-webgl-lens-refraction)
