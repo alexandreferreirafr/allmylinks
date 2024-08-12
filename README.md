@@ -995,6 +995,8 @@ A place where I share all my links
 
 ## 3D / ThreeJS
 
+[🎥 Build immersive web experiences with WebXR](https://developer.apple.com/videos/play/wwdc2024/10066/)
+
 [🎥 Optimize for the spatial web](https://developer.apple.com/videos/play/wwdc2024/10065/)
 
 [Shining a light on Caustics with Shaders and React Three Fiber](https://blog.maximeheckel.com/posts/caustics-in-webgl/)
