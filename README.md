@@ -53,6 +53,8 @@ A place where I share all my links
 
 ### State Management
 
+[Server Side State management in NextJS: a deep dive into React Cache](https://www.yoseph.tech/posts/nextjs/server-side-state-management-in-nextjs-a-deep-dive-into-react-cache)
+
 [Is it ok to pass setState as a prop in React?](https://tigerabrodi.blog/is-it-ok-to-pass-setstate-as-a-prop-in-react)
 
 [Working with React Context in TypeScript](https://reacttraining.com/blog/react-context-with-typescript)
