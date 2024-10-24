@@ -237,6 +237,8 @@ A place where I share all my links
 
 ### Performance
 
+[Sites Now Become Interactive 50% Faster](https://www.framer.com/blog/sites-interactive-faster/)
+
 [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 
 [React Internals Explorer - easily see how React works](https://jser.dev/2024-05-11-introducing-rie/)
