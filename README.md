@@ -709,6 +709,8 @@ A place where I share all my links
 
 ## React Native
 
+[React Native’s New Architecture: The Tricky Parts (1/2)](https://blog.swmansion.com/react-natives-new-architecture-the-tricky-parts-1-2-bb0c16950f2d)
+
 [From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react)
 
 [On-device AI/ML in React Native](https://blog.swmansion.com/on-device-ai-ml-in-react-native-137918d0331b)
