@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Creating a Keyboard Shortcut Hook in React (Deep Dive)](https://www.taniarascia.com/keyboard-shortcut-hook-react/)
+
 [🎥 React 19's useOptimistic: EVERYTHING you NEED to know](https://www.youtube.com/watch?v=QWVr7uDyBXE)
 
 [Write SOLID React Hooks](https://www.perssondennis.com/articles/write-solid-react-hooks)
