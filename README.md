@@ -709,6 +709,8 @@ A place where I share all my links
 
 ## React Native
 
+[How to bring your React Native apps to life using sensors](https://expo.dev/blog/how-to-bring-your-react-native-apps-to-life-using-sensors)
+
 [React Native’s New Architecture: The Tricky Parts (1/2)](https://blog.swmansion.com/react-natives-new-architecture-the-tricky-parts-1-2-bb0c16950f2d)
 
 [From Web to Native with React](https://expo.dev/blog/from-web-to-native-with-react)
