@@ -675,6 +675,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Turbopack Dev is Now Stable](https://nextjs.org/blog/turbopack-for-development-stable)
+
 [React Compiler Beta Release](https://react.dev/blog/2024/10/21/react-compiler-beta-release)
 
 [June 2024 Release: Optimistic cart, RichText component, stable analytics](https://hydrogen.shopify.dev/update/june-2024)
