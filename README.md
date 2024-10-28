@@ -675,6 +675,8 @@ A place where I share all my links
 
 ### Announcements
 
+[Announcing Chakra v3](https://www.chakra-ui.com/blog/00-announcing-v3)
+
 [Turbopack Dev is Now Stable](https://nextjs.org/blog/turbopack-for-development-stable)
 
 [React Compiler Beta Release](https://react.dev/blog/2024/10/21/react-compiler-beta-release)
