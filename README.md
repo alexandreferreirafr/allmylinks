@@ -675,6 +675,8 @@ A place where I share all my links
 
 ### Announcements
 
+[React Compiler Beta Release](https://react.dev/blog/2024/10/21/react-compiler-beta-release)
+
 [June 2024 Release: Optimistic cart, RichText component, stable analytics](https://hydrogen.shopify.dev/update/june-2024)
 
 [Next.js AI Chatbot 2.0](https://vercel.com/changelog/next-js-ai-chatbot-2-0)
