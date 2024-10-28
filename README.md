@@ -457,6 +457,8 @@ A place where I share all my links
 
 ### General
 
+[Perfectly Fitting Text to Container in React](https://sentry.engineering/blog/perfectly-fitting-text-to-container-in-react)
+
 [How Vercel adopted microfrontends](https://vercel.com/blog/how-vercel-adopted-microfrontends)
 
 [Wait for pending: A Suspense algorithm exploration](https://dev.to/alexandereardon/wait-for-pending-a-not-great-alternative-suspense-algorithm-1gdl)
