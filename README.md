@@ -459,6 +459,8 @@ A place where I share all my links
 
 ### General
 
+[🎥 It's finally out!!! (Next.js 15 breakdown)](https://www.youtube.com/watch?v=I-yTjdloeuQ)
+
 [🎥 Next.js is hiding something...](https://www.youtube.com/watch?v=g4g2YUtjh9g)
 
 [Perfectly Fitting Text to Container in React](https://sentry.engineering/blog/perfectly-fitting-text-to-container-in-react)
