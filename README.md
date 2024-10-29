@@ -459,6 +459,8 @@ A place where I share all my links
 
 ### General
 
+[Remix Todo App: Part 1 - Building the App Layout and Structure](https://www.udohjeremiah.com/blog/remix-todo-app-part-1-building-the-app-layout-and-structure)
+
 [🎥 It's finally out!!! (Next.js 15 breakdown)](https://www.youtube.com/watch?v=I-yTjdloeuQ)
 
 [🎥 Next.js is hiding something...](https://www.youtube.com/watch?v=g4g2YUtjh9g)
