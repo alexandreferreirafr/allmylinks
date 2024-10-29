@@ -1109,6 +1109,8 @@ A place where I share all my links
 
 ## General
 
+[🎥 The Wordpress drama keeps getting worse](https://www.youtube.com/watch?v=grZg-BEhKMI)
+
 [New JavaScript Set methods](https://developer.mozilla.org/en-US/blog/javascript-set-methods/)
 
 [Just as Google, Theodo Apps believes in Kotlin Multiplatform](https://www.bam.tech/article/just-as-google-bam-believes-in-kotlin-multiplatform)
