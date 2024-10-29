@@ -459,6 +459,8 @@ A place where I share all my links
 
 ### General
 
+[🎥 Next.js is hiding something...](https://www.youtube.com/watch?v=g4g2YUtjh9g)
+
 [Perfectly Fitting Text to Container in React](https://sentry.engineering/blog/perfectly-fitting-text-to-container-in-react)
 
 [How Vercel adopted microfrontends](https://vercel.com/blog/how-vercel-adopted-microfrontends)
