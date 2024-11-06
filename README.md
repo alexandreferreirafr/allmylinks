@@ -5,6 +5,8 @@ A place where I share all my links
 
 ### Hooks
 
+[Conditional React hooks pattern](https://robinmalfait.com/blog/conditional-react-hooks-pattern)
+
 [Creating a Keyboard Shortcut Hook in React (Deep Dive)](https://www.taniarascia.com/keyboard-shortcut-hook-react/)
 
 [🎥 React 19's useOptimistic: EVERYTHING you NEED to know](https://www.youtube.com/watch?v=QWVr7uDyBXE)
