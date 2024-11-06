@@ -461,6 +461,8 @@ A place where I share all my links
 
 ### General
 
+[Netlify joins OpenNext](https://www.netlify.com/blog/netlify-joins-opennext/)
+
 [Using shadcn/ui with Next.js 15 and React 19](https://ui.shadcn.com/docs/react-19)
 
 [Remix Todo App: Part 1 - Building the App Layout and Structure](https://www.udohjeremiah.com/blog/remix-todo-app-part-1-building-the-app-layout-and-structure)
