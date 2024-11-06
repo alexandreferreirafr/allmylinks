@@ -207,6 +207,8 @@ A place where I share all my links
 
 ### Forms
 
+[HTML Form Validation is heavily underused](https://expressionstatement.com/html-form-validation-is-heavily-underused)
+
 [Accessible, Typesafe, Progressively Enhanced Modern Web Forms](https://www.epicweb.dev/accessible-typesafe-progressively-enhanced-modern-web-forms)
 
 [Form Validation with React Hook Form](https://claritydev.net/blog/form-validation-react-hook-form)
