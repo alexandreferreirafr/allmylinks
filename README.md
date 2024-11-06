@@ -461,6 +461,8 @@ A place where I share all my links
 
 ### General
 
+[Live Streaming with React — More Rust in the JavaScript Ecosystem](https://blog.swmansion.com/live-streaming-with-react-more-rust-in-the-javascript-ecosystem-f83a0371e16c)
+
 [Netlify joins OpenNext](https://www.netlify.com/blog/netlify-joins-opennext/)
 
 [Using shadcn/ui with Next.js 15 and React 19](https://ui.shadcn.com/docs/react-19)
