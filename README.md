@@ -239,6 +239,8 @@ A place where I share all my links
 
 ### Performance
 
+[Our Journey with Caching](https://nextjs.org/blog/our-journey-with-caching)
+
 [Sites Now Become Interactive 50% Faster](https://www.framer.com/blog/sites-interactive-faster/)
 
 [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
